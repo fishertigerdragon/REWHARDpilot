@@ -1,0 +1,544 @@
+/* metadata för variabeln promoted_1 */
+
+INSERT INTO enkättexter VALUES (
+                  "Ditt arbete @ Har du befordrats/fått en högre tjänst under de två senaste åren?",
+                  "Hugo Westerlund"
+              );
+
+INSERT INTO svarstexter VALUES (
+                  "ja",
+                  2006,
+                  2012
+              );
+
+INSERT INTO svarstexter VALUES (
+                  "nej",
+                  2006,
+                  2012
+              );
+
+INSERT INTO svarstexter VALUES (
+                  "missing",
+                  2006,
+                  2018
+              );
+
+INSERT INTO kodlistor VALUES (
+                  "janej1",
+                  2006,
+                  2008
+              );
+
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "janej1",
+                  1,
+                  "ja"
+              );
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "janej1",
+                  2,
+                  "nej"
+              );
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "janej1",
+                  ".",
+                  "missing"
+              );
+
+INSERT INTO variabler VALUES (
+                  "promoted_1",
+                  "slosh 06 work",
+                  "befordran",
+				  "A1a",
+                  "Ditt arbete @ Har du befordrats/fått en högre tjänst under de två senaste åren?",
+                  "janej1"
+              );
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "promoted_1",
+                  "slosh 06 work",
+				  1,
+                  720
+              );
+
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "promoted_1",
+                  "slosh 06 work",
+				  2,
+                  4357
+              );
+
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "promoted_1",
+                  "slosh 06 work",
+				  ".",
+                  64
+              );
+
+/* metadata för promoted_2 */
+
+INSERT INTO enkättexter VALUES (
+                  "Har du fått en annan tjänsteposition de senaste två åren?",
+                  "Hugo Westerlund"
+              );
+
+INSERT INTO svarstexter VALUES (
+                  "Mycket högre",
+                  2008,
+                  2012
+              );
+
+INSERT INTO svarstexter VALUES (
+                  "Något högre",
+                  2008,
+                  2012
+              );
+
+INSERT INTO svarstexter VALUES (
+                  "Oförändrad",
+                  2008,
+                  2018
+              );
+
+INSERT INTO svarstexter VALUES (
+                  "Något lägre",
+                  2008,
+                  2018
+              );
+              
+INSERT INTO svarstexter VALUES (
+                  "Mycket lägre",
+                  2008,
+                  2018
+              );
+
+INSERT INTO kodlistor VALUES (
+                  "omfattning1",
+                  2008,
+                  2008
+              );
+
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "omfattning1",
+                  1,
+                  "Mycket högre"
+              );
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "omfattning1",
+                  2,
+                  "Något högre"
+              );
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "omfattning1",
+                  3,
+                  "Oförändrad"
+              );
+              
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "omfattning1",
+                  4,
+                  "Något lägre"
+              );
+              
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "omfattning1",
+                  5,
+                  "Mycket lägre"
+              );
+              
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "omfattning1",
+                  ".",
+                  "missing"
+              );
+
+INSERT INTO variabler VALUES (
+                  "promoted_2",
+                  "slosh 08 work",
+                  "befordran",
+				  "4",
+                  "Har du fått en annan tjänsteposition de senaste två åren?",
+                  "omfattning1"
+              );
+              
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "promoted_2",
+                  "slosh 08 work",
+				  1,
+                  220
+              );
+
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "promoted_2",
+                  "slosh 08 work",
+				  2,
+                  1639
+              );
+
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "promoted_2",
+                  "slosh 08 work",
+				  3,
+                  7520
+
+              );
+              
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "promoted_2",
+                  "slosh 08 work",
+				  4,
+                  221
+
+              );
+              
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "promoted_2",
+                  "slosh 08 work",
+				  5,
+                  48
+
+              );
+              
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "promoted_2",
+                  "slosh 08 work",
+				  ".",
+                  108
+
+              );
+			  
+/* metadata för workfast_2 som är w+n och är dubbelkodad. Det är skillnader i termer av kodlista/enkättext osv mellan w och n. Detta är working. */
+
+INSERT INTO enkättexter VALUES (
+                  "Kräver ditt arbete att du arbetar mycket fort?",
+                  "Okänt"
+              );
+
+INSERT INTO svarstexter VALUES (
+                  "Ja, ofta",
+                  2008,
+                  2012
+              );
+
+INSERT INTO svarstexter VALUES (
+                  "Ja, ibland",
+                  2008,
+                  2012
+              );
+			  
+INSERT INTO svarstexter VALUES (
+                  "Nej, sällan",
+                  2008,
+                  2012
+              );
+			  
+INSERT INTO svarstexter VALUES (
+                  "Nej, så gott som aldrig/aldrig",
+                  2008,
+                  2012
+              );
+
+INSERT INTO kodlistor VALUES (
+                  "ofta1",
+                  2008,
+                  2012
+              );
+
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "ofta1",
+                  1,
+                  "Ja, ofta"
+              );
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "ofta1",
+                  2,
+                  "Ja, ibland"
+              );
+			  
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "ofta1",
+                  3,
+                  "Nej, sällan"
+              );
+			  
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "ofta1",
+                  4,
+                  "Nej, så gott som aldrig/aldrig"
+              );
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "ofta1",
+                  ".",
+                  "missing"
+              );
+
+INSERT INTO variabler VALUES (
+                  "workfast_2",
+                  "slosh 08 work",
+                  "arbeta fort",
+				  "7a",
+                  "Kräver ditt arbete att du arbetar mycket fort?",
+                  "ofta1"
+              );
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "workfast_2",
+                  "slosh 08 work",
+				  1,
+                  2357
+              );
+
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "workfast_2",
+                  "slosh 08 work",
+				  2,
+                  5716
+              );
+			  
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "workfast_2",
+                  "slosh 08 work",
+				  3,
+                  1433
+              );
+			  
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "workfast_2",
+                  "slosh 08 work",
+				  4,
+                  197
+              );
+			  
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "workfast_2",
+                  "slosh 08 work",
+				  ".",
+                  53
+              );
+			  
+/* metadata för workfast_2 som är w+n och är dubbelkodad. Det är skillnader i termer av kodlista/enkättext osv mellan w och n. Detta är non-working. */
+			  
+			  
+INSERT INTO enkättexter VALUES (
+                  "Följande frågor gäller din senaste arbetsplats tiden strax innan du slutade arbeta: @ Krävde ditt arbete att du arbetade mycket fort?",
+                  "Okänt"
+              );
+
+INSERT INTO variabler VALUES (
+                  "workfast_2",
+                  "slosh 08 non-work",
+                  "arbeta fort",
+				  "19a",
+                  "Följande frågor gäller din senaste arbetsplats tiden strax innan du slutade arbeta: @ Krävde ditt arbete att du arbetade mycket fort?",
+                  "ofta1"
+              );
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "workfast_2",
+                  "slosh 08 non-work",
+				  1,
+                  412
+              );
+
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "workfast_2",
+                  "slosh 08 non-work",
+				  2,
+                  819
+              );
+			  
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "workfast_2",
+                  "slosh 08 non-work",
+				  3,
+                  263
+              );
+			  
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "workfast_2",
+                  "slosh 08 non-work",
+				  4,
+                  115
+              );
+			  
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "workfast_2",
+                  "slosh 08 non-work",
+				  ".",
+                  76
+              );
+			  
+/* metadata för variabeln futuwork_4 som är w+n men ej dubbelkodad. Detta är futuwork_4 working */
+
+INSERT INTO enkättexter VALUES (
+                  "Det företag/den arbetsplats du arbetar på, är det den arbetsplats du önskar arbeta på i framtiden?",
+                  "Okänt"
+              );
+
+INSERT INTO svarstexter VALUES (
+                  "Nej, men jag är nöjd just nu",
+                  2012,
+                  2018
+              );
+			  
+INSERT INTO svarstexter VALUES (
+                  "Nej, jag är missnöjd med arbetsplatsen",
+                  2012,
+                  2016
+              );
+
+INSERT INTO kodlistor VALUES (
+                  "nöjd2",
+                  2012,
+                  2018
+              );
+
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "nöjd2",
+                  1,
+                  "ja"
+              );
+
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "nöjd2",
+                  2,
+                  "Nej, men jag är nöjd just nu"
+              );
+			  
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "nöjd2",
+                  3,
+                  "Nej, jag är missnöjd med arbetsplatsen"
+              );
+			  
+INSERT INTO kodlistor_stor VALUES (
+                  NULL,
+                  "nöjd2",
+                  ".",
+                  "missing"
+              );
+
+INSERT INTO variabler VALUES (
+                  "futuwork_4",
+                  "slosh 12 work",
+                  "arbeta fort",
+				  "63",
+                  "Det företag/den arbetsplats du arbetar på, är det den arbetsplats du önskar arbeta på i framtiden?",
+                  "nöjd2"
+              );
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "futuwork_4",
+                  "slosh 12 work",
+				  1,
+                  3842
+              );
+
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "futuwork_4",
+                  "slosh 12 work",
+				  2,
+                  2748
+              );
+			  
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "futuwork_4",
+                  "slosh 12 work",
+				  3,
+                  634
+              );
+			  
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "futuwork_4",
+                  "slosh 12 work",
+				  ".",
+                  101
+              );
+
+/* metadata för variabeln futuwork_4 som är w+n men ej dubbelkodad. Detta är futuwork_4 non-working */
+
+INSERT INTO variabler VALUES (
+                  "futuwork_4",
+                  "slosh 12 non-work",
+                  "arbeta fort",
+				  "38",
+                  "Det företag/den arbetsplats du arbetar på, är det den arbetsplats du önskar arbeta på i framtiden?",
+                  "nöjd2"
+              );
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "futuwork_4",
+                  "slosh 12 non-work",
+				  1,
+                  211
+              );
+
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "futuwork_4",
+                  "slosh 12 non-work",
+				  2,
+                  183
+              );
+			  
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "futuwork_4",
+                  "slosh 12 non-work",
+				  3,
+                  27
+              );
+			  
+INSERT INTO frekvenstabeller VALUES (
+                  NULL,
+                  "futuwork_4",
+                  "slosh 12 non-work",
+				  ".",
+                  2134
+              );

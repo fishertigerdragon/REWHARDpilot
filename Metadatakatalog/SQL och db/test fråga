@@ -1,0 +1,9 @@
+/* frekvenstabell för variabeln promoted_1*/
+select variabler.variabel, variabler.enkättext, kodlistor_stor.svarstext, frekvenstabeller.kod, frekvenstabeller.frekvens
+from frekvenstabeller
+inner join variabler
+on frekvenstabeller.variabel = variabler.variabel
+inner join kodlistor_stor
+on variabler.kodlista = kodlistor_stor.kodlista and frekvenstabeller.kod = kodlistor_stor.kod
+where frekvenstabeller.variabel = "promoted_1"
+;

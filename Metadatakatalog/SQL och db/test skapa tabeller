@@ -1,0 +1,89 @@
+CREATE TABLE svarstexter (
+    svarstext TEXT PRIMARY KEY,
+    frånom    TEXT,
+    tillom    TEXT
+);
+
+CREATE TABLE kodlistor (
+    kodlista TEXT PRIMARY KEY,
+    frånom   TEXT,
+    tillom   TEXT
+);
+
+CREATE TABLE kodlistor_stor (
+    k_id      INTEGER PRIMARY KEY,
+    kodlista  TEXT,
+    kod       TEXT,
+    svarstext TEXT,
+    FOREIGN KEY (
+        svarstext
+    )
+    REFERENCES svarstexter (svarstext),
+    FOREIGN KEY (
+        kodlista
+    )
+    REFERENCES kodlistor (kodlista) 
+);
+
+CREATE TABLE enkättexter (
+    enkättext TEXT PRIMARY KEY,
+    källa     TEXT
+);
+
+CREATE TABLE variabler (
+    variabel    TEXT,
+    enkät       TEXT,
+    beskrivning TEXT,
+	itemnr 		TEXT,
+    enkättext   TEXT,
+    kodlista    TEXT,
+    PRIMARY KEY (
+        variabel,
+        enkät
+    ),
+    FOREIGN KEY (
+        enkättext
+    )
+    REFERENCES enkättexter (enkättext),
+    FOREIGN KEY (
+        kodlista
+    )
+    REFERENCES kodlistor (kodlista) 
+);
+
+CREATE TABLE frekvenstabeller (
+    v_id     INTEGER PRIMARY KEY,
+    variabel TEXT,
+    enkät    TEXT,
+	kod		 TEXT,
+    frekvens INTEGER
+);
+
+CREATE TABLE begrepp (
+    begrepp TEXT PRIMARY KEY
+);
+
+create table begrepp_stor (
+	variabel text,
+	begrepp text,
+	foreign key (variabel)
+		references variabler (variabel),
+	foreign key (begrepp)
+		references begrepp (begrepp),
+	PRIMARY KEY (variabel, begrepp)
+);
+
+create table tidsserier (
+	tidsserie TEXT primary KEY
+);
+
+create table tidsserier_stor (
+	variabel text,
+	tidsserie text,
+	foreign key (variabel)
+		references variabler (variabel),
+	foreign key (tidsserie)
+		references tidsserier (tidsserie),
+	PRIMARY KEY (variabel, tidsserie)
+);
+	

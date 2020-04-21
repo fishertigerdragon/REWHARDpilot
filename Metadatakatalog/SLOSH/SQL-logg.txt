@@ -1,0 +1,4 @@
+INSERT INTO mat ('a', 'b') VALUES ('ett', 'två');
+ 
+INSERT INTO mat ('a', 'b') VALUES ('två', 'två');
+ 

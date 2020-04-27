@@ -353,385 +353,384 @@ K_ID,Kodlista,Kod,Svarstext
 351,67,6,"Nej, inte alls"
 352,67,>11,slask
 353,67,.,Missing
-354,67,>11,slak
-355,68,1,Mycket nöjd
-356,68,2,Ganska nöjd
-357,68,3,Ganska missnöjd
-358,68,4,Mycket missnöjd
-359,68,.,Missing
-360,69,1,Inte alls
-361,69,2,I ringa grad
-362,69,3,I ganska hög grad
-363,69,4,I hög grad
-364,69,5,I mycket hög grad
-365,69,.,Missing
-366,70,1,Inte alls
-367,70,2,I liten grad
-368,70,3,I ganska hög grad
-369,70,4,I hög grad
-370,70,5,I mycket hög grad
-371,70,6,Inte aktuellt
-372,70,.,Missing
-373,71,1,Ja
-374,71,2,"Nej, men jag är nöjd just nu"
-375,71,3,"Nej, jag är missnöjd med arbetsplatsen"
-376,71,.,Missing
-377,72,1,Ja
-378,72,2,"Nej, men jag är nöjd just nu"
-379,72,3,"Nej, jag är missnöjd med yrket"
-380,72,.,Missing
-381,73,1,Ja
-382,73,2,"Nej, men jag är nöjd just nu"
-383,73,3,"Nej, jag är missnöjd med företaget/arbetsplatsen"
-384,73,.,Missing
-385,74,1,Ja
-386,74,2,"Nej, men jag är nöjd just nu"
-387,74,3,"Nej, jag är missnöjd med arbetsplatsen"
-388,74,>11,slask
-389,74,.,Missing
-390,75,1,Ja
-391,75,2,"Nej, men jag är nöjd just nu"
-392,75,3,"Nej, jag är missnöjd med yrket"
-393,75,>11,slask
-394,75,.,Missing
-395,76,1,... mycket överkvalificerad
-396,76,2,... är överkvalificerad i vissa avseenden
-397,76,3,... är lagom kvalificerad
-398,76,4,... skulle behöva ytterligare vissa kunskaper
-399,76,5,... skulle behöva en hel del ytterligare kunskaper
-400,76,.,Missing
-401,77,1,... mycket överkvalificerad
-402,77,2,... är överkvalificerad i vissa avseenden
-403,77,3,... är lagom kvalificerad
-404,77,4,... skulle behöva ytterligare vissa kunskaper
-405,77,5,... skulle behöva en hel del ytterligare kunskaper
-406,77,>11,slask
-407,77,.,Missing
-408,78,1,Aldrig
-409,78,2,Någon gång per år
-410,78,3,Någon gång per månad
-411,78,4,Någon gång i veckan eller oftare
-412,78,.,Missing
-413,79,1,Aldrig
-414,79,2,Någon gång per år
-415,79,3,Någon gång per månad
-416,79,4,Någon gång i veckan eller oftare
-417,79,>11,slask
-418,79,.,Missing
-419,80,1,Mycket sällan
-420,80,2,Ganska sällan
-421,80,3,Ibland
-422,80,4,Mycket ofta
-423,80,5,Alltid
-424,80,.,Missing
-425,81,1,Ja
-426,81,2,Nej
-427,81,>11,slask
-428,81,.,Missing
-429,82,0-99,0-99
-430,82,.,Missing
-431,83,0-99,0-99
-432,83,.,Missing
-433,83,>99,slask
-434,84,0-9999,0-9999
-435,84,.,Missing
-436,85,1,Har ingen arbetsgrupp
-437,85,2,1-4 personer
-438,85,3,5-9 personer
-439,85,4,10-19 personer
-440,85,5,20 personer eller fler
-441,85,.,Missing
-442,86,1,Har ingen arbetsgrupp
-443,86,2,1-4 personer
-444,86,3,5-9 personer
-445,86,4,10-19 personer
-446,86,5,20 personer eller fler
-447,86,>11,slask
-448,86,.,Missing
-449,87,1,0-4 anställda
-450,87,2,5-9 anställda
-451,87,3,10-19 anställda
-452,87,4,20-49 anställda
-453,87,5,50-99 anställda
-454,87,6,100-499 anställda
-455,87,7,500 anställda eller fler
-456,87,.,Missing
-457,88,1,0
-458,88,2,1-9
-459,88,3,10 eller fler
-460,88,>11,slask
-461,88,.,Missing
-462,89,1,0
-463,89,2,1-9
-464,89,3,10 eller fler
-465,89,.,Missing
-466,90,1,0
-467,90,2,1-5
-468,90,3,6-10
-469,90,4,11-25
-470,90,5,Fler än 25
-471,90,.,Missing
-472,91,1,Arbetare
-473,91,2,Tjänsteman
-474,91,3,Chef
-475,91,4,Annat
-476,91,.,Missing
-477,92,1,Arbetare
-478,92,2,Tjänsteman
-479,92,3,Annat
-480,92,.,Missing
-481,93,1,Nej
-482,93,2,"Ja, jag är arbetsledare men inte chef"
-483,93,3,"Ja, jag är chef utan personalansvar"
-484,93,4,"Ja, jag är chef med personalansvar"
-485,93,.,Missing
-486,94,1,Nej
-487,94,2,"Ja, jag är arbetsledare men inte chef"
-488,94,3,"Ja, jag är chef utan personalansvar"
-489,94,4,"Ja, jag är chef med personalansvar"
-490,94,>11,slask
-491,94,.,Missing
-492,95,1,0-4 personer
-493,95,2,5-9 personer
-494,95,3,10-19 personer
-495,95,4,20-49 personer
-496,95,5,50-99 personer
-497,95,6,100-499 personer
-498,95,7,500 personer eller fler
-499,95,.,Missing
-500,96,1,1-4 anställda
-501,96,2,5-19 anställda
-502,96,3,20-99 anställda
-503,96,4,100 anställda eller fler
-504,96,.,Missing
-505,97,1,1-4 anställda
-506,97,2,5-19 anställda
-507,97,3,20-99 anställda
-508,97,4,100 anställda eller fler
-509,97,>11,slask
-510,97,.,Missing
-511,98,1,Heltid
-512,98,2,"Deltid, ange hur många procent av heltid"
-513,98,.,Missing
-514,99,1,Heltid
-515,99,2,Deltid
-516,99,.,Missing
-517,100,1,Heltid
-518,100,2,Deltid med fast arbetstid
-519,100,3,Timanställd/varierande anställning
-520,100,4,Ej anställd (t.ex. jordbrukare)
-521,100,.,Missing
-522,101,1,Heltid
-523,101,2,Deltid med fast arbetstid
-524,101,3,Timanställd/varierande anställning
-525,101,4,Ej anställd (t.ex. jordbrukare)
-526,101,>11,slask
-527,101,.,Missing
-528,102,1,"Ja, jag är nöjd"
-529,102,2,"Nej, jag skulle vilja arbeta fler timmar per vecka"
-530,102,3,"Nej, jag skulle vilja arbeta färre timmar per vecka"
-531,102,.,Missing
-532,103,1,Egen företagare
-533,103,2,Tillsvidareanställning/fast anställning
-534,103,3,Vikariat
-535,103,4,Projektanställning
-536,103,5,Timanställning (under 20 timmar/vecka)
-537,103,6,Annan anställningsform:
-538,103,7,slask
-539,103,.,Missing
-540,104,1,Tillsvidareanställning/Fast anställning
-541,104,2,Visstidsanställning/Projektanställning
-542,104,3,Vikariat
-543,104,4,Timanställning
-544,104,5,Egenföretagare
-545,104,6,Lantbrukare
-546,104,7,Annan anställningsform:
-547,104,8,slask
-548,104,.,Missing
-549,105,1,"a, har flextid (dvs. arbetstid som inte börjar eller slutar på exakta klockslag)"
-550,105,2,"Ja, på annat sätt relativt fria arbetstider"
-551,105,3,"Nej, kan i allmänhet inte påverka arbetstiden"
-552,105,.,Missing
-553,106,1,Privat företag
-554,106,2,Förening/Ideell organisation
-555,106,3,Kommunen
-556,106,4,Landstinget/Regionen
-557,106,5,Staten
-558,106,6,"Annat, ange vad"
-559,106,.,Missing
-560,107,1,Privat företag
-561,107,2,Förening/Ideell organisation
-562,107,3,Kommunen
-563,107,4,Landsting/Region
-564,107,5,Staten
-565,107,6,Eget företag/lantbruk
-566,107,7,"Annat, ange vad"
-567,107,.,Missing
-568,108,1,Privat företag
-569,108,2,Förening/Ideell organisation
-570,108,3,Kommunen
-571,108,4,Landsting/Region
-572,108,5,Staten
-573,108,6,Eget företag/lantbruk
-574,108,7,"Annat, ange vad"
-575,108,8,slask
-576,109,1,Privat företag
-577,109,2,Förening/Ideell organisation
-578,109,3,Kommunen
-579,109,4,Landsting/Region
-580,109,5,Staten
-581,109,6,Eget företag/lantbruk
-582,109,7,"Annat, ange vad"
-583,109,>11,slask
-584,109,.,Missing
-585,110,1,"Ja, stor"
-586,110,2,"Ja, ganska stor"
-587,110,3,"Nej, ganska liten"
-588,110,4,"Nej, liten"
-589,110,.,Missing
-590,111,1,Dagarbete (ca 06–18)
-591,111,2,Kvällsarbete (ca 18–22)
-592,111,3,Nattarbete (ca 18–06)
-593,111,4,"Skiftarbete, tvåskift"
-594,111,5,"Skiftarbete, treskift"
-595,111,6,Turlistearbete (dvs. arbetstid enligt tjänstgöringsschema)
-596,111,7,Förtroendearbetstid/oreglerad arbetstid
-597,111,8,Annan arbetstid
-598,111,9,slask
-599,111,.,Missing
-600,112,1,Dagarbete (ca 06–18)
-601,112,2,Kvällsarbete (ca 18–22)
-602,112,3,Nattarbete (ca 18–06)
-603,112,4,"Skiftarbete, ej natt"
-604,112,5,"Skiftarbete, inklusive natt"
-605,112,6,"Turlistearbete (dvs. arbetstid enligt tjänstgöringsschema), ej natt"
-606,112,7,"Turlistearbete (dvs. arbetstid enligt tjänstgöringsschema), inklusive natt"
-607,112,8,Förtroendearbetstid/oreglerad arbetstid
-608,112,9,Annan arbetstid
-609,112,.,Missing
-610,113,1,Dagarbete (ca 06–18)
-611,113,2,Kvällsarbete (ca 18–22)
-612,113,3,Nattarbete (ca 18–06)
-613,113,4,"Skiftarbete, ej natt"
-614,113,5,"Skiftarbete, inklusive natt"
-615,113,6,"Turlistearbete (dvs. arbetstid enligt tjänstgöringsschema), ej natt"
-616,113,7,"Turlistearbete (dvs. arbetstid enligt tjänstgöringsschema), inklusive natt"
-617,113,8,Förtroendearbetstid/oreglerad arbetstid
-618,113,9,Annan arbetstid
-619,113,>11,slask
-620,113,.,Missing
-621,114,1,Alltid
-622,114,2,Ofta
-623,114,3,Ibland
-624,114,4,Sällan
-625,114,5,Aldrig
-626,114,.,Missing
-627,115,1,Hela eller i stort sett hela arbetstiden
-628,115,2,3-4 dagar i veckan
-629,115,3,1-2 dagar i veckan
-630,115,4,Några timmar i veckan
-631,115,5,Arbetar inte hemma
-632,115,.,Missing
-633,116,1,"Fast lön (timlön, veckolön, månadslön)"
-634,116,2,Lön som är kopplad till OB-ersättningar (inklusive jourersättning)
-635,116,3,"Lön med tillägg, som är kopplat till eget resultat, t ex ackordslön, prestationslön"
-636,116,4,"Lön med tillägg, som är kopplat till arbetsgrupps resultat, t ex ackordslön"
-637,116,5,"Lön med tillägg, som är kopplat till företagets resultat"
-638,116,6,Ren (100 %) prestationslön
-639,116,7,Annan löneform
-640,116,.,Missing
-641,117,1,"Nej, ingen gång"
-642,117,2,"Ja, en gång"
-643,117,3,"Ja, 2-3 gånger"
-644,117,4,"Ja, 4 gånger eller mer"
-645,117,5,Ej aktuellt
-646,117,.,Missing
-647,118,1,"Nej, ingen gång"
-648,118,2,"Ja, en gång"
-649,118,3,"Ja, 2-3 gånger"
-650,118,4,"Ja, 4 gånger eller mer"
-651,118,.,Missing
-652,119,1,"Nej, ingen gång (ej aktuellt)"
-653,119,2,"Ja, en gång"
-654,119,3,"Ja, 2-3 gånger"
-655,119,4,"Ja, 4 gånger eller mer"
-656,119,.,Missing
-657,120,1,"Nej, ingen gång (ej aktuellt)"
-658,120,2,"Ja, en gång"
-659,120,3,"Ja, 2-3 gånger"
-660,120,4,"Ja, 4 gånger eller mer"
-661,120,>11,slask
-662,120,.,Missing
-663,121,1,I mycket hög grad
-664,121,2,I hög grad
-665,121,3,I liten grad
-666,121,4,I mycket liten grad
-667,121,5,Inte alls
-668,121,>11,slask
-669,121,.,Missing
-670,122,1,Mycket bra
-671,122,2,Ganska bra
-672,122,3,Varken bra eller dåligt
-673,122,4,Ganska dåligt
-674,122,5,Mycket dåligt
-675,122,.,Missing
-676,123,1,Mycket bra
-677,123,2,Ganska bra
-678,123,3,Varken bra eller dåligt
-679,123,4,Ganska dåligt
-680,123,5,Mycket dåligt
-681,123,>11,slask
-682,123,.,Missing
-683,124,1,Nej
-684,124,2,"Ja, men påverkar inte alls mitt liv"
-685,124,3,"Ja, påverkar mitt liv lite"
-686,124,4,"Ja, påverkar mitt liv mycket"
-687,124,.,Missing
-688,125,1,Nej
-689,125,2,"Ja, men det påverkar inte alls mitt liv"
-690,125,3,"Ja, det påverkar mitt liv lite"
-691,125,4,"Ja, det påverkar mitt liv mycket"
-692,125,.,Missing
-693,126,1,Nej
-694,126,2,"Ja, men påverkar inte alls mitt liv"
-695,126,3,"Ja, påverkar mitt liv lite"
-696,126,4,"Ja, påverkar mitt liv mycket"
-697,126,>11,slask
-698,126,.,Missing
-699,127,1,Alltid
-700,127,2,Ofta
-701,127,3,Ibland
-702,127,4,Sällan
-703,127,5,Aldrig
-704,127,>11,slask
-705,127,.,Missing
-706,128,1,Varje dag
-707,128,2,Några gånger per vecka
-708,128,3,Någon gång per vecka
-709,128,4,Några gånger per månad
-710,128,5,Någon gång per månad
-711,128,6,Några gånger per år eller mindre/Aldrig
-712,128,.,Missing
-713,129,1,Mycket god
-714,129,2,Ganska god
-715,129,3,Varken god eller dålig
-716,129,4,Ganska dålig
-717,129,5,Mycket dålig
-718,129,.,Missing
-719,130,1,Mycket god
-720,130,2,Ganska god
-721,130,3,Varken god eller dålig
-722,130,4,Ganska dålig
-723,130,5,Mycket dålig
-724,130,>11,slask
-725,130,.,Missing
-726,131,0-999,0-999
-727,131,.,Missing
-728,119,1,Ingen gång
-729,119,2,En gång
-730,119,3,Två till tre gånger
-731,119,4,Fyra gånger eller mer
-732,120,1,Ingen gång
-733,120,2,En gång
-734,120,3,Två till tre gånger
-735,120,4,Fyra gånger eller mer
+354,68,1,Mycket nöjd
+355,68,2,Ganska nöjd
+356,68,3,Ganska missnöjd
+357,68,4,Mycket missnöjd
+358,68,.,Missing
+359,69,1,Inte alls
+360,69,2,I ringa grad
+361,69,3,I ganska hög grad
+362,69,4,I hög grad
+363,69,5,I mycket hög grad
+364,69,.,Missing
+365,70,1,Inte alls
+366,70,2,I liten grad
+367,70,3,I ganska hög grad
+368,70,4,I hög grad
+369,70,5,I mycket hög grad
+370,70,6,Inte aktuellt
+371,70,.,Missing
+372,71,1,Ja
+373,71,2,"Nej, men jag är nöjd just nu"
+374,71,3,"Nej, jag är missnöjd med arbetsplatsen"
+375,71,.,Missing
+376,72,1,Ja
+377,72,2,"Nej, men jag är nöjd just nu"
+378,72,3,"Nej, jag är missnöjd med yrket"
+379,72,.,Missing
+380,73,1,Ja
+381,73,2,"Nej, men jag är nöjd just nu"
+382,73,3,"Nej, jag är missnöjd med företaget/arbetsplatsen"
+383,73,.,Missing
+384,74,1,Ja
+385,74,2,"Nej, men jag är nöjd just nu"
+386,74,3,"Nej, jag är missnöjd med arbetsplatsen"
+387,74,>11,slask
+388,74,.,Missing
+389,75,1,Ja
+390,75,2,"Nej, men jag är nöjd just nu"
+391,75,3,"Nej, jag är missnöjd med yrket"
+392,75,>11,slask
+393,75,.,Missing
+394,76,1,... mycket överkvalificerad
+395,76,2,... är överkvalificerad i vissa avseenden
+396,76,3,... är lagom kvalificerad
+397,76,4,... skulle behöva ytterligare vissa kunskaper
+398,76,5,... skulle behöva en hel del ytterligare kunskaper
+399,76,.,Missing
+400,77,1,... mycket överkvalificerad
+401,77,2,... är överkvalificerad i vissa avseenden
+402,77,3,... är lagom kvalificerad
+403,77,4,... skulle behöva ytterligare vissa kunskaper
+404,77,5,... skulle behöva en hel del ytterligare kunskaper
+405,77,>11,slask
+406,77,.,Missing
+407,78,1,Aldrig
+408,78,2,Någon gång per år
+409,78,3,Någon gång per månad
+410,78,4,Någon gång i veckan eller oftare
+411,78,.,Missing
+412,79,1,Aldrig
+413,79,2,Någon gång per år
+414,79,3,Någon gång per månad
+415,79,4,Någon gång i veckan eller oftare
+416,79,>11,slask
+417,79,.,Missing
+418,80,1,Mycket sällan
+419,80,2,Ganska sällan
+420,80,3,Ibland
+421,80,4,Mycket ofta
+422,80,5,Alltid
+423,80,.,Missing
+424,81,1,Ja
+425,81,2,Nej
+426,81,>11,slask
+427,81,.,Missing
+428,82,0-99,0-99
+429,82,.,Missing
+430,83,0-99,0-99
+431,83,.,Missing
+432,83,>99,slask
+433,84,0-9999,0-9999
+434,84,.,Missing
+435,85,1,Har ingen arbetsgrupp
+436,85,2,1-4 personer
+437,85,3,5-9 personer
+438,85,4,10-19 personer
+439,85,5,20 personer eller fler
+440,85,.,Missing
+441,86,1,Har ingen arbetsgrupp
+442,86,2,1-4 personer
+443,86,3,5-9 personer
+444,86,4,10-19 personer
+445,86,5,20 personer eller fler
+446,86,>11,slask
+447,86,.,Missing
+448,87,1,0-4 anställda
+449,87,2,5-9 anställda
+450,87,3,10-19 anställda
+451,87,4,20-49 anställda
+452,87,5,50-99 anställda
+453,87,6,100-499 anställda
+454,87,7,500 anställda eller fler
+455,87,.,Missing
+456,88,1,0
+457,88,2,1-9
+458,88,3,10 eller fler
+459,88,>11,slask
+460,88,.,Missing
+461,89,1,0
+462,89,2,1-9
+463,89,3,10 eller fler
+464,89,.,Missing
+465,90,1,0
+466,90,2,1-5
+467,90,3,6-10
+468,90,4,11-25
+469,90,5,Fler än 25
+470,90,.,Missing
+471,91,1,Arbetare
+472,91,2,Tjänsteman
+473,91,3,Chef
+474,91,4,Annat
+475,91,.,Missing
+476,92,1,Arbetare
+477,92,2,Tjänsteman
+478,92,3,Annat
+479,92,.,Missing
+480,93,1,Nej
+481,93,2,"Ja, jag är arbetsledare men inte chef"
+482,93,3,"Ja, jag är chef utan personalansvar"
+483,93,4,"Ja, jag är chef med personalansvar"
+484,93,.,Missing
+485,94,1,Nej
+486,94,2,"Ja, jag är arbetsledare men inte chef"
+487,94,3,"Ja, jag är chef utan personalansvar"
+488,94,4,"Ja, jag är chef med personalansvar"
+489,94,>11,slask
+490,94,.,Missing
+491,95,1,0-4 personer
+492,95,2,5-9 personer
+493,95,3,10-19 personer
+494,95,4,20-49 personer
+495,95,5,50-99 personer
+496,95,6,100-499 personer
+497,95,7,500 personer eller fler
+498,95,.,Missing
+499,96,1,1-4 anställda
+500,96,2,5-19 anställda
+501,96,3,20-99 anställda
+502,96,4,100 anställda eller fler
+503,96,.,Missing
+504,97,1,1-4 anställda
+505,97,2,5-19 anställda
+506,97,3,20-99 anställda
+507,97,4,100 anställda eller fler
+508,97,>11,slask
+509,97,.,Missing
+510,98,1,Heltid
+511,98,2,"Deltid, ange hur många procent av heltid"
+512,98,.,Missing
+513,99,1,Heltid
+514,99,2,Deltid
+515,99,.,Missing
+516,100,1,Heltid
+517,100,2,Deltid med fast arbetstid
+518,100,3,Timanställd/varierande anställning
+519,100,4,Ej anställd (t.ex. jordbrukare)
+520,100,.,Missing
+521,101,1,Heltid
+522,101,2,Deltid med fast arbetstid
+523,101,3,Timanställd/varierande anställning
+524,101,4,Ej anställd (t.ex. jordbrukare)
+525,101,>11,slask
+526,101,.,Missing
+527,102,1,"Ja, jag är nöjd"
+528,102,2,"Nej, jag skulle vilja arbeta fler timmar per vecka"
+529,102,3,"Nej, jag skulle vilja arbeta färre timmar per vecka"
+530,102,.,Missing
+531,103,1,Egen företagare
+532,103,2,Tillsvidareanställning/fast anställning
+533,103,3,Vikariat
+534,103,4,Projektanställning
+535,103,5,Timanställning (under 20 timmar/vecka)
+536,103,6,Annan anställningsform:
+537,103,7,slask
+538,103,.,Missing
+539,104,1,Tillsvidareanställning/Fast anställning
+540,104,2,Visstidsanställning/Projektanställning
+541,104,3,Vikariat
+542,104,4,Timanställning
+543,104,5,Egenföretagare
+544,104,6,Lantbrukare
+545,104,7,Annan anställningsform:
+546,104,8,slask
+547,104,.,Missing
+548,105,1,"Ja, har flextid (dvs. arbetstid som inte börjar eller slutar på exakta klockslag)"
+549,105,2,"Ja, på annat sätt relativt fria arbetstider"
+550,105,3,"Nej, kan i allmänhet inte påverka arbetstiden"
+551,105,.,Missing
+552,106,1,Privat företag
+553,106,2,Förening/Ideell organisation
+554,106,3,Kommunen
+555,106,4,Landstinget/Regionen
+556,106,5,Staten
+557,106,6,"Annat, ange vad"
+558,106,.,Missing
+559,107,1,Privat företag
+560,107,2,Förening/Ideell organisation
+561,107,3,Kommunen
+562,107,4,Landsting/Region
+563,107,5,Staten
+564,107,6,Eget företag/lantbruk
+565,107,7,"Annat, ange vad"
+566,107,.,Missing
+567,108,1,Privat företag
+568,108,2,Förening/Ideell organisation
+569,108,3,Kommunen
+570,108,4,Landsting/Region
+571,108,5,Staten
+572,108,6,Eget företag/lantbruk
+573,108,7,"Annat, ange vad"
+574,108,8,slask
+575,109,1,Privat företag
+576,109,2,Förening/Ideell organisation
+577,109,3,Kommunen
+578,109,4,Landsting/Region
+579,109,5,Staten
+580,109,6,Eget företag/lantbruk
+581,109,7,"Annat, ange vad"
+582,109,>11,slask
+583,109,.,Missing
+584,110,1,"Ja, stor"
+585,110,2,"Ja, ganska stor"
+586,110,3,"Nej, ganska liten"
+587,110,4,"Nej, liten"
+588,110,.,Missing
+589,111,1,Dagarbete (ca 06–18)
+590,111,2,Kvällsarbete (ca 18–22)
+591,111,3,Nattarbete (ca 18–06)
+592,111,4,"Skiftarbete, tvåskift"
+593,111,5,"Skiftarbete, treskift"
+594,111,6,Turlistearbete (dvs. arbetstid enligt tjänstgöringsschema)
+595,111,7,Förtroendearbetstid/oreglerad arbetstid
+596,111,8,Annan arbetstid
+597,111,9,slask
+598,111,.,Missing
+599,112,1,Dagarbete (ca 06–18)
+600,112,2,Kvällsarbete (ca 18–22)
+601,112,3,Nattarbete (ca 18–06)
+602,112,4,"Skiftarbete, ej natt"
+603,112,5,"Skiftarbete, inklusive natt"
+604,112,6,"Turlistearbete (dvs. arbetstid enligt tjänstgöringsschema), ej natt"
+605,112,7,"Turlistearbete (dvs. arbetstid enligt tjänstgöringsschema), inklusive natt"
+606,112,8,Förtroendearbetstid/oreglerad arbetstid
+607,112,9,Annan arbetstid
+608,112,.,Missing
+609,113,1,Dagarbete (ca 06–18)
+610,113,2,Kvällsarbete (ca 18–22)
+611,113,3,Nattarbete (ca 18–06)
+612,113,4,"Skiftarbete, ej natt"
+613,113,5,"Skiftarbete, inklusive natt"
+614,113,6,"Turlistearbete (dvs. arbetstid enligt tjänstgöringsschema), ej natt"
+615,113,7,"Turlistearbete (dvs. arbetstid enligt tjänstgöringsschema), inklusive natt"
+616,113,8,Förtroendearbetstid/oreglerad arbetstid
+617,113,9,Annan arbetstid
+618,113,>11,slask
+619,113,.,Missing
+620,114,1,Alltid
+621,114,2,Ofta
+622,114,3,Ibland
+623,114,4,Sällan
+624,114,5,Aldrig
+625,114,.,Missing
+626,115,1,Hela eller i stort sett hela arbetstiden
+627,115,2,3-4 dagar i veckan
+628,115,3,1-2 dagar i veckan
+629,115,4,Några timmar i veckan
+630,115,5,Arbetar inte hemma
+631,115,.,Missing
+632,116,1,"Fast lön (timlön, veckolön, månadslön)"
+633,116,2,Lön som är kopplad till OB-ersättningar (inklusive jourersättning)
+634,116,3,"Lön med tillägg, som är kopplat till eget resultat, t ex ackordslön, prestationslön"
+635,116,4,"Lön med tillägg, som är kopplat till arbetsgrupps resultat, t ex ackordslön"
+636,116,5,"Lön med tillägg, som är kopplat till företagets resultat"
+637,116,6,Ren (100 %) prestationslön
+638,116,7,Annan löneform
+639,116,.,Missing
+640,117,1,"Nej, ingen gång"
+641,117,2,"Ja, en gång"
+642,117,3,"Ja, 2-3 gånger"
+643,117,4,"Ja, 4 gånger eller mer"
+644,117,5,Ej aktuellt
+645,117,.,Missing
+646,118,1,"Nej, ingen gång"
+647,118,2,"Ja, en gång"
+648,118,3,"Ja, 2-3 gånger"
+649,118,4,"Ja, 4 gånger eller mer"
+650,118,.,Missing
+651,119,1,"Nej, ingen gång (ej aktuellt)"
+652,119,2,"Ja, en gång"
+653,119,3,"Ja, 2-3 gånger"
+654,119,4,"Ja, 4 gånger eller mer"
+655,119,.,Missing
+656,120,1,"Nej, ingen gång (ej aktuellt)"
+657,120,2,"Ja, en gång"
+658,120,3,"Ja, 2-3 gånger"
+659,120,4,"Ja, 4 gånger eller mer"
+660,120,>11,slask
+661,120,.,Missing
+662,121,1,I mycket hög grad
+663,121,2,I hög grad
+664,121,3,I liten grad
+665,121,4,I mycket liten grad
+666,121,5,Inte alls
+667,121,>11,slask
+668,121,.,Missing
+669,122,1,Mycket bra
+670,122,2,Ganska bra
+671,122,3,Varken bra eller dåligt
+672,122,4,Ganska dåligt
+673,122,5,Mycket dåligt
+674,122,.,Missing
+675,123,1,Mycket bra
+676,123,2,Ganska bra
+677,123,3,Varken bra eller dåligt
+678,123,4,Ganska dåligt
+679,123,5,Mycket dåligt
+680,123,>11,slask
+681,123,.,Missing
+682,124,1,Nej
+683,124,2,"Ja, men påverkar inte alls mitt liv"
+684,124,3,"Ja, påverkar mitt liv lite"
+685,124,4,"Ja, påverkar mitt liv mycket"
+686,124,.,Missing
+687,125,1,Nej
+688,125,2,"Ja, men det påverkar inte alls mitt liv"
+689,125,3,"Ja, det påverkar mitt liv lite"
+690,125,4,"Ja, det påverkar mitt liv mycket"
+691,125,.,Missing
+692,126,1,Nej
+693,126,2,"Ja, men påverkar inte alls mitt liv"
+694,126,3,"Ja, påverkar mitt liv lite"
+695,126,4,"Ja, påverkar mitt liv mycket"
+696,126,>11,slask
+697,126,.,Missing
+698,127,1,Alltid
+699,127,2,Ofta
+700,127,3,Ibland
+701,127,4,Sällan
+702,127,5,Aldrig
+703,127,>11,slask
+704,127,.,Missing
+705,128,1,Varje dag
+706,128,2,Några gånger per vecka
+707,128,3,Någon gång per vecka
+708,128,4,Några gånger per månad
+709,128,5,Någon gång per månad
+710,128,6,Några gånger per år eller mindre/Aldrig
+711,128,.,Missing
+712,129,1,Mycket god
+713,129,2,Ganska god
+714,129,3,Varken god eller dålig
+715,129,4,Ganska dålig
+716,129,5,Mycket dålig
+717,129,.,Missing
+718,130,1,Mycket god
+719,130,2,Ganska god
+720,130,3,Varken god eller dålig
+721,130,4,Ganska dålig
+722,130,5,Mycket dålig
+723,130,>11,slask
+724,130,.,Missing
+725,131,0-999,0-999
+726,131,.,Missing
+727,119,1,Ingen gång
+728,119,2,En gång
+729,119,3,Två till tre gånger
+730,119,4,Fyra gånger eller mer
+731,120,1,Ingen gång
+732,120,2,En gång
+733,120,3,Två till tre gånger
+734,120,4,Fyra gånger eller mer

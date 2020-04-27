@@ -1,0 +1,933 @@
+Variabelnamn,Enkät,Beskrivning,Itemnr,Enkättext
+PZ1,LNU,"P – INTERVJUDATUM – MÅN, DAG",,"Datum – år, månad och dag – då intervjun genomfördes. Endast min-värde och max-värde redovisas."
+PZ100,LNU,P - FÖDELSEÅR BORTABOENDE BARN 5,,"Har  du  några  barn  tillsammans  med  en  tidigare  partner,  barn  som  nu  inte  bor  tillsammans  med  dig?  Ange födelseår för dessa barn nedan. Bortaboende barn 5. Tabellen gäller för PZ92 E 5."
+PZ102,LNU,P – KONTANTMARGINAL,,"Om du plötsligt hamnade i en situation där du på en vecka måste skaffa fram 14000 kr, skulle du kunna klara det?"
+PZ103,LNU,P - ANSKAFFNING AV KONTANTER,,"Om du plötsligt hamnade i en situation där du på en vecka måste skaffa fram 14000 kr, skulle du kunna klara det? Om ja: på vilket sätt? Tabellen gäller för PZ102 EQ 2."
+PZ104,LNU,P - ALLMÄNT HÄLSOTILLSTÅND,,Hur bedömer du ditt allmänna hälsotillstånd?
+PZ105,LNU,P – RÖKER,,Röker du?
+PZ106,LNU,P - DRICKER VIN SPRIT MM,,"Dricker du vin, starköl eller sprit någon gång?"
+PZ107,LNU,P - ANTAL GGR DRICKER VIN SPRIT MM,,"Om ja: ungefär hur ofta under de senaste 12 månaderna har du druckit vin, starkcider starköl eller sprit?  Tabellen gäller för PZ106 EQ 1."
+PZ109,LNU,P - IP:S VÄRDERING AV SIN SITUATION,,"Hur vill du själv värdera dina levnadsförhållanden? Sett i stort, hur tycker du att du har det?"
+PZ11,LNU,P – EGP NUVARANDE YRKE,,"Yrke enligt Erikson, Goldthorpe och Portocarero (EGP)."
+PZ110,LNU,P - UTBILDNINGSNIVÅ – REGISTER,,
+PZ12,LNU,P – BÅDA FÖRÄLDRARNA FÖDDA I SVERIGE,,Är/var båda dina föräldrar födda i Sverige?
+PZ13,LNU,P – FÖDELSELAND – FADER,,I vilket land föddes din far?
+PZ14,LNU,P – FÖDELSELAND – MODER,,I vilket land föddes din mor?
+PZ15,LNU,P – URSPRUNGSLAND,,Var är du född?
+PZ16,LNU,P – IMMIGRATIONSÅLDER,,Hur gammal var du när du kom till Sverige? Variabeln är här kategoriindelad.  Tabellen gäller för PZ15 NE 1
+PZ17,LNU,P – HEL UPPVÄXTFAMILJ,,Bodde du hos båda dina (biologiska) föräldrar under hela din uppväxttid?
+PZ18,LNU,P – SEI FADERN,,Faderns huvudsakliga yrke eller sysselsättning. Kodat enligt socioekonomisk indelning (SEI).
+PZ19,LNU,P – NYK 80 FADERN,,"Faderns  huvudsakliga  yrke  eller  sysselsättning.  Yrke  enligt  Nordisk  yrkesklassificering  (NYK,  1980  års indelning). Redovisas ej."
+PZ2,LNU,P-KÖN,,Är du man eller kvinna?
+PZ20,LNU,P – NYK 85 FADERN,,"Faderns  huvudsakliga  yrke  eller  sysselsättning.  Yrke  enligt  Nordisk  yrkesklassificering  (NYK,  1985  års indelning).  Förteckning  över  koder  finns  utgiven  av  SCB:s  Meddelanden  i  samordningsfrågor  MIS  1989:5. Redovisas ej."
+PZ25,LNU,P – SEI MODERN,,Moderns huvudsakliga yrke eller sysselsättning. Kodat enligt Socioekonomisk indelning (SEI).
+PZ26,LNU,P – NYK 80 MODERN,,"Moderns  huvudsakliga  yrke  eller  sysselsättning.  Yrke  enligt  Nordisk  yrkesklassificering  (NYK,  1980  års indelning). Redovisas ej."
+PZ27,LNU,P – NYK 85 MODERN,,"Moderns  huvudsakliga  yrke  eller  sysselsättning.  Yrke  enligt  Nordisk  yrkesklassificering  (NYK,  1985  års indelning).  Förteckning  över  koder  finns  utgiven  av  SCB:s  Meddelanden  i  samordningsfrågor  MIS  1989:5. Redovisas ej."
+PZ3,LNU,P – FÖDELSEÅR,,Vilket år föddes du (19XX)?
+PZ32,LNU,P - FADERNS UTBILDNING,,Vilken/vilka av följande utbildningar motsvarar bäst din fars högsta utbildning?
+PZ33,LNU,P - MODERNS UTBILDNING,,Vilken/vilka av följande utbildningar motsvarar bäst din mors högsta utbildning?
+PZ34,LNU,P – P:S UTBILDNINGSÅR,,Hur många år har din sammanlagda skol- och yrkesutbildning på heltid varat?
+PZ35,LNU,P – HÖGSTA UTBILDNING,,Vilken/vilka av följande utbildningar har du genomgått?
+PZ36,LNU,P – ANTAL ÅR I FÖRVÄRVSARBETE,,Ungefär hur många år har du förvärvsarbetat sammanlagt? Variabeln är här kategoriindelad.
+PZ37,LNU,P – BÖRJADE ARBETA: ÅRTAL,,Vilket år och vilken månad började du ditt första arbete som varade minst 6 månader? Endast år redovisas. Variabeln är här kategoriindelad.
+PZ38,LNU,P – SEI FÖRSTA ARBETE,,Första yrke enligt socioekonomisk indelning (SEI).
+PZ39,LNU,P – NYK 80 FÖRSTA ARBETE,,"Första yrke enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+PZ4,LNU,P – SEI – NUVARANDE YRKE,,Yrke enligt socioekonomisk indelning (SEI).
+PZ40,LNU,P – NYK 85 FÖRSTA ARBETE,,"P – NYK 85 FÖRSTA ARBETE Första yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Förteckning över koder finns utgiven av SCB:s Meddelanden i samordningsfrågor MIS 1989:5. Redovisas ej."
+PZ45,LNU,P – EGP FÖRSTA ARBETE,,"Första yrke enligt Erikson, Goldthorpe och Portocarero (EGP)."
+PZ46,LNU,P - SYSSELSÄTTNING VID NUVARANDE SAMMANBOENDES START,,Vad hade du för huvudsaklig sysselsättning och yrke när du flyttade ihop  med din nuvarande make/maka/sambo?
+PZ47,LNU,P – SEI VID NUVARANDE SAMMANBOENDES START,,Vad hade du för huvudsaklig sysselsättning och yrke när du flyttade ihop  med din nuvarande make/maka/sambo? Kodat enligt Socioekonomisk indelning (SEI).
+PZ48,LNU,P – NYK 80 NUVARANDE SAMMANBOENDES START,,"Vad hade du för huvudsaklig sysselsättning och yrke när du flyttade ihop  med din nuvarande make/maka/sambo? Kodat enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+PZ49,LNU,P – NYK 85 NUVARANDE SAMMANBOENDES START,,"Vad hade du för huvudsaklig sysselsättning och yrke när du flyttade ihop  med din nuvarande make/maka/sambo?  Kodat  enligt  Nordisk  yrkesklassificering  (NYK,  1985  års  indelning).  Förteckning  över koder finns utgiven av SCB:s Meddelanden i samordningsfrågor MIS 1989:5. Redovisas ej."
+PZ5,LNU,P – NUVARANDE SYSSELSÄTTNING,,Vad har du för huvudsaklig sysselsättning för närvarande? Sysselsättningsstatus.
+PZ54,LNU,P – EGP NUVARANDE SAMMANBOENDES START,,"Vad hade du för huvudsaklig sysselsättning och yrke när du flyttade ihop  med din nuvarande make/maka/sambo? Kodat enligt Erikson, Goldthorpe och Portocarero (EGP)."
+PZ6,LNU,P - NYK80 NUVARANDE YRKE,,"Yrke enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+PZ61,LNU,P – I FÖRVÄRVSARBETE SENAST NÄR,,När  hade  du  senast  ett  förvärvsarbete  som  varade  minst  6  månader?  Endast  år  redovisas.  Variabeln  är  här kategoriindelad.
+PZ62,LNU,P – UTBILDNINGSKRAV,,Behöver man någon skol- eller yrkesutbildning utöver folk- eller grundskola i din befattning?  Tabellen gäller för PZ5 NE 4-7.
+PZ63,LNU,P – SKOLÅR UTÖVER FOLK-/GRUNDSKOLA,,Ungefär hur många års utbildning utöver folk- eller grundskola behöver man i din befattning?  Tabellen gäller för PZ5 NE 4-7 AND PZ62 EQ 1.
+PZ64,LNU,P – ARBETSLEDANDE FUNKTION,,Har du någon arbetsledande funktion?  Tabellen gäller för PZ5 NE 4-7.
+PZ65,LNU,P – ANTAL UNDERSTÄLLDA,,Hur många personer är underställda dig? Variabeln är här kategoriindelad. Tabellen gäller för PZ5 NE 4-7 AND PZ64 EQ 1.
+PZ66,LNU,P – ORDINARIE VECKOARBETSTID,,Hur många timmar är din ordinarie veckoarbetstid?  Tabellen gäller för PZ5 NE 3-7.
+PZ67,LNU,P – HUR OFTA ÖVERTID,,Hur ofta arbetar du övertid i ditt nuvarande jobb? Är det… Tabellen gäller för PZ5 NE 3-7.
+PZ68,LNU,P – ÖVERNATTNING UTANFÖR HEMMET PGA ARBETE: ANTAL NÄTTER /ÅR,,"Händer det att du övernattar utanför hemmet på grund av ditt arbete, t.ex. vid tjänsteresa? Om ja: Ungefär hur många nätter borta blir det sammanlagt under ett år? Variabeln är här kategoriindelad. Tabellen gäller för PZ5 NE 4-7."
+PZ69,LNU,P – MÅNADSLÖN BRUTTO,,Hur mycket brukar du få per månad i lön från din ordinarie anställning? (Bruttolön tusen kr.) Variabeln är här kategoriindelad. Tabellen gäller för PZ5 NE 4-7.
+PZ7,LNU,P - NYK85 NUVARANDE YRKE,,"P - NYK85 NUVARANDE YRKE Yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Förteckning över koder finns utgiven av SCB:s Meddelanden i samordningsfrågor MIS 1989:5. Redovisas ej."
+PZ70,LNU,P – MÅNADSLÖN NETTO,,Hur mycket brukar du få per månad i lön från din ordinarie anställning? (Nettolön tusen kr). Variabeln är här kategoriindelad. Tabellen gäller för PZ5 NE 4-7.
+PZ71,LNU,"P – TIMMAR P – INKÖP, MATLAGN, DISK",,"Hur många timmar i genomsnitt ägnas åt matinköp, matlagning, disk i ditt hushåll? Kan du ange ungefär hur många timmar du själv lägger ned? (Ungefärligt antal timmar per vecka.)."
+PZ73,LNU,"P – TIMMAR BARN – INKÖP, MATLAGN, DISK",,"Hur många timmar i genomsnitt ägnas åt matinköp, matlagning, disk i ditt hushåll? Kan du ange ungefär hur många timmar dina eventuella barn (i hushållet) lägger ned? (Ungefärligt antal timmar per vecka.)"
+PZ74,LNU,P – TIMMAR P – KLÄDVÅRD,,"Hur  många  timmar  i  genomsnitt  ägnas  åt  tvätt,  strykning  och  annan  klädvård  i  ditt  hushåll?  Kan  du  ange ungefär hur många timmar du själv lägger ned? (Ungefärligt antal timmar per vecka.)"
+PZ75,LNU,P – TIMMAR MAKE/MAKA/SAMBO – KLÄDVÅRD,,"Hur  många  timmar  i  genomsnitt  ägnas  åt  tvätt,  strykning  och  annan  klädvård  i  ditt  hushåll?  Kan  du  ange ungefär hur många timmar din make/maka/sambo lägger ned? (Ungefärligt antal timmar per vecka.)"
+PZ76,LNU,P – TIMMAR BARN – KLÄDVÅRD,,"Hur  många  timmar  i  genomsnitt  ägnas  åt  tvätt,  strykning  och  annan  klädvård  i  ditt  hushåll?  Kan  du  ange ungefär hur många timmar dina eventuella barn (i hushållet) lägger ned? (Ungefärligt antal timmar per vecka.)"
+PZ77,LNU,P – TIMMAR P – STÄDNING,,Hur många timmar i genomsnitt ägnas åt städning i ditt hushåll? Kan du ange ungefär hur många timmar du själv lägger ned? (Ungefärligt antal timmar per vecka.)
+PZ78,LNU,P – TIMMAR MAKE/MAKA/SAMBO – STÄDNING,,Hur många timmar i genomsnitt ägnas åt städning i ditt hushåll? Kan du ange ungefär hur många timmar din make/maka/sambo lägger ned? (Ungefärligt antal timmar per vecka.)
+PZ79,LNU,P – TIMMAR BARN – STÄDNING,,Hur många timmar i genomsnitt ägnas åt städning i ditt hushåll? Kan du ange ungefär hur många timmar dina eventuella barn lägger ned? (Ungefärligt antal timmar per vecka.).
+PZ80,LNU,P – TIMMAR P – REPARATION OCH UNDERHÅLL,,"Hur många timmar i genomsnitt ägnas åt reparation och underhåll av bostad, fordon och annan egendom som tillhör hushållet i ditt hushåll? Kan du ange ungefär hur många timmar du själv lägger ned? (Ungefärligt antal timmar per vecka.)"
+PZ81,LNU,P – TIMMAR MAKE/MAKA/SAMBO – REPARATION OCH UNDERHÅLL,,"Hur många timmar i genomsnitt ägnas åt reparation och underhåll av bostad, fordon och annan egendom som tillhör  hushållet  i  ditt  hushåll?  Kan  du  ange  ungefär  hur  många  timmar  din  make/maka/sambo  lägger  ned? (Ungefärligt antal timmar per vecka.)"
+PZ82,LNU,P – TIMMAR BARN – REPARATION OCH UNDERHÅLL,,"Hur många timmar i genomsnitt ägnas åt reparation och underhåll av bostad, fordon och annan egendom som tillhör hushållet i ditt hushåll? Kan du ange ungefär hur många timmar dina eventuella barn (i hushållet) lägger ned? (Ungefärligt antal timmar per vecka.)"
+PZ83,LNU,P – ÅSIKTSSKILLNAD FÖRDELNING AV HUSHÅLLSARBETE,,Hur  ofta  händer  det  att  dina  och  din  makes/makas/sambos  åsikter  skiljer  sig  åt  vad  gäller  fördelningen  av hushållsarbetet?   Ofta
+PZ84,LNU,ÅSIKTSSKILLNAD HUR PENGAR ANVÄNDS,,Hur ofta händer det att dina och din makes/makas/sambos åsikter skiljer sig åt vad gäller hur pengar används?  Ofta
+PZ85,LNU,ÅSIKTSSKILLNAD HUR MKT MAKE/MAKA/SAMBO ARBETAR,,Hur  ofta  händer  det  att  dina  och  din  makes/makas/sambos  åsikter  skiljer  sig  åt  vad  gäller  hur  mycket  din make/maka/sambo arbetar?   Ofta
+PZ86,LNU,ÅSIKTSSKILLNAD HUR MYCKET P ARBETAR,,Hur  ofta  händer  det  att  dina  och  din  makes/makas/sambos  åsikter  skiljer  sig  åt  vad  gäller  hur  mycket  du arbetar?   Ofta
+PZ87,LNU,P – FÖRVÄRVSARBETE 2009: ANTAL VECKOR,,Förvärvsarbetade du något under kalenderåret 2009? Om ja: hur många veckor under 2009?
+PZ88,LNU,P – FÖRVÄRVSARBETE 2009: TIMMAR/VECKA,,Förvärvsarbetade du något under kalenderåret 2009? Om ja: Antal timmar/vecka i genomsnitt? Variabeln är här kategoriindelad.
+PZ89,LNU,P - SAMMANBOENDE TIDIGARE,,Har du tidigare varit gift eller samboende i minst 6 månader?
+PZ90,LNU,P - ANTAL TIDIGARE SAMMANBOENDEN,,Om ja: Hur många gånger tidigare har du varit gift eller samboende i minst 6 månader? Tabellen gäller för PZ89 EQ 2.
+PZ91,LNU,P – ÅR/MÅNAD SENASTE AVSLUTADE SAMMANBOENDE,,"Om ja: När tog ditt närmast föregående äktenskap/samboende om minst 6 månader slut, dvs. när flyttade ni isär? Endast år redovisas. Variabeln är här kategoriindelad. Tabellen gäller för PZ89 EQ 2."
+PZ92,LNU,P - ANTAL EJ HEMMAVARANDE BARN,,"Har du några barn tillsammans med en tidigare partner, barn som nu inte bor tillsammans med dig? Om ja: Hur många barn?"
+PZ93,LNU,P - ANTAL BORTASMÅBARN,,"Har du några barn tillsammans med en tidigare partner, barn som nu inte bor tillsammans med dig? Om ja: Hur många barn födda 2004 eller senare? Tabellen gäller för PZ92 GE 1."
+PZ94,LNU,P - ANTAL BORTASKOLBARN,,"Har du några barn tillsammans med en tidigare partner, barn som nu inte bor tillsammans med dig? Om ja: hur många barn födda mellan 1992 och 2003? Tabellen gäller för PZ92 GE 1."
+PZ95,LNU,P - ANTAL BORTAVUXNABARN,,"Har du några barn tillsammans med en tidigare partner, barn som nu inte bor tillsammans med dig? Om ja: hur många barn födda 1984 - 1991? Tabellen gäller för PZ92 GE 1."
+PZ96,LNU,P - FÖDELSEÅR BORTABOENDE BARN 1,,"Har  du  några  barn  tillsammans  med  en  tidigare  partner,  barn  som  nu  inte  bor  tillsammans  med  dig?  Ange födelseår för dessa barn nedan. Bortaboende barn 1.  Tabellen gäller för PZ92 GE 1."
+PZ97,LNU,P - FÖDELSEÅR BORTABOENDE BARN 2,,"Har  du  några  barn  tillsammans  med  en  tidigare  partner,  barn  som  nu  inte  bor  tillsammans  med  dig?  Ange födelseår för dessa barn nedan. Bortaboende barn 2. Tabellen gäller för PZ92 GE 2."
+PZ98,LNU,P - FÖDELSEÅR BORTABOENDE BARN 3,,"Har  du  några  barn  tillsammans  med  en  tidigare  partner,  barn  som  nu  inte  bor  tillsammans  med  dig?  Ange födelseår för dessa barn nedan. Bortaboende barn 3. Tabellen gäller för PZ92 GE 3."
+PZ99,LNU,P - FÖDELSEÅR BORTABOENDE BARN 4,,"Har  du  några  barn  tillsammans  med  en  tidigare  partner,  barn  som  nu  inte  bor  tillsammans  med  dig?  Ange födelseår för dessa barn nedan. Bortaboende barn 4. Tabellen gäller för PZ92 GE 4."
+Z10,LNU,INTERVJUSPRÅK,,Anger huruvida intervjun genomfördes på svenska eller med hjälp av tolk.
+Z100,LNU,KONFLIKT BIOLOGISK OCH STYVFÖRÄLDER,,"Förekom det allvarliga slitningar mellan en biologisk förälder och en styvförälder? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Tabellen gäller för Z98 EQ 1."
+Z101,LNU,KONFLIKT IP OCH BIOLOGISK MOR,,"Förekom  det  allvarliga  slitningar  mellan  dig  och  din  biologiska  mor?  Frågan  ej  ställd  till  panelen,  men uppgifter från tidigare LNU har i förekommande fall lagts till. Tabellen gäller för Z98 EQ 1."
+Z102,LNU,KONFLIKT IP OCH BIOLOGISK FAR,,"Förekom det allvarliga slitningar mellan dig och din biologiska far? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Tabellen gäller för Z98 EQ 1."
+Z103,LNU,KONFLIKT IP OCH STYVMOR ELLER STYVFAR,,"Förekom det allvarliga slitningar mellan dig och din styvmor eller styvfar? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Tabellen gäller för Z98 EQ 1."
+Z104,LNU,"KONFLIKT MELLAN ANDRA, VILKA…",,"Förekom det allvarliga slitningar mellan andra, vilka? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Tabellen gäller för Z98 EQ 1."
+Z105,LNU,FADERNS UTBILDNING,,"Vilken av följande utbildningar motsvarar bäst din fars högsta utbildning?  Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z106,LNU,MODERNS UTBILDNING,,"Vilken av följande utbildningar motsvarar bäst din mors högsta utbildning? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z108,LNU,SEI FADERN,,"Om du ser tillbaka till din uppväxttid, dvs. fram till det Du fyllt 16 år och mest gick i skolan, vad hade din far (fosterfar) för huvudsakligt yrke eller sysselsättning? Kodat enligt Socioekonomisk indelning (SEI). Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z109,LNU,NYK80 FADERN,,"Om du ser tillbaka till din uppväxttid, dvs. fram till det Du fyllt 16 år och mest gick i skolan, vad hade din far (fosterfar) för huvudsakligt yrke eller sysselsättning? Kodat enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Frågan ej ställd till panelen, men uppgifter från tidigare  LNU har i förekommande fall  lagts till. Redovisas ej."
+Z11,LNU,KÖN,,Intervjupersonens kön.
+Z110,LNU,NYK85 FADERN,,"Om du ser tillbaka till din uppväxttid, dvs. fram till det Du fyllt 16 år och mest gick i skolan, vad hade din far (fosterfar) för huvudsakligt yrke eller sysselsättning? Kodat enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Frågan ej ställd till panelen, men uppgifter från tidigare  LNU har i förekommande fall  lagts till. Redovisas ej."
+Z111,LNU,SSYK FADERN,,"Faderns  yrke  enligt  Standard  för  Svensk  Yrkesklassificering  (SSYK).  Frågan  ej  ställd  till  panelen,  men uppgifter från tidigare LNU har i förekommande fall lagts till. Redovisas ej."
+Z112,LNU,ISCO88 FADERN,,"Faderns yrke enligt  The International Standard  Classification of  Occupations,"
+Z114,LNU,SIOPS FADERN,,"SIOPS FADERN Faderns  yrke  enligt  the  Standard  International  Occupational  Prestige  Scale  (SIOPS).  Frågan  ej  ställd  till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Redovisas ej."
+Z115,LNU,FADERNS EGP,,"Faderns  yrke/sysselsättning  enligt  Erikson,  Goldthorpe  och  Portocarero  (EGP).  Frågan  ej  ställd  till  panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z116,LNU,FADERN FÖRETAGARE: ANTAL ANSTÄLLDA,,"Om fadern företagare: Hur många var anställda i företaget utöver din far?  Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z117,LNU,FADERN JORDBR: AREA,,"Om fadern jordbrukare: Hur stort var jordbruket? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z118,LNU,FADERN FÖRÄLDRALEDIG,,"Innan du började grundskolan (dvs. fram till det år du fyllde 7), var din far någon tid föräldraledig för att vara hemma med dig? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z12,LNU,FÖDELSEÅR,,Intervjupersonens födelseår.
+Z120,LNU,SEI MODERN,,"Om du ser tillbaka till din uppväxttid, dvs. fram till det du fyllt 16 år och mest gick i skolan, vad hade din mor (fostermor) för huvudsakligt yrke eller sysselsättning? Kodat enligt Socioekonomisk indelning (SEI). Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z121,LNU,NYK80 MODERN,,"Om du ser tillbaka till din uppväxttid, dvs. fram till det du fyllt 16 år och mest gick i skolan, vad hade din mor (fostermor) för huvudsakligt yrke eller sysselsättning?  Kodat enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Redovisas ej."
+Z122,LNU,NYK85 MODERN,,"Om du ser tillbaka till din uppväxttid, dvs. fram till det du fyllt 16 år och mest gick i skolan, vad hade din mor (fostermor) för huvudsakligt yrke eller sysselsättning?  Kodat enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Redovisas ej."
+Z123,LNU,SSYK MODERN,,"SSYK MODERN Om du ser tillbaka till din uppväxttid, dvs. fram till det du fyllt 16 år och mest gick i skolan, vad hade din mor (fostermor) för huvudsakligt yrke eller sysselsättning?  Kodat enligt Standard för Svensk Yrkesklassificering (SSYK). Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Redovisas ej."
+Z124,LNU,ISCO88 MODERN,,"ISCO88 MODERN Om du ser tillbaka till din uppväxttid, dvs. fram till det du fyllt 16 år och mest gick i skolan, vad hade din mor (fostermor) för huvudsakligt yrke eller sysselsättning?  Kodat enligt The International Standard Classification of Occupations, 1988 års indelning (ISCO88). Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Redovisas ej."
+Z126,LNU,SIOPS MODERN,,"Moderns  yrke  enligt  the  Standard  International  Occupational  Prestige  Scale  (SIOPS).  Frågan  ej  ställd  till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Redovisas ej."
+Z127,LNU,MODERNS EGP,,"Moderns yrke/sysselsättning enligt Erikson, Goldthorpe och Portocarero (EGP).  Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z128,LNU,MODERN FÖRETAGARE: ANTAL ANSTÄLLDA,,"Om modern företagare: Hur många var anställda i företaget utöver din mor? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z129,LNU,MODERN JORDBR: AREA,,"Om  modern  jordbrukare:  Hur  stort  var  jordbruket?  Frågan  ej  ställd  till  panelen,  men  uppgifter  från  tidigare LNU har i förekommande fall lagts till."
+Z13,LNU,SEI – EGEN SYSSELSÄTTNING,,Yrke/sysselsättning enligt socioekonomisk indelning (SEI) – sysselsättningsstatus.
+Z130,LNU,IP:S ÅLDER NÄR MOR BÖRJADE FÖRVÄRVSARBETA,,"Om din mor förvärvsarbetade någon tid under din uppväxt, hur gammal var du när din mor började förvärvsarbeta utanför hemmet för första gången efter det att du föddes?"
+Z131,LNU,UPPVÄXTFAMILJENS EKONOMI,,"Hade din familj det svårt ekonomiskt under din uppväxttid? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z132,LNU,FÖRÄLDRAR BOSTADSÄGANDE,,"Ägde dina föräldrar eget hem (bostadsrätt, villa, kedjehus, radhus, bondgård etc.) under större delen av din uppväxttid? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z133,LNU,FÖDELSEÅR – MOR,,Vilket år föddes din mor? Variabeln är här kategoriindelad.
+Z134,LNU,MOR – LEVER,,Lever din mor?
+Z135,LNU,DÖDSÅR – MOR,,Om modern död: vilket år avled din mor? Variabeln är här kategoriindelad.  Tabellen gäller för Z134 EQ 2.
+Z136,LNU,CIVILSTÅND – MOR,,Bor din mor ihop med din far/någon partner eller hon ensamstående?  Tabellen gäller för Z134 EQ 1.
+Z137,LNU,AVSTÅND – MOR,,Var bor din mor? Avstånd till IP. Variabeln är här kategoriindelad och avser kilometer. Tabellen gäller om Z134 EQ 1.
+Z138,LNU,UMGÄNGE MOR,,Hur ofta brukar du träffa din mor? Ip som bor med sin mor ska ej besvara frågan.
+Z139,LNU,TELEFONKONTAKT MOR,,"Hur ofta brukar du ha kontakt per telefon, e-post, SMS, chatt eller annan liknande kontakt med din mor? Ip som bor med sin mor ska ej besvara frågan."
+Z14,LNU,EGEN SOCIOEKONOMISK GRUPP,,Eget yrke/sysselsättning enligt socioekonomisk indelning (SEI). *
+Z140,LNU,FÖDELSEÅR – FAR,,Vilket år föddes din far? Variabeln är här kategoriindelad.
+Z141,LNU,FAR – LEVER,,Lever din far?
+Z142,LNU,DÖDSÅR – FAR,,Om fadern död: Vilket år avled din far? Variabeln är här kategoriindelad.  Tabellen gäller för Z141 EQ 2.
+Z143,LNU,CIVILSTÅND – FAR,,Bor din far ihop med någon partner eller är han ensamstående? Tabellen gäller för Z141 EQ 1.
+Z144,LNU,AVSTÅND – FAR,,Var bor din far? Avstånd till IP. Variabeln är här kategoriindelad och avser kilometer.
+Z145,LNU,UMGÄNGE FAR,,Hur ofta brukar du träffa din far?
+Z146,LNU,TELEFONKONTAKT FAR,,"Hur ofta brukar du ha kontakt per telefon, e-post, SMS, chatt eller annan liknande kontakt med din far?"
+Z147,LNU,ANTAL UPPVÄXTORTER,,"På  hur  många  ställen  bodde  du  under  din  uppväxttid  dvs.  fram  till  det  du  fyllt  16  år?  Frågan  ej  ställd  till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z148,LNU,TYP AV UPPVÄXTORT,,"Var bodde du (längsta tiden) under din uppväxttid (dvs. fram till det du fyllt 16 år)? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z149,LNU,UPPVÄXTLÄN – LAND,,"Vilket län bodde du i under din uppväxttid (dvs. fram till det du fyllt 16 år)? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z15,LNU,NYK80 NUVARANDE YRKE,,"Nuvarande yrke eller sysselsättning kodat enligt Nordisk yrkesklassificering (NYK, 1980 års indelning)."
+Z150,LNU,UPPVÄXTKOMMUN,,"UPPVÄXTKOMMUN Vilken kommun bodde du i under din uppväxttid (dvs. fram till det du fyllt 16 år)? frekvenser visas ej. Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z151,LNU,ANTAL MÅNADER PÅ DAGHEM,,"Innan  du  började  i  grundskolan,  var  du  någon  tid  på  daghem?  Om  ja:  Ungefär  hur  många  år  och  månader sammanlagt? Variabeln är kategoriindelad. Frågan ej ställd till panelen. Tabellen gäller för Z2 EQ 5."
+Z152,LNU,VAR HOS DAGMAMMA,,Var du någon tid hos dagmamma eller i familjedaghem innan du började grundskolan? Tabellen gäller för Z2 EQ 5.
+Z153,LNU,GICK I SEXÅRSVERKSAMHET,,Gick du i någon sexårsverksamhet? Tabellen gäller för Z2 EQ 5.
+Z154,LNU,CIVILSTÅND ENL INTERVJUN,,Make/maka eller samboende i hushållet för närvarande.
+Z155,LNU,ÅR/MÅN NUVARANDE SAMMANBOENDES START,,Vilket år och vilken månad startade ditt nuvarande sammanboende? Endast år redovisas. Variabeln är här kategoriindelad. Tabellen gäller för Z154 EQ 4 OR 5.
+Z156,LNU,ÅR/MÅNAD FÖR GIFTERMÅL,,Vilket år och vilken månad vigdes du och din nuvarande partner? Endast år redovisas. Variabeln är här kategoriindelad. Tabellen gäller för Z154 EQ 5.
+Z157,LNU,ANTAL PERSONER I HUSHÅLLET,,Antal personer i hushållet för närvarande.
+Z158,LNU,PARTNER/SAMBO KÖN,,Vilket kön har din partner/sambo? Tabellen gäller för Z154 EQ 4 OR 5.
+Z159,LNU,PARTNER/SAMBO FÖDELSEÅR,,Vilket födelseår har din partner/sambo? Variabeln är här kategoriindelad. Tabellen gäller för Z154 EQ 4 OR 5.
+Z16,LNU,NYK85 NUVARANDE YRKE,,"Nuvarande yrke eller sysselsättning kodat enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Förteckning över koder finns utgiven av SCB:s Meddelanden i samordningsfrågor MIS 1989:5."
+Z160,LNU,ANTAL HEMMABARN,,Antal barn i hushållet för närvarande.
+Z161,LNU,ANTAL EGNA HEMMABARN,,Antal egna barn i hushållet för närvarande.
+Z162,LNU,ANTAL MAKES HEMMABARN,,Antal make/makas eller sambos barn i hushållet för närvarande.
+Z163,LNU,ANTAL HEMMABARN FÖDDA 1992-2010,,Antal barn födda 1992-2010 i hushållet för närvarande.
+Z164,LNU,ANTAL YNGRE BARN I HUSHÅLLET FÖDDA 2000-2009,,Antal yngre barn födda 2000-2009 i hushållet för närvarande.
+Z165,LNU,ANTAL EGNA HEMMABARN 2009,,Antal egna barn i hushållet under huvuddelen (minst nio månader) av 2009.
+Z166,LNU,ANTAL EGNA HEMMABARN 2009 FÖDDA 1992-2009,,Antal egna barn födda 1992-2009 i hushållet under huvuddelen (minst 9 månader) av 2009.
+Z167,LNU,ANTAL MAKES HEMMABARN 2009,,Antal make/maka eller sambos barn i hushållet under huvuddelen (minst nio månader) av 2009.
+Z168,LNU,ANTAL MAKES HEMMABARN 2009 FÖDDA 1992-2009,,Antal make/makas eller sambos barn födda 1992-2009 i hushållet under huvuddelen (minst 9 månader) av
+Z169,LNU,FAMILJETYP,,Hur ser din familj ut? Tabellen gäller för Z160 GT 0.
+Z17,LNU,EGEN EGP,,"Eget yrke/sysselsättning enligt Erikson, Goldthorpe och Portocarero (EGP)."
+Z170,LNU,FÖDELSEÅR BARN 1,,Födelseår för yngsta barnet (egna och/eller make/maka/sambos) i hushållet för närvarande. Variabeln är här kategoriindelad. Tabellen gäller för Z160 GT 0.
+Z171,LNU,FÖDELSEÅR BARN 2,,Födelseår för näst yngsta barnet (egna och/eller make/maka/sambos) i hushållet för närvarande. Variabeln är här kategoriindelad. Tabellen gäller för Z160 GT 1.
+Z172,LNU,FÖDELSEÅR BARN 3,,Födelseår för tredje yngsta barnet (egna och/eller make/maka/sambos) i hushållet för närvarande. Variabeln är här kategoriindelad. Tabellen gäller för Z160 GT 2
+Z173,LNU,FÖDELSEÅR BARN 4,,Födelseår för fjärde yngsta barnet (egna och/eller make/maka/sambos) i hushållet för närvarande. Variabeln är här kategoriindelad. Tabellen gäller för Z160 GT 3.
+Z174,LNU,FÖDELSEÅR BARN 5,,Födelseår för femte yngsta barnet (egna och/eller make/maka/sambos) i hushållet för närvarande. Variabeln är här kategoriindelad. Tabellen gäller för Z160 GT 4.
+Z175,LNU,KÖN BARN 1,,Kön på det yngsta barnet (egna och/eller make/maka/sambos) i hushållet för närvarande. Tabellen gäller för Z160 GT 0.
+Z176,LNU,KÖN BARN 2,,Kön på det näst yngsta barnet (egna och/eller make/maka/sambos) i hushållet för närvarande. Tabellen gäller för Z160 GT 1.
+Z177,LNU,KÖN BARN 3,,Kön på det trede yngsta barnet (egna och/eller make/maka/sambos) i hushållet för närvarande. Tabellen gäller för Z160 GT 2.
+Z178,LNU,KÖN BARN 4,,Kön på det fjärde yngsta barnet (egna och/eller make/maka/sambos) i hushållet för närvarande. Tabellen gäller för Z160 GT 3.
+Z179,LNU,KÖN BARN 5,,Kön på det femte yngsta barnet (egna och/eller make/maka/sambos) i hushållet för närvarande. Tabellen gäller för Z160 GT 4.
+Z18,LNU,SSYK EGEN,,Eget yrke enligt Standard för Svensk Yrkesklassificering (SSYK). Redovisas ej.
+Z180,LNU,SAMMANBOR MED FÖRÄLDER,,Sammanbor för närvarande med förälder.
+Z181,LNU,TREGENERATIONSHUSHÅLL,,Bor i tregenerationshushåll för närvarande.
+Z182,LNU,GIFT/SAMBOENDE 2009 RESPEKTIVE 2010,,Make/maka eller samboende i hushållet under huvuddelen av 2009 (minst nio månader) respektive under 2010 vid intervjutillfället.
+Z183,LNU,"ANDRA BARN 2009, EJ I HUSHÅLLET 2010",,Antal barn som flyttat hemifrån oktober 2009 eller senare.
+Z184,LNU,SYSSELSÄTTNING MAKE/MAKA/SAMBO,,Vad har din make/maka/sambo för sysselsättning? Tabellen gäller för Z154 EQ 4 OR 5.
+Z185,LNU,SEI MAKE/MAKA/SAMBO,,Vad har din make/maka/samboende för yrke eller sysselsättning? Kodat enligt Socioekonomisk indelning (SEI). Pensionärer och hemarbetande kodade enligt tidigare yrke. Tabellen gäller för Z154 EQ 4 OR 5.
+Z186,LNU,NYK80 MAKE/MAKA/SAMBO,,"Vad  har  din  make/maka/samboende  för  yrke  eller  sysselsättning?  Kodat  enligt  Nordisk  yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+Z187,LNU,NYK85 MAKE/MAKA/SAMBO,,"Make/maka/sambos yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Redovisas ej."
+Z188,LNU,SSYK MAKE/MAKA/SAMBO,,Make/maka/sambos yrke enligt Standard för Svensk Yrkesklassificering (SSYK). Redovisas ej.
+Z189,LNU,ISCO88 MAKE/MAKA/SAMBO,,"Make/maka/sambos yrke enligt The International Standard Classification of Occupations, 1988 års indelning (ISCO88). Redovisas ej"
+Z19,LNU,ISCO88 EGEN,,"Eget  yrke  enligt  The  International  Standard  Classification  of  Occupations,  1988  års  indelning  (ISCO88). Redovisas ej"
+Z191,LNU,SIOPS MAKE/MAKA/SAMBO,,Make/maka/sambos yrke enligt the Standard International Occupational Prestige Scale (SIOPS). Redovisas ej.
+Z192,LNU,MAKE/MAKA/SAMBOS EGP,,"Make/makas yrke/sysselsättning enligt Erikson, Goldthorpe och Portocarero (EGP). Tabellen gäller för Z154 EQ 4 OR 5."
+Z193,LNU,M EGEN FÖRETAGARE: ANSTÄLLDA,,Om make/maka/sambo är egen företagare eller jordbrukare: Har eller hade han/hon några anställda?
+Z194,LNU,M ARBETSTID FÖR NÄRVARADE,,Om make/maka/sambo: Hur många timmar i veckan arbetar din make/maka/sambo för närvarande? Variabeln är här kategoriindelad. Tabellen gäller för Z154 EQ 4 OR 5.
+Z195,LNU,M FULLFÖLJD UTBILDNING,,Vad är din make/maka/samboendes högsta fullföljda utbildning? Tabellen gäller för Z154 EQ 4 OR 5
+Z196,LNU,ANTAL YNGRE BARN MED KOMMUNAL BARNTILLSYN,,"Antal yngre barn (födda 2000-2010) som har kommunal barntillsyn (kommunalt daghem, fritidshem eller kommunal dagmamma, inkl. trefamiljsystem)."
+Z197,LNU,ANTAL YNGRE BARN MED PRIVAT BARNTILLSYN,,"Antal yngre barn (födda 2000-2010) som har privat barntillsyn (privat dagmamma, föräldrakooperativ eller annat privat daghem eller egen barnflicka)."
+Z198,LNU,ANTAL YNGRE BARN SOM KLARAR SIG SJÄLVA,,Antal yngre barn (födda 2000-2010) i hushållet för vilka det förekommer att han/hon får klara sig själva under någon del av dagen.
+Z199,LNU,ANTAL,,– I HUSHÅLLET BOENDE – GEMENSAMMA BARN  MED NUVARANDE MAKE/MAKA/SAMBO Antal – i hushållet boende – gemensamma barn med nuvarande make/maka/sambo.
+Z2,LNU,PANELKOD,,Intervjupersonens deltagandestatus vid tidigare omgångar av Levnadsnivåundersökningen.
+Z20,LNU,SIOPS EGEN,,Eget yrke enligt the Standard International Occupational Prestige Scale (SIOPS). Redovisas ej.
+Z200,LNU,BIOLOGISKT BARN – BARN 1 (ALLA BARN OAVSETT FÖDELSEÅR),,"Är barnet ditt biologiska barn, adoptivbarn, styvbarn eller fosterbarn? Tabellen gäller för Z160 GT 0."
+Z201,LNU,ANDRA FÖRÄLDERN I IP:S HUSHÅLL – BARN 1 (ALLA BARN OAVSETT FÖDELSEÅR),,Bor barnets andra förälder i ditt hushåll nu? Tabellen gäller för Z200 EQ 1 OR 2.
+Z202,LNU,DAGAR BOR HOS ANDRA FÖRÄLDERN – BARN 1 (BARN FÖDDA 1992 ELLER SENARE),,Ungefär hur många dagar en vanlig månad bor barnet hos den andra föräldern? Tabellen gäller för Z200 EQ 3 OR Z201 EQ 2.
+Z203,LNU,TRÄFFAR FRÅNLEVANDE FÖRÄLDERN – BARN 1 (BARN FÖDDA 1992 ELLER SENARE),,Hur ofta träffar barnet dig/den andre föräldern. Tabellen gäller för Z201 EQ 2 och Z202 NE 15.
+Z204,LNU,IP OCH BARN GÖR NÅGOT MED ANDRA BIOLOGISKA FÖRÄLDERN – BARN 1 (BARN FÖDDA,,
+Z205,LNU,IP  DISKUTERAR  MED  ANDRA  BIOLOGISKA  FÖRÄLDERN  –  BARN  1  (BARN  FÖDDA  1992,,ELLER SENARE) Hur ofta diskuterar du och barnets andra förälder frågor som rör barnet? Tabellen gäller för Z201 EQ 2.
+Z206,LNU,AVSTÅND  TILL  ANDRA  BIOLOGISKA  FÖRÄLDERN  –  BARN  1  (BARN  FÖDDA  1992  ELLER,,SENARE) Avstånd till andra biologiska föräldern i kilometer. Variabeln är kategoriindelad. Tabellen gäller för Z201 EQ 2.
+Z207,LNU,FÖRÄLDRALEDIGHET – BARN 1 (BARN FÖDDA 1992 ELLER SENARE),,Antal  veckors  föräldraledighet  med  det  första  barnet.  Variabeln  är  här  kategoriindelad.  Endast  ip  som  har hemmaboende barn (biologiska eller adopterade) födda 1992 eller senare ska besvara frågan.  Tabellen gäller för Z200 EQ 1 OR 2.
+Z208,LNU,FÖRÄLDRALEDIGHET IP – BARN 1 (BARN FÖDDA 1992 ELLER SENARE),,Antal veckor intervjupersonen var föräldraledig med det första barnet. Variabeln är här kategoriindelad. Endast ip som har hemmaboende barn (biologiska eller adopterade) födda 1992 eller senare ska besvara frågan.  Tabellen gäller för Z200 EQ 1 OR 2.
+Z209,LNU,ÅLDER BARNOMSORG – BARN 1 (BARN FÖDDA 1992 ELLER SENARE),,"Vid vilken ålder började barnet gå på dagis, i förskola, hos dagmamma eller i annan barnomsorg? Månader anges. I vissa fall har IP angett antal år men inte antal månader. I dessa fall indikerar .5 att barnets ålder kan variera uppåt med högst ett år. Exempelvis indikerar värdet 12.5 att barnet började i barnomsorg mellan 12 och"
+Z210,LNU,SJUKDOM/BESVÄR/FUNKTIONSHINDER 1 – BARN 1 (BARN FÖDDA 1992 ELLER SENARE),,"Har barnet någon form av besvär, sjukdom eller funktionshinder som påverkar hans/hennes dagliga liv, t.ex. astma, diabetes, ADHD, dyslexi, nedsatt hörsel?"
+Z211,LNU,STÖD I SKOLAN – BARN 1 (BARN FÖDDA 1992-2003),,Får  barnet  speciellt  stöd i  skolan  för läs-  och  skrivsvårigheter  eller  något  annat?  Eller  går  barnet i  en specialklass eller särskola?
+Z212,LNU,TILLSYN – BARN 1 (BARN FÖDDA 2000-2010),,"Hur är tillsynen av barnet huvudsakligen ordnad på vardagarna, säg mellan kl. 8 och 5 (eller under annan tid du /din partner arbetar)?"
+Z213,LNU,HÖGSTA AVSLUTADE UTBILDNING – BARN 1 (BARN FÖDDA 1991 ELLER TIDIGARE),,Vilket är barnets högsta avslutade utbildning?
+Z214,LNU,PÅGÅENDE UTBILDNING – BARN 1 (BARN FÖDDA 1991 ELLER TIDIGARE),,"Studerar barnet något för närvarande? Om ja, på vilken nivå studerar barnet?"
+Z215,LNU,SYSSELSÄTTNING – BARN 1 (BARN FÖDDA 1991 ELLER TIDIGARE),,Vilken är barnets huvudsakliga sysselsättning?
+Z216egp,LNU,EGP BARN 1 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Erikson, Goldthorpe och Portocarero (EGP)."
+Z216isco88,LNU,ISCO88 BARN 1 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt The International Standard Classification of Occupations, 1988 års indelning (ISCO88). Redovisas ej."
+Z216nyk80,LNU,NYK80 BARN 1 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+Z216nyk85,LNU,NYK85 BARN 1 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Redovisas ej."
+Z216sei,LNU,SEI BARN 1 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt Socioekonomisk indelning (SEI).
+Z216siops,LNU,SIOPS BARN 1 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt the Standard International Occupational Prestige Scale (SIOPS). Redovisas ej.
+Z216ssyk,LNU,SSYK BARN 1 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt Standard för Svensk Yrkesklassificering (SSYK). Redovisas ej.
+Z217,LNU,BIOLOGISKT BARN – BARN 2 (ALLA BARN OAVSETT FÖDELSEÅR),,"Är barnet ditt biologiska barn, adoptivbarn, styvbarn eller fosterbarn? Tabellen gäller för Z160 GT 1."
+Z218,LNU,ANDRA FÖRÄLDERN I IP:S HUSHÅLL – BARN 2 (ALLA BARN OAVSETT FÖDELSEÅR),,Bor barnets andra förälder i ditt hushåll nu? Tabellen gäller för Z217 EQ 1 OR 2.
+Z219,LNU,DAGAR BOR HOS ANDRA FÖRÄLDERN – BARN 2 (BARN FÖDDA 1992 ELLER SENARE),,Ungefär hur många dagar en vanlig månad bor barnet hos den andra föräldern? Tabellen gäller för Z217 EQ 3 OR Z218 EQ 2.
+Z22,LNU,SAMMA BOSTADSORT SEDAN 2000,,Flyttade du till din nuvarande bostadsort före eller efter 2001?
+Z220,LNU,TRÄFFAR FRÅNLEVANDE FÖRÄLDERN – BARN 2 (BARN FÖDDA 1992 ELLER SENARE),,Hur ofta träffar barnet dig/den andre föräldern? Tabellen gäller för Z218 EQ 2 AND Z219 NE 15.
+Z221,LNU,IP OCH BARN GÖR NÅGOT MED ANDRA BIOLOGISKA FÖRÄLDERN – BARN 2 (BARN FÖDDA,,
+Z222,LNU,IP  DISKUTERAR  MED  ANDRA  BIOLOGISKA  FÖRÄLDERN  –  BARN  2  (BARN  FÖDDA  1992,,ELLER SENARE) Hur ofta diskuterar du och barnets andra förälder frågor som rör barnet? Tabellen gäller för Z218 EQ 2.
+Z223,LNU,AVSTÅND  TILL  ANDRA  BIOLOGISKA  FÖRÄLDERN  –  BARN  2  (BARN  FÖDDA  1992  ELLER,,SENARE) Avstånd till andra biologiska föräldern i kilometer. Variabeln är kategoriindelad. Tabellen gäller för Z218 EQ 2.
+Z224,LNU,FÖRÄLDRALEDIGHET – BARN 2 (BARN FÖDDA 1992 ELLER SENARE),,Antal  veckors  föräldraledighet  med  det  andra  barnet.  Variabeln  är  här  kategoriindelad.  Endast  ip  som  har hemmaboende barn (biologiska eller adopterade) födda 1992 eller senare ska besvara frågan.
+Z225,LNU,FÖRÄLDRALEDIGHET IP – BARN 2 (BARN FÖDDA 1992 ELLER SENARE),,Antal veckor intervjupersonen var föräldraledig med det andra barnet. Variabeln är här kategoriindelad. Endast ip som har hemmaboende barn (biologiska eller adopterade) födda 1992 eller senare ska besvara frågan.
+Z226,LNU,ÅLDER BARNOMSORG – BARN 2 (BARN FÖDDA 1992 ELLER SENARE),,"Vid vilken ålder började barnet gå på dagis, i förskola, hos dagmamma eller i annan barnomsorg? Månader anges. I vissa fall har IP angett antal år men inte antal månader. I dessa fall indikerar .5 att barnets ålder kan variera uppåt med högst ett år. Exempelvis indikerar värdet 12.5 att barnet började i barnomsorg mellan 12 och"
+Z227,LNU,SJUKDOM/BESVÄR/FUNKTIONSHINDER 1 – BARN 2 (BARN FÖDDA 1992 ELLER SENARE),,"Har barnet någon form av besvär, sjukdom eller funktionshinder som påverkar barnets dagliga liv, t.ex. astma, diabetes, ADHD, dyslexi, nedsatt hörsel?"
+Z228,LNU,STÖD I SKOLAN – BARN 2 (BARN FÖDDA 1992-2003),,Får  barnet  speciellt  stöd i  skolan  för läs-  och  skrivsvårigheter  eller  något  annat?  Eller  går  barnet i  en specialklass eller särskola?
+Z229,LNU,TILLSYN – BARN 2 (BARN FÖDDA 2000-2010),,"Hur är tillsynen av barnet huvudsakligen ordnad på vardagarna, säg mellan kl. 8 och 5 (eller under annan tid du du/din partner arbetar)?"
+Z23,LNU,"INFLYTTNINGSÅR OCH – MÅNAD, ORTEN",,Vilket år flyttade du till din nuvarande bostadsort? Endast år redovisas.
+Z230,LNU,HÖGSTA AVSLUTADE UTBILDNING – BARN 2 (BARN FÖDDA 1991 ELLER TIDIGARE),,"Vad  är  ditt  andra  barns  högsta  avslutade  utbildning?  Endast  ip  som  har  hemmaboende  barn  (biologiska, adopterade, makes/makas/sambos barn eller annat, t.ex. fosterbarn) födda 1992 eller senare ska besvara frågan."
+Z231,LNU,PÅGÅENDE UTBILDNING – BARN 2 (BARN FÖDDA 1991 ELLER TIDIGARE),,"Studerar barnet något för närvarande? Om ja, på vilken nivå studerar barnet?"
+Z232,LNU,SYSSELSÄTTNING – BARN 2 (BARN FÖDDA 1991 ELLER TIDIGARE),,Vilken är barnets huvudsakliga sysselsättning?
+Z233egp,LNU,EGP BARN 2 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Erikson, Goldthorpe och Portocarero (EGP)."
+Z233isco88,LNU,ISCO88 BARN 2 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets  yrke  enligt  The  International  Standard  Classification  of  Occupations,  1988  års  indelning  (ISCO88). Redovisas ej."
+Z233nyk80,LNU,NYK80 BARN 2 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+Z233nyk85,LNU,NYK85 BARN 2 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Redovisas ej."
+Z233sei,LNU,SEI BARN 2 (BARN FÖDDA 1985 ELLER TIDIGARE),,Vilket yrke har barnet? Kodat enligt Socioekonomisk indelning (SEI).
+Z233siops,LNU,SIOPS BARN 2 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt the Standard International Occupational Prestige Scale (SIOPS). Redovisas ej.
+Z233ssyk,LNU,SSYK BARN 2 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt Standard för Svensk Yrkesklassificering (SSYK). Redovisas ej.
+Z234,LNU,BIOLOGISKT BARN – BARN 3 (ALLA BARN OAVSETT FÖDELSEÅR),,"Är barnet ditt biologiska barn, adoptivbarn, styvbarn eller fosterbarn? Tabellen gäller för Z160 GT 2."
+Z235,LNU,ANDRA FÖRÄLDERN I IP:S HUSHÅLL – BARN 3 (ALLA BARN OAVSETT FÖDELSEÅR),,Bor barnets andra förälder i ditt hushåll nu? Tabellen gäller för Z234 EQ 1 OR 2.
+Z236,LNU,DAGAR BOR HOS ANDRA FÖRÄLDERN – BARN 3 (BARN FÖDDA 1992 ELLER SENARE),,Ungefär hur många dagar en vanlig månad bor barnet hos den andra föräldern? Tabellen gäller för Z234 EQ 3 OR Z235 EQ 2.
+Z237,LNU,TRÄFFAR FRÅNLEVANDE FÖRÄLDERN – BARN 3 (BARN FÖDDA 1992 ELLER SENARE),,Hur ofta träffar barnet dig/den andre föräldern? Tabellen gäller för Z235 EQ 2 AND Z237 NE 15.
+Z238,LNU,IP OCH BARN GÖR NÅGOT MED ANDRA BIOLOGISKA FÖRÄLDERN – BARN 3 (BARN FÖDDA,,
+Z239,LNU,IP  DISKUTERAR  MED  ANDRA  BIOLOGISKA  FÖRÄLDERN  –  BARN  3  (BARN  FÖDDA  1992,,ELLER SENARE) Hur ofta diskuterar du och barnets andra förälder frågor som rör barnet? Tabellen gäller för Z235 EQ 2.
+Z24,LNU,SKÄL TILL SENASTE FLYTTNING,,"Vad var den främsta anledningen till att du flyttade till din nuvarande bostadsort? Tabellen gäller för Z22 NE 2.  Bättre bostad (byggde hus, skaffade större etc.)"
+Z240,LNU,AVSTÅND  TILL  ANDRA  BIOLOGISKA  FÖRÄLDERN  –  BARN  3  (BARN  FÖDDA  1992  ELLER,,SENARE) Avstånd till andra biologiska föräldern i kilometer. Variabeln är kategoriindelad. Tabellen gäller för Z235 EQ 2.
+Z241,LNU,FÖRÄLDRALEDIGHET – BARN 3 (BARN FÖDDA 1992 ELLER SENARE),,Antal  veckors  föräldraledighet  med  det  tredje  barnet.  Variabeln  är  här  kategoriindelad.  Endast  ip  som  har hemmaboende barn (biologiska eller adopterade) födda 1992 eller senare ska besvara frågan.
+Z242,LNU,FÖRÄLDRALEDIGHET IP – BARN 3 (BARN FÖDDA 1992 ELLER SENARE),,Antal veckor intervjupersonen var föräldraledig med det tredje barnet. Variabeln är här kategoriindelad. Endast ip som har hemmaboende barn (biologiska eller adopterade) födda 1992 eller senare ska besvara frågan.
+Z243,LNU,ÅLDER BARNOMSORG – BARN 3 (BARN FÖDDA 1992 ELLER SENARE),,"Vid vilken ålder började barnet gå på dagis, i förskola, hos dagmamma eller i annan barnomsorg? Månader anges. I vissa fall har IP angett antal år men inte antal månader. I dessa fall indikerar .5 att barnets ålder kan variera uppåt med högst ett år. Exempelvis indikerar värdet 12.5 att barnet började i barnomsorg mellan 12 och"
+Z244,LNU,SJUKDOM/BESVÄR/FUNKTIONSHINDER 1 – BARN 3 (BARN FÖDDA 1992 ELLER SENARE),,"Har barnet någon form av besvär, sjukdom eller funktionshinder som påverkar barnets dagliga liv, t.ex. astma, diabetes, ADHD, dyslexi, nedsatt hörsel?"
+Z245,LNU,STÖD I SKOLAN – BARN 3 (BARN FÖDDA 1992-2003),,Får  barnet  speciellt  stöd i  skolan  för läs-  och  skrivsvårigheter  eller  något  annat?  Eller  går  barnet i  en specialklass eller särskola?
+Z246,LNU,TILLSYN – BARN 3 (BARN FÖDDA 2000-2010),,"Hur är tillsynen av barnet huvudsakligen ordnad på vardagarna, säg mellan kl. 8 och 5 (eller under annan tid du du/din partner arbetar)?"
+Z247,LNU,HÖGSTA AVSLUTADE UTBILDNING – BARN 3 (BARN FÖDDA 1991 ELLER TIDIGARE),,"Vad  är  ditt  tredje  barns  högsta  avslutade  utbildning?  Endast  ip  som  har  hemmaboende  barn  (biologiska, adopterade, makes/makas/sambos barn eller annat, t.ex. fosterbarn) födda 1992 eller senare ska besvara frågan."
+Z248,LNU,PÅGÅENDE UTBILDNING – BARN 3 (BARN FÖDDA 1991 ELLER TIDIGARE),,"Studerar barnet något för närvarande? Om ja, på vilken nivå studerar barnet?"
+Z249,LNU,SYSSELSÄTTNING – BARN 3 (BARN FÖDDA 1991 ELLER TIDIGARE),,Vilken är barnets huvudsakliga sysselsättning?
+Z25,LNU,"INFLYTTNINGSÅR OCH – MÅNAD, BOSTADEN",,När flyttade du till din nuvarande bostad? Endast år redovisas.
+Z250egp,LNU,EGP BARN 3 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Erikson, Goldthorpe och Portocarero (EGP)."
+Z250isco88,LNU,ISCO88 BARN 3 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets  yrke  enligt  The  International  Standard  Classification  of  Occupations,  1988  års  indelning  (ISCO88). Redovisas ej"
+Z250nyk80,LNU,NYK80 BARN 3 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+Z250nyk85,LNU,NYK85 BARN 3 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Redovisas ej."
+Z250sei,LNU,SEI BARN 3 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt Socioekonomisk indelning (SEI).
+Z250siops,LNU,SIOPS BARN 3 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt the Standard International Occupational Prestige Scale (SIOPS). Redovisas ej.
+Z250ssyk,LNU,SSYK BARN 3 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt Standard för Svensk Yrkesklassificering (SSYK). Redovisas ej.
+Z251,LNU,BIOLOGISKT BARN – BARN 4 (ALLA BARN OAVSETT FÖDELSEÅR),,"Är barnet ditt biologiska barn, adoptivbarn, styvbarn eller fosterbarn? Tabellen gäller för Z160 GT 3."
+Z252,LNU,ANDRA FÖRÄLDERN I IP:S HUSHÅLL – BARN 4 (ALLA BARN OAVSETT FÖDELSEÅR),,Bor barnets andra förälder i ditt hushåll nu? Tabellen gäller för Z251 EQ 1 OR 2.
+Z253,LNU,DAGAR BOR HOS ANDRA FÖRÄLDERN – BARN 4 (BARN FÖDDA 1992 ELLER SENARE),,Ungefär hur många dagar en vanlig månad bor barnet hos den andra föräldern? Tabellen gäller för Z251 EQ 3 OR Z252 EQ 2.
+Z254,LNU,TRÄFFAR FRÅNLEVANDE FÖRÄLDERN – BARN 4 (BARN FÖDDA 1992 ELLER SENARE),,Hur ofta träffar barnet dig/den andre föräldern? Tabellen gäller för Z252 EQ 2 AND Z253 NE 15.
+Z255,LNU,IP OCH BARN GÖR NÅGOT MED ANDRA BIOLOGISKA FÖRÄLDERN – BARN 4 (BARN FÖDDA,,
+Z256,LNU,IP  DISKUTERAR  MED  ANDRA  BIOLOGISKA  FÖRÄLDERN  –  BARN  4  (BARN  FÖDDA  1992,,ELLER SENARE) Hur ofta diskuterar du och barnets andra förälder frågor som rör barnet? Tabellen gäller för Z252 EQ 2.
+Z257,LNU,AVSTÅND  TILL  ANDRA  BIOLOGISKA  FÖRÄLDERN  –  BARN  4  (BARN  FÖDDA  1992  ELLER,,SENARE) Avstånd till andra biologiska föräldern i kilometer. Variabeln är kategoriindelad. Tabellen gäller för Z252 EQ 2.
+Z258,LNU,FÖRÄLDRALEDIGHET – BARN 4 (BARN FÖDDA 1992 ELLER SENARE),,Antal  veckors  föräldraledighet  med  det  fjärde  barnet.  Variabeln  är  här  kategoriindelad.  Endast  ip  som  har hemmaboende barn (biologiska eller adopterade) födda 1992 eller senare ska besvara frågan.
+Z259,LNU,FÖRÄLDRALEDIGHET IP – BARN 4 (BARN FÖDDA 1992 ELLER SENARE),,Antal veckor intervjupersonen var föräldraledig med det fjärde barnet. Variabeln är här kategoriindelad. Endast ip som har hemmaboende barn (biologiska eller adopterade) födda 1992 eller senare ska besvara frågan.
+Z26,LNU,ANTAL RUM EXKL KÖKET,,Hur många rum utom köket finns det i din bostad?  Tabellen gäller för Z25 NE 9797.
+Z260,LNU,ÅLDER BARNOMSORG – BARN 4 (BARN FÖDDA 1992 ELLER SENARE),,"Vid vilken ålder började barnet gå på dagis, i förskola, hos dagmamma eller i annan barnomsorg? Månader anges. I vissa fall har IP angett antal år men inte antal månader. I dessa fall indikerar .5 att barnets ålder kan variera uppåt med högst ett år. Exempelvis indikerar värdet 12.5 att barnet började i barnomsorg mellan 12 och"
+Z261,LNU,SJUKDOM/BESVÄR/FUNKTIONSHINDER 1 – BARN 4 (BARN FÖDDA 1992 ELLER SENARE),,"Har barnet någon form av besvär, sjukdom eller funktionshinder som påverkar barnets dagliga liv, t.ex. astma, diabetes, ADHD, dyslexi, nedsatt hörsel?."
+Z262,LNU,STÖD I SKOLAN – BARN 4 (BARN FÖDDA 1992-2003),,Får  barnet  speciellt  stöd i  skolan  för läs-  och  skrivsvårigheter  eller  något  annat?  Eller  går  barnet i  en specialklass eller särskola.
+Z263,LNU,TILLSYN – BARN 4 (BARN FÖDDA 2000-2010),,"Hur är tillsynen av barnet huvudsakligen ordnad på vardagarna, säg mellan kl. 8 och 5 (eller under annan tid du du/din partner arbetar)?"
+Z264,LNU,HÖGSTA AVSLUTADE UTBILDNING – BARN 4 (BARN FÖDDA 1991 ELLER TIDIGARE),,"Vad  är  ditt  fjärde  barns  högsta  avslutade  utbildning?  Endast  ip  som  har  hemmaboende  barn  (biologiska, adopterade, makes/makas/sambos barn eller annat, t.ex. fosterbarn) födda 1992 eller senare ska besvara frågan."
+Z265,LNU,PÅGÅENDE UTBILDNING – BARN 4 (BARN FÖDDA 1991 ELLER TIDIGARE),,"Studerar barnet något för närvarande? Om ja, på vilken nivå studerar barnet?"
+Z266,LNU,SYSSELSÄTTNING – BARN 4 (BARN FÖDDA 1991 ELLER TIDIGARE),,Vilken är barnets huvudsakliga sysselsättning?
+Z267egp,LNU,EGP BARN 4 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Erikson, Goldthorpe och Portocarero (EGP)."
+Z267isco88,LNU,ISCO88 BARN 4 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets  yrke  enligt  The  International  Standard  Classification  of  Occupations,  1988  års  indelning  (ISCO88). Redovisas ej"
+Z267nyk80,LNU,NYK80 BARN 4 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+Z267nyk85,LNU,NYK85 BARN 4 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Redovisas ej."
+Z267sei,LNU,SEI BARN 4 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt Socioekonomisk indelning (SEI)
+Z267siops,LNU,SIOPS BARN 4 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt the Standard International Occupational Prestige Scale (SIOPS). Redovisas ej.
+Z267ssyk,LNU,SSYK BARN 4 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt Standard för Svensk Yrkesklassificering (SSYK). Redovisas ej.
+Z268,LNU,BIOLOGISKT BARN – BARN 5 (ALLA BARN OAVSETT FÖDELSEÅR),,"Är barnet ditt biologiska barn, adoptivbarn, styvbarn eller fosterbarn? Tabellen gäller för Z160 GT 4."
+Z269,LNU,ANDRA FÖRÄLDERN I IP:S HUSHÅLL – BARN 5 (ALLA BARN OAVSETT FÖDELSEÅR),,Bor barnets andra förälder i ditt hushåll nu? Tabellen gäller för Z268 EQ 1 OR 2.
+Z27,LNU,BOENDEYTA KVM,,Hur stor är bostaden räknat i kvadratmeter (m²)? Variabeln är här kategoriindelad Tabellen gäller för Z25 NE 9797.
+Z270,LNU,DAGAR BOR HOS ANDRA FÖRÄLDERN – BARN 5 (BARN FÖDDA 1992 ELLER SENARE),,Ungefär hur många dagar en vanlig månad bor barnet hos den andra föräldern? Tabellen gäller för Z268 EQ 3 OR Z269 EQ 2.
+Z271,LNU,TRÄFFAR FRÅNLEVANDE FÖRÄLDERN – BARN 5 (BARN FÖDDA 1992 ELLER SENARE),,Hur ofta träffar barnet dig/den andre föräldern? Tabellen gäller för Z269 EQ 2 och Z271 NE 15.
+Z272,LNU,IP OCH BARN GÖR NÅGOT MED ANDRA BIOLOGISKA FÖRÄLDERN – BARN 5 (BARN FÖDDA,,
+Z273,LNU,IP  DISKUTERAR  MED  ANDRA  BIOLOGISKA  FÖRÄLDERN  –  BARN  5  (BARN  FÖDDA  1992,,ELLER SENARE) Hur ofta diskuterar du och barnets andra förälder frågor som rör barnet? Tabellen gäller för Z269 EQ 2.
+Z274,LNU,AVSTÅND  TILL  ANDRA  BIOLOGISKA  FÖRÄLDERN  –  BARN  5  (BARN  FÖDDA  1992  ELLER,,SENARE) Avstånd till andra biologiska föräldern i kilometer. Variabeln är kategoriindelad. Tabellen gäller för Z269 EQ 2.
+Z275,LNU,FÖRÄLDRALEDIGHET – BARN 5 (BARN FÖDDA 1992 ELLER SENARE),,Antal  veckors  föräldraledighet  med  det  femte  barnet.  Variabeln  är  här  kategoriindelad.  Endast  ip  som  har hemmaboende barn (biologiska eller adopterade) födda 1992 eller senare ska besvara frågan.
+Z276,LNU,FÖRÄLDRALEDIGHET IP – BARN 5 (BARN FÖDDA 1992 ELLER SENARE),,Antal veckor intervjupersonen var föräldraledig med det femte barnet. Variabeln är här kategoriindelad. Endast ip som har hemmaboende barn (biologiska eller adopterade) födda 1992 eller senare ska besvara frågan.
+Z277,LNU,ÅLDER BARNOMSORG – BARN 5 (BARN FÖDDA 1992 ELLER SENARE),,"Vid vilken ålder började barnet gå på dagis, i förskola, hos dagmamma eller i annan barnomsorg? Månader anges. I vissa fall har IP angett antal år men inte antal månader. I dessa fall indikerar .5 att barnets ålder kan variera uppåt med högst ett år. Exempelvis indikerar värdet 12.5 att barnet började i barnomsorg mellan 12 och"
+Z278,LNU,SJUKDOM/BESVÄR/FUNKTIONSHINDER 1 – BARN 5 (BARN FÖDDA 1992 ELLER SENARE),,"Har barnet någon form av besvär, sjukdom eller funktionshinder som påverkar barnets dagliga liv, t.ex. astma, diabetes, ADHD, dyslexi, nedsatt hörsel?"
+Z279,LNU,STÖD I SKOLAN – BARN 5 (BARN FÖDDA 1992-2003),,Får  barnet  speciellt  stöd i  skolan  för läs-  och  skrivsvårigheter  eller  något  annat?  Eller  går  barnet i  en specialklass eller särskola.
+Z28,LNU,ANTAL LÄGENHETER I HUSET,,"Hur många lägenheter finns det i huset där du bor, inräknat alla trappuppgångar? Tabellen gäller för Z25 NE 9797."
+Z280,LNU,TILLSYN – BARN 5 (BARN FÖDDA 2000-2010),,"Hur är tillsynen av barnet huvudsakligen ordnad på vardagarna, säg mellan kl. 8 och 5 (eller under annan tid du du/din partner arbetar)?"
+Z281,LNU,HÖGSTA AVSLUTADE UTBILDNING – BARN 5 (BARN FÖDDA 1991 ELLER TIDIGARE),,"Vad  är  ditt  femte  barns  högsta  avslutade  utbildning?  Endast  ip  som  har  hemmaboende  barn  (biologiska, adopterade, makes/makas/sambos barn eller annat, t.ex. fosterbarn) födda 1992 eller senare ska besvara frågan."
+Z282,LNU,PÅGÅENDE UTBILDNING – BARN 5 (BARN FÖDDA 1991 ELLER TIDIGARE),,"Studerar barnet något för närvarande? Om ja, på vilken nivå studerar barnet?"
+Z283,LNU,SYSSELSÄTTNING – BARN 5 (BARN FÖDDA 1991 ELLER TIDIGARE),,Vilken är barnets huvudsakliga sysselsättning?
+Z284egp,LNU,EGP BARN 5 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Erikson, Goldthorpe och Portocarero (EGP).  Ej aktuellt"
+Z284isco88,LNU,ISCO88 BARN 5 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets  yrke  enligt  The  International  Standard  Classification  of  Occupations,  1988  års  indelning  (ISCO88). Redovisas ej"
+Z284nyk80,LNU,NYK80 BARN 5 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+Z284nyk85,LNU,NYK85 BARN 5 (BARN FÖDDA 1985 ELLER TIDIGARE),,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Redovisas ej."
+Z284sei,LNU,SEI BARN 5 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt Socioekonomisk indelning (SEI).  Ej aktuellt
+Z284siops,LNU,SIOPS BARN 5 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt the Standard International Occupational Prestige Scale (SIOPS). Redovisas ej.
+Z284ssyk,LNU,SSYK BARN 5 (BARN FÖDDA 1985 ELLER TIDIGARE),,Barnets yrke enligt Standard för Svensk Yrkesklassificering (SSYK). Redovisas ej.
+Z285,LNU,ANTAL YNGRE BARN MED SJUKDOM/BESVÄR/FUNKTIONSHINDER,,Antal barn födda 2004 eller senare med någon sjukdom eller något besvär/funktionshinder? Tabellen gäller för ip som har barn födda 2004 eller senare.
+Z286,LNU,EJ HEMMAVARANDE BARN,,Har du eller har du haft några barn som nu inte bor tillsammans med dig? (Även adoptiv- och styvbarn samt barn som avlidit – dock ej fosterbarn om det ej räknas som eget).
+Z287,LNU,ANTAL EJ HEMMAVARANDE BARN,,Hur många barn är det sammanlagt (som alltså inte bor med dig nu)? Tabellen gäller för Z286 EQ 1.
+Z288,LNU,ANTAL BORTASMÅBARN,,Antal ej hemmaboende barn födda år 2004 eller senare. Tabellen gäller för Z286 EQ 1.
+Z289,LNU,ANTAL BORTASKOLBARN,,Antal ej hemmaboende barn födda mellan år 1992 och 2003. Tabellen gäller för Z286 EQ 1.
+Z29,LNU,BÖCKER I BOSTADEN,,"Har du i din bostad tillgång till minst två hyllmeter böcker, uppslagsverk oräknade? Om ja: Har du tillgång till minst fem hyllmeter böcker, uppslagsverk oräknade? Tabellen gäller för Z25 NE 9797."
+Z290,LNU,ANTAL VUXNA BORTABARN,,Antal ej hemmaboende barn födda mellan år 1984 och 1991. Tabellen gäller för Z286 EQ 1.
+Z291,LNU,ANTAL DÖDA BARN,,Antal avlidna barn födda 1984 eller senare. Tabellen gäller för Z286 EQ 1.
+Z292,LNU,ANTAL BORTABARN SOM BOR HOS ANDRA FÖRÄLDERN,,Antal bortabarn som bor hos andra föräldern. Tabellen gäller för Z286 EQ 1.
+Z293,LNU,KÖN – BORTABARN 1*,,"Kön, första bortabarnet. Tabellen gäller för Z286 EQ 1."
+Z294,LNU,FÖDELSEÅR – BORTABARN 1*,,"Födelseår, första bortabarnet. Variabeln är kategoriindelad. Tabellen gäller för Z286 EQ 1."
+Z295,LNU,BIOLOGISKT BARN – BORTABARN 1*,,"Är han/hon [första bortabarnet] ditt biologiska barn, adoptivbarn, styvbarn eller fosterbarn? Tabellen gäller för Z286 EQ 1."
+Z296,LNU,ANDRA FÖRÄLDERN I IP:S HUSHÅLL – BORTABARN 1*,,ANDRA FÖRÄLDERN I IP:S HUSHÅLL – BORTABARN 1* Bor hans/hennes [första bortabarnet] andra förälder i ditt hushåll nu? Tabellen gäller för Z295 EQ 1 OR 2 och för ip som inte bor ensam i hushållet.
+Z297,LNU,BOR HOS ANDRA BIOLOGISKA FÖRÄLDERN – BORTABARN 1*,,Bor han/hon [första bortabarnet] hos sin andra förälder nu? Tabellen gäller för Z295 EQ 1 OR 2 och Z296 EQ 2 och barnet som avses föddes 1992 eller senare.
+Z298,LNU,ÅR SLUTADE BO I SAMMA HUSHÅLL – BORTABARN 1*,,Vilket år slutade ni bo i samma hushåll [gäller första bortabarnet]? Variabeln är kategoriindelad Tabellen gäller för Z295 NE 5 OR 9.
+Z299,LNU,FÖRÄLDRALEDIGHET – BORTABARN 1*,,FÖRÄLDRALEDIGHET – BORTABARN 1* Totalt antal dagar ip och andra föräldern varit föräldraledig för detta barn [första bortabarnet]. Tabellen gäller för Z295 EQ 1 OR 2 och barnet som avses föddes 1992 eller senare.
+Z3,LNU,INGICK I URVALET FÖR BARN-LNU 2000,,
+Z30,LNU,DAGLIG TIDNING I BOSTADEN,,Har du i din bostad tillgång till en daglig tidning? Tabellen gäller för Z25 NE 9797.
+Z300,LNU,FÖRÄLDRALEDIGHET IP – BORTABARN 1*,,Ungefär hur många dagar har du varit föräldraledig för detta barn [första bortabarnet]? Tabellen gäller för Z295 EQ 1 OR 2 och barnet som avses föddes 1992 eller senare.
+Z301,LNU,TRÄFFAR BARN – BORTABARN 1*,,Hur ofta brukar du träffa honom/henne [första bortabarnet]? Tabellen gäller för Z295 NE 5.
+Z302,LNU,KONTAKT MED BARN – BORTABARN 1*,,"Hur ofta brukar du ha kontakt per telefon, e-post, SMS, chatt eller annan liknande kontakt med honom/henne [första bortabarnet]? Tabellen gäller för Z295 NE 5."
+Z303,LNU,AVSTÅND TILL BARN – BORTABARN 1*,,AVSTÅND TILL BARN – BORTABARN 1* Avstånd till första bortabarnet i kilometer. Variabeln är kategoriindelad. Tabellen gäller för Z295 NE 5.
+Z304,LNU,HÖGSTA AVSLUTADE UTBILDNING – BORTABARN 1*,,HÖGSTA AVSLUTADE UTBILDNING – BORTABARN 1* Vilken är den högsta avslutade utbildning han/hon har [första bortabarnet]? Tabellen gäller för barn födda 1991 eller tidigare.
+Z305,LNU,PÅGÅENDE UTBILDNING – BORTABARN 1*,,"Nivå för pågående studier, första bortabarnet. Tabellen gäller för barn födda 1991 eller tidigare studerar för närvarande."
+Z306egp,LNU,EGP BORTABARN 1*,,"Barnets yrke enligt Erikson, Goldthorpe och Portocarero (EGP). Tabellen gäller för barn födda 1985 eller tidigare."
+Z306isco88,LNU,ISCO88 BORTABARN 1*,,"Barnets  yrke  enligt  The  International  Standard  Classification  of  Occupations,  1988  års  indelning  (ISCO88). Redovisas ej. Gäller för barn födda 1985 eller tidigare. * Motsvarande uppgifter för ytterligare bortabarn, se Z306isco88_a till _j."
+Z306nyk80,LNU,NYK80 BORTABARN 1*,,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej. Gäller för barn födda 1985 eller tidigare. * Motsvarande uppgifter för ytterligare bortabarn, se Z306nyk80_a till _j."
+Z306nyk85,LNU,NYK85 BORTABARN 1*,,"Barnets yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Redovisas ej. Gäller för barn födda 1985 eller tidigare. * Motsvarande uppgifter för ytterligare bortabarn, se Z306nyk85_a till _j."
+Z306sei,LNU,SEI BORTABARN 1*,,Barnets yrke enligt Socioekonomisk indelning (SEI). Tabellen gäller för barn födda 1985 eller tidigare.
+Z306siops,LNU,SIOPS BORTABARN 1*,,"Barnets yrke enligt the Standard International Occupational Prestige Scale (SIOPS). Redovisas ej. Gäller för barn födda 1985 eller tidigare. * Motsvarande uppgifter för ytterligare bortabarn, se Z306siops_a till _j."
+Z306ssyk,LNU,SSYK BORTABARN 1*,,"Kodat enligt Standard för Svensk Yrkesklassificering (SSYK). Redovisas ej. Gäller för barn födda 1985 eller tidigare. * Motsvarande uppgifter för ytterligare bortabarn, se Z306ssyk_a till _j."
+Z307,LNU,SÄRBOFÖRHÅLLANDE,,Har du ett stadigt förhållande med någon som du inte bor tillsammans med? Tabellen gäller för Z154 NE 4 OR 5.
+Z308,LNU,SÄRBOFÖRHÅLLANDETS LÄNGD,,Ungefär hur många år har förhållandet varat? Tabellen gäller för Z307 EQ 1.
+Z309,LNU,SAMMANBOENDE TIDIGARE,,Har du tidigare varit gift eller sambo i minst sex månader?
+Z31,LNU,PROBLEM BOSTAD/OMRÅDE: BULLER,,(Har du något av följande problem där du bor…) … buller från trafik? Tabellen gäller för Z25 NE 9797.
+Z310,LNU,ANTAL TIDIGARE SAMMANBOENDEN,,Antal gånger som ip tidigare varit sammanboende i minst sex månader?
+Z311,LNU,ANTAL TIDIGARE ÄKTENSKAP,,Antal gånger som ip tidigare varit gift.
+Z312,LNU,ÅR/MÅN FÖR FÖRSTA SAMMANBOENDE,,Årtal och månad då ip för första gången inledde äktenskap eller samboende som varade i minst sex månader. Om ip inte tidigare varit gift eller sammanboende avser uppgiften nuvarande äktenskap/samboende. Endast år redovisas. Variabeln är här kategoriindelad.
+Z313,LNU,VARAKTIGHET FÖRSTA SAMMANBOENDE,,Antal påbörjade år som första giftermål eller sammanboende varade. Om ip inte tidigare varit gift eller sambo avser uppgiften hur länge (antal påbörjade år) det nuvarande äktenskapet/sammanboendet pågått. Variabeln är här kategoriindelad.
+Z314,LNU,CIVILSTÅND FÖRSTA SAMMANBOENDE,,Vilket var ditt civilstånd vid första sammanboendet?
+Z315,LNU,ÅR/MÅN SENASTE AVSLUTADE SAMMANBOENDE,,Årtal och månad då ip:s senaste giftermål eller sammanboende som varat i minst sex månader upphörde. Endast år redovisas. Variabeln är här kategoriindelad.
+Z316,LNU,VARAKTIGHET SENASTE AVSLUTADE SAMMANBOENDE,,Antal påbörjade år som första giftermål eller sammanboende varade. Om ip inte tidigare varit gift eller sambo avser uppgiften hur länge (antal påbörjade år) det nuvarande äktenskapet/sammanboendet pågått. Variabeln är här kategoriindelad.
+Z317,LNU,SEPARATIONSANLEDNING SENASTE AVSLUTADE SAMMANBOENDE,,"Anledning  till  upphörande  av  det  senaste  sammanboende  som  varat  i  minst  sex  månader.  Berodde  det  på skilsmässa/separation, dödsfall, eller annat?"
+Z318,LNU,CIVILSTÅND SENASTE AVSLUTADE SAMMANBOENDE,,Vilket var ditt civilstånd vid senaste avslutade sammanboendet?
+Z319,LNU,MEST PÅDRIVANDE I SEPARATIONSBESLUT,,"MEST PÅDRIVANDE I SEPARATIONSBESLUT I ditt senast avslutade sammanboende, vem var mest pådrivande i beslutet att separera,  du eller din partner?  Du i mycket högre grad än din partner"
+Z32,LNU,PROBLEM BOSTAD/OMRÅDE: DÅLIGT UNDERHÅLL,,(Har du något av följande problem där du bor…) … att bostadshuset är dåligt underhållet? Tabellen gäller för Z25 NE 9797.
+Z320,LNU,ANTAL NÄRA VÄNNER,,"Hur  många  nära  vänner  skulle  du  säga  att  du  har  (inkl.  arbetskamrater,  grannar  och  släktingar,  men  inte familjemedlemmar)? Variabeln är här kategoriindelad."
+Z321,LNU,NÄRA VÄNNER – MÄN,,Hur många av dina nära vänner är män? Variabeln är här kategoriindelad. Tabellen gäller för Z320 GT 0.
+Z322,LNU,NÄRA VÄNNER – FÖDDA I ANNAT LAND,,Hur många av dina nära vänner är födda i ett annat land än Sverige? Variabeln är här kategoriindelad. Tabellen gäller för Z320 GT 0.
+Z323,LNU,NÄRA VÄNNER – ARBETSLÖSA,,Hur många av dina nära vänner är arbetslösa för närvarande? Variabeln är här kategoriindelad. Tabellen gäller för Z320 GT 0.
+Z324,LNU,TRÄFFAR NÄRA VÄNNER HUR OFTA,,Hur ofta brukar du träffa någon av dessa nära vänner (denne vän)? Tabellen gäller för Z320 GT 0.
+Z325,LNU,TELEFONKONTAKT MED NÄRA VÄNNER HUR OFTA,,Hur ofta brukar du ringa dessa nära vänner (denne vän)? Tabellen gäller för Z320 GT 0.
+Z326,LNU,SEI NÄRMASTE VÄN,,Närmaste väns yrke enligt Socioekonomisk indelning (SEI).  Tabellen gäller för Z320 GT 0.
+Z327,LNU,NYK80 NÄRMASTE VÄN,,"Närmaste väns yrke enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+Z328,LNU,NYK85 NÄRMASTE VÄN,,"Närmaste väns yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Redovisas ej."
+Z329,LNU,SSYK NÄRMASTE VÄN,,SSYK NÄRMASTE VÄN Närmaste väns yrke enligt Standard för Svensk Yrkesklassificering (SSYK). Redovisas ej.
+Z33,LNU,"PROBLEM BOSTAD/OMRÅDE: OLJUD, GRANNAR",,(Har du något av följande problem där du bor…) … oljud från grannar? Tabellen gäller för Z25 NE 9797.
+Z330,LNU,ISCO88 NÄRMASTE VÄN,,"Närmaste  väns  yrke  enligt  The  International  Standard  Classification  of  Occupations,  1988  års  indelning (ISCO88). Redovisas ej"
+Z331,LNU,SIOPS NÄRMASTE VÄN,,Närmaste väns yrke enligt the Standard International Occupational Prestige Scale (SIOPS). Redovisas ej.
+Z332,LNU,EGP NÄRMASTE VÄN,,"Närmaste väns yrke enligt Erikson, Goldthorpe, Portocarero (EGP)."
+Z34,LNU,PROBLEM BOSTAD/OMRÅDE: VANDALISM ELLER BROTTSLIGHET,,(Har du något av följande problem där du bor…) … vandalism eller brottslighet? Tabellen gäller för Z25 NE 9797.
+Z342,LNU,IP:S UTBILDNINGSÅR,,Hur många år har din sammanlagda skol- och yrkesutbildning på heltid varat? (Från första klass och uppåt.)
+Z343,LNU,IP:S SAMMANLAGDA YRKESUTBILDNING,,Hur många år har din sammanlagda yrkesutbildning på heltid varat?
+Z344,LNU,HÖGSTA AVSLUTADE UTBILDNING I SVERIGE,,Har du gått din högsta avslutade utbildning i Sverige?
+Z345,LNU,LAND FÖR HÖGSTA UTBILDNING,,I vilket annat land har du gått din högsta avslutade utbildning? Tabellen gäller för Z344 EQ 2.  AFGHANISTAN
+Z346,LNU,UTBILDNINGSÅR UTOMLANDS,,Hur många år har du sammanlagt studerat i annat land än Sverige? Gäller för ip som har studerat utomlands.
+Z347,LNU,LAND FÖR UTLÄNDSK UTBILDNING (dock ej nödvändigtvis högsta avslutade),,Land för utländsk utbildning.  AFGHANISTAN
+Z348,LNU,HÖGSTA UTBILDNINGSNIVÅ UTOMLANDS,,Svensk motsvarighet för högsta uppnådda utbildningsnivå utomlands.
+Z349,LNU,UTBILDNINGSMÅNADER I SVERIGE,,Antal månader i utbildning i Sverige. Variabeln är kategoriindelad.
+Z35,LNU,PROBLEM BOSTAD/OMRÅDE: BRIST PÅ KOLLEKTIVA FÄRDMEDEL,,(Har du något av följande problem där du bor…) … brist på kollektiva färdmedel? Tabellen gäller för Z25 NE 9797.
+Z350,LNU,NIVÅ HÖGSTA UTBILDNING,,"Ip: högsta utbildning enligt Svensk utbildningsnomenklatur (SUN, treställig)"
+Z352,LNU,IP:S UTBILDNINGSNIVÅ,,"Ip: utbildningsnivå enligt Svensk utbildningsnomenklatur (SUN, åttaställig)"
+Z354,LNU,ÅR/MÅNAD AVSLUTAD HÖGSTA UTBILDNING,,Årtal  då  ip  avslutande  sin  högsta  utbildning  enligt  intervju  eller  SCB:s  utbildningsregister.  Variabeln  är kategoriindelad.
+Z355,LNU,STUDERAR NU: TYP AV STUDIER,,Ip:s nuvarande studiesituation.
+Z359,LNU,ANTAL ÅR I FÖRVÄRVSARBETE,,Ungefär hur många år har du förvärvsarbetat sammanlagt? Variabeln är här kategoriindelad.
+Z36,LNU,PROBLEM BOSTAD/OMRÅDE: RÄDD PÅ KVÄLLEN,,(Har du något av följande problem där du bor…) … att du är rädd för att gå ut på kvällen? Tabellen gäller för Z25 NE 9797.
+Z360,LNU,ARBETAT 6 MÅNADER NÅGON GÅNG,,Har du någon gång haft ett arbete som varat minst 6 månader?
+Z361,LNU,LAND FÖR FÖRSTA ARBETE OM 6 MÅNADER I ANNAT LAND ÄN SVERIGE,,Land för första jobbet som varade minst 6 månader.  Tabellen gäller för Z360 EQ 1.  AFGHANISTAN
+Z362,LNU,ÅR/MÅNAD START FÖR FÖRSTA ARBETE I ANNAT LAND ÄN SVERIGE,,År och månad för start av första arbete i annat land än Sverige? Variabeln är kategoriindelad.
+Z363,LNU,ÅR/MÅNAD SLUT FÖR FÖRSTA ARBETE I ANNAT LAND ÄN SVERIGE,,År och månad för avslut av första arbete i annat land än Sverige? Variabeln är kategoriindelad.
+Z364,LNU,ÅR/MÅNAD START FÖR SISTA ARBETE I ANNAT LAND ÄN SVERIGE,,År och månad för start av sista arbete i annat land än Sverige? Variabeln är kategoriindelad.
+Z365,LNU,ÅR/MÅNAD SLUT FÖR SISTA ARBETE I ANNAT LAND ÄN SVERIGE,,År och månad för avslut av sista arbete i annat land än Sverige? Variabeln är kategoriindelad.
+Z366,LNU,LAND FÖR SISTA ARBETE I ANNAT LAND ÄN SVERIGE,,Land för sista arbete i annat land än Sverige.  AFGHANISTAN
+Z367,LNU,BÖRJADE ARBETA (I SVERIGE): ÅRTAL,,Vilket år och vilken månad började du ditt första arbete som varade minst 6 månader? Endast år redovisas. Variabeln är här kategoriindelad.
+Z368,LNU,KVAR I FÖRSTA ARBETET (OM MINST 6 MÅNADER),,Är du kvar i samma befattning på samma arbetsplats idag?
+Z369,LNU,TID I FÖRVÄRVSARBETE MÅNADER,,"Totalt antal månader i förvärvsarbete fr.o.m. det första arbetet som varade minst 6 månader, enligt sysselsättningsbiografin. Variabeln är här kategoriindelad."
+Z37,LNU,BOSTADSFÖRESTÅNDARE,,Vem är det som står för den bostad som du bor i? Tabellen gäller för Z25 NE 9797.
+Z370,LNU,I FÖRVÄRVSARBETE SENAST NÄR,,"Årtal då ip senast förvärvsarbetade, enligt sysselsättningsbiografin. Variabeln är här kategoriindelad."
+Z371,LNU,TID I ARBETSLÖSHET MÅNADER,,"Totalt antal månader i arbetslöshet fr.o.m. det första arbetet som varade minst 6 månader, enligt sysselsättningsbiografin. Variabeln är här kategoriindelad."
+Z372,LNU,"ARBETSLÖS MINST 1 MÅNAD SENAST NÄR, ÅRTAL",,"Om  du  någon  gång  fått  gå  arbetslös  minst  1  månader,  när  hände  det  (senaste  gången)?  Variabeln  är  här kategoriindelad."
+Z373,LNU,ANTAL GÅNGER ARBETSLÖS MINST 1 MÅNAD,,Antal gånger ip gått arbetslös minst en månad. Variabeln är här kategoriindelad
+Z374,LNU,ANSTÄLLNINGSÅR NUVARANDE ARBETE,,"Årtal då ip anställdes i sitt nuvarande arbete, enligt sysselsättningsbiografin. Variabeln är här kategoriindelad."
+Z375,LNU,SENIORITET NUVARANDE ARBETSPLATS MÅNADER,,"Antal månader som ip varit anställd på sin nuvarande arbetsplats, enligt sysselsättningsbiografin.  Variabeln är här kategoriindelad."
+Z376,LNU,SENIORITET NUVARANDE ARBETE MÅNADER,,"Antal  månader som ip  haft sitt  nuvarande arbete, enligt sysselsättningsbiografin.  Variabeln är  här kategoriindelad. Gäller enbart anställda."
+Z377,LNU,ANTAL FÖRVÄRVSARBETEN TOTALT,,"Totalt antal förvärvsarbeten fr.o.m. det första arbetet som varade  minst sex  månader, enligt sysselsättningsbiografin."
+Z378,LNU,ANTAL ARBETEN SOM ANSTÄLLD,,"Totalt antal arbeten som anställd fr.o.m.  det första arbetet som  varade  minst sex  månader, enligt sysselsättningsbiografin."
+Z379,LNU,ANTAL ARBETSSTÄLLEN SOM ANSTÄLLD,,"Totalt  antal  arbetsställen  som  anställd  fr.o.m.  det  första  arbetet  som  varade  minst  sex  månader,  enligt sysselsättningsbiografin."
+Z38,LNU,BOKOSTNAD – EJ FÖRESTÅNDARE,,Betalar du själv något för bostaden? Hur mycket per månad (kr)? Variabeln är här kategoriindelad. Tabellen gäller för Z37 NE 1.
+Z380,LNU,TID BORTA FRÅN FÖRVÄRVSARBETE MÅNADER,,"Totalt  antal  månader  utan  förvärvsarbete  sedan  det  första  arbetet  som  varade  minst  sex  månader,  enligt sysselsättningsbiografin. Variabeln är här kategoriindelad."
+Z381,LNU,TID FÖRÄLDRALEDIGHET MÅNADER,,"Totalt  antal  månader i  föräldraledighet  sedan  det  första  arbetet  som  varade  minst  sex  månader,  enligt sysselsättningsbiografin. Variabeln är här kategoriindelad."
+Z382,LNU,TID I HEMARBETE MÅNADER,,"Totalt  antal  månader i  hemmarbete sedan  det första  arbetet som  varade  minst sex  månader,  enligt sysselsättningsbiografin. Variabeln är här kategoriindelad."
+Z383,LNU,TID I STUDIER MÅNADER,,"Totalt antal  månader i studier sedan det första arbetet som varade  minst sex  månader, enligt sysselsättningsbiografin. Variabeln är här kategoriindelad."
+Z384,LNU,ANTAL GGR I STUDIER MINST 1 MÅNAD,,Totalt antal perioder i studier.
+Z385,LNU,ANTAL GGR BORTA FRÅN ARBETET MINST 1 MÅNAD,,Totalt antal perioder borta från arbete.
+Z386,LNU,ARBETSLIVSAVBROTT SENAST NÄR,,Årtal för senaste tidpunkt ip borta från arbete. Variabeln är kategoriindelad.
+Z387,LNU,SEI 25 ÅR,,Socioekonomisk grupp (SEI) för det senast innehavda förvärvsarbetet vid
+Z388,LNU,NYK80 25 ÅR,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för det senast innehavda arbetet vid 25 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z389,LNU,NYK85 25 ÅR,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för det senast innehavda arbetet vid 25 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z39,LNU,BESITTNINGSTYP,,"Äger du huset, eller innehar du lägenheten med bostadsrätt (genom insats), eller hyr du bostaden? Tabellen gäller för Z37 EQ 1."
+Z394,LNU,EGP 25 ÅR,,"Klass (EGP) för det senast innehavda förvärvsarbetet vid 25 års ålder, enligt sysselsättningsbiografin."
+Z395,LNU,SEKTOR 25 ÅR,,"Sektor för det senast innehavda förvärvsarbetet vid 25 års ålder, enligt sysselsättningsbiografin."
+Z396,LNU,AKTIVITETSTYP 25 ÅR,,"Typ av huvudsaklig sysselsättning vid 25 års ålder, enligt sysselsättningsbiografin."
+Z397,LNU,ÅLDER VID SENASTE ARBETE 25 ÅR,,"Ålder då ip senast förvärvsarbetade, räknat vid 25 års ålder, enligt sysselsättningsbiografin."
+Z398,LNU,ARBETSPLATSENS STORLEK 25 ÅR,,"Antal anställda  på arbetsplatsen för det senast innehavda förvärvsarbetet vid  25 års ålder, enligt sysselsättningsbiografin."
+Z399,LNU,SEI 30 ÅR,,Socioekonomisk grupp (SEI) för det senast innehavda förvärvsarbetet vid
+Z4,LNU,INTERVJUARNUMMER,,Intervjuarens id. Redovisas ej.
+Z40,LNU,HYR I FÖRSTA HAND,,Hyr du/ni i första eller andra hand?  Tabellen gäller för Z39 EQ 3.
+Z400,LNU,NYK80 30 ÅR,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för det senast innehavda arbetet vid 30 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z401,LNU,NYK85 30 ÅR,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för det senast innehavda arbetet vid 30 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z406,LNU,EGP 30 ÅR,,"Klass (EGP) för det senast innehavda förvärvsarbetet vid 30 års ålder, enligt sysselsättningsbiografin."
+Z407,LNU,SEKTOR 30 ÅR,,"Sektor för det senast innehavda förvärvsarbetet vid 30 års ålder, enligt sysselsättningsbiografin."
+Z408,LNU,AKTIVITETSTYP 30 ÅR,,"Typ av huvudsaklig sysselsättning vid 30 års ålder, enligt sysselsättningsbiografin."
+Z409,LNU,ÅLDER VID SENASTE ARBETE 30 ÅR,,"Ålder då ip senast förvärvsarbetade, räknat vid 30 års ålder, enligt sysselsättningsbiografin."
+Z41,LNU,BOKOSTNAD – HYRA,,"Hur stor är din hyra eller avgift per månad? Räkna med eventuellt bränsletillägg eller uppvärmningskostnad som du får betala, men dra inte ifrån eventuellt bostadsbidrag. Variabeln är här kategoriindelad. Tabellen gäller för Z39 NE 1."
+Z410,LNU,ARBETSPLATSENS STORLEK 30 ÅR,,"Antal anställda  på arbetsplatsen för det senast innehavda förvärvsarbetet vid  30 års ålder, enligt sysselsättningsbiografin."
+Z411,LNU,SEI 35 ÅR,,Socioekonomisk grupp (SEI) för det senast innehavda förvärvsarbetet vid
+Z412,LNU,NYK80 35 ÅR,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för det senast innehavda arbetet vid 35 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z413,LNU,NYK85 35 ÅR,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för det senast innehavda arbetet vid 35 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z418,LNU,EGP 35 ÅR,,"Klass (EGP) för det senast innehavda förvärvsarbetet vid 35 års ålder, enligt sysselsättningsbiografin."
+Z419,LNU,SEKTOR 35 ÅR,,"Sektor för det senast innehavda förvärvsarbetet vid 35 års ålder, enligt sysselsättningsbiografin."
+Z42,LNU,UTRYMMESSTANDARD,,"Index  över  bostadsutrymme  baserat  på  frågorna  om  antalet  rum  i  bostaden  och  antalet  personer  i  hushållet  (Z26, Z151). Tabellen gäller för Z25 NE 9797."
+Z420,LNU,AKTIVITETSTYP 35 ÅR,,"Typ av huvudsaklig sysselsättning vid 35 års ålder, enligt sysselsättningsbiografin."
+Z421,LNU,ÅLDER VID SENASTE ARBETE 35 ÅR,,"Ålder då ip senast förvärvsarbetade, räknat vid 35 års ålder, enligt sysselsättningsbiografin."
+Z422,LNU,ARBETSPLATSENS STORLEK 35 ÅR,,"Antal anställda  på arbetsplatsen för det senast innehavda förvärvsarbetet vid  35 års ålder, enligt sysselsättningsbiografin."
+Z423,LNU,SEI 40 ÅR,,Socioekonomisk grupp (SEI) för det senast innehavda förvärvsarbetet vid
+Z424,LNU,NYK80 40 ÅR,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för det senast innehavda arbetet vid 40 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z425,LNU,NYK85 40 ÅR,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för det senast innehavda arbetet vid 40 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z43,LNU,ANTAL UTOMLANDSBOENDEN,,Antal gånger ip bott i ett annat land än Sverige i minst 6 månader (sedan ip kom till Sverige om ip är född i annat land).
+Z430,LNU,EGP 40 ÅR,,"Klass (EGP) för det senast innehavda förvärvsarbetet vid 40 års ålder, enligt sysselsättningsbiografin."
+Z431,LNU,SEKTOR 40 ÅR,,"Sektor för det senast innehavda förvärvsarbetet vid 40 års ålder, enligt sysselsättningsbiografin."
+Z432,LNU,AKTIVITETSTYP 40 ÅR,,"Typ av huvudsaklig sysselsättning vid 40 års ålder, enligt sysselsättningsbiografin."
+Z433,LNU,ÅLDER VID SENASTE ARBETE 40 ÅR,,"Ålder då ip senast förvärvsarbetade, räknat vid 40 års ålder, enligt sysselsättningsbiografin."
+Z434,LNU,ARBETSPLATSENS STORLEK 40 ÅR,,"Antal anställda  på arbetsplatsen för det senast innehavda förvärvsarbetet vid  40 års ålder, enligt sysselsättningsbiografin."
+Z435,LNU,SEI 45 ÅR,,Socioekonomisk grupp (SEI) för det senast innehavda förvärvsarbetet vid
+Z436,LNU,NYK80 45 ÅR,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för det senast innehavda arbetet vid 45 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z437,LNU,NYK85 45 ÅR,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för det senast innehavda arbetet vid 45 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z44,LNU,TID I UTOMLANDSBOENDE,,Månader ip spenderat bosatt utomlands. Variabeln är kategoriindelad.  Tabellen gäller för Z43 GT 0.
+Z442,LNU,EGP 45 ÅR,,"Klass (EGP) för det senast innehavda förvärvsarbetet vid 45 års ålder, enligt sysselsättningsbiografin."
+Z443,LNU,SEKTOR 45 ÅR,,"Sektor för det senast innehavda förvärvsarbetet vid 45 års ålder, enligt sysselsättningsbiografin."
+Z444,LNU,AKTIVITETSTYP 45 ÅR,,"Typ av huvudsaklig sysselsättning vid 45 års ålder, enligt sysselsättningsbiografin."
+Z445,LNU,ÅLDER VID SENASTE ARBETE 45 ÅR,,"Ålder då ip senast förvärvsarbetade, räknat vid 45 års ålder, enligt sysselsättningsbiografin."
+Z446,LNU,ARBETSPLATSENS STORLEK 45 ÅR,,"Antal anställda  på arbetsplatsen för det senast innehavda förvärvsarbetet vid  45 års ålder, enligt sysselsättningsbiografin."
+Z447,LNU,SEI 50 ÅR,,Socioekonomisk grupp (SEI) för det senast innehavda förvärvsarbetet vid
+Z448,LNU,NYK80 50 ÅR,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för det senast innehavda arbetet vid 50 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z449,LNU,NYK85 50 ÅR,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för det senast innehavda arbetet vid 50 års ålder, enligt sysselsättningsbiografin. Redovisas ej."
+Z45,LNU,ÅR/MÅNAD FÖR START UTOMLANDSBOENDE 1 *,,ÅR/MÅNAD FÖR START UTOMLANDSBOENDE 1 * År och månad då ip inledde sitt första utomlandsboende.  Endast minsta samt högsta år och månad redovisas. Tabellen gäller för Z43 GT 0.
+Z454,LNU,EGP 50 ÅR,,"Klass (EGP) för det senast innehavda förvärvsarbetet vid 50 års ålder, enligt sysselsättningsbiografin."
+Z455,LNU,SEKTOR 50 ÅR,,"Sektor för det senast innehavda förvärvsarbetet vid 50 års ålder, enligt sysselsättningsbiografin."
+Z456,LNU,AKTIVITETSTYP 50 ÅR,,"Typ av huvudsaklig sysselsättning vid 50 års ålder, enligt sysselsättningsbiografin."
+Z457,LNU,ÅLDER VID SENASTE ARBETE 50 ÅR,,"Ålder då ip senast förvärvsarbetade, räknat vid 50 års ålder, enligt sysselsättningsbiografin."
+Z458,LNU,ARBETSPLATSENS STORLEK 50 ÅR,,"Antal anställda  på arbetsplatsen för det senast innehavda förvärvsarbetet vid  50 års ålder, enligt sysselsättningsbiografin."
+Z459,LNU,SEI FÖRSTA ARBETE I ANNAT LAND ÄN SVERIGE,,"Socioekonomisk  grupp (SEI) för  det första innehavda förvärvsarbetet i  annat land  än  Sverige,  enligt sysselsättningsbiografin."
+Z46,LNU,LAND FÖR UTOMLANDSBOENDE 1,,"Land ip bodde i, första utomlandsboende. Tabellen gäller för Z43 GT 0. AFGHANISTAN"
+Z460,LNU,NYK80 FÖRSTA ARBETE I ANNAT LAND ÄN SVERIGE,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för det första innehavda förvärvsarbetet i annat land än Sverige, enligt sysselsättningsbiografin. Redovisas ej."
+Z461,LNU,NYK85 FÖRSTA ARBETE I ANNAT LAND ÄN SVERIGE,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för det första innehavda förvärvsarbetet i annat land än Sverige, enligt sysselsättningsbiografin. Redovisas ej."
+Z462,LNU,EGP FÖRSTA ARBETE I ANNAT LAND ÄN SVERIGE,,"Klass (EGP) för det första innehavda förvärvsarbetet i annat land än Sverige, enligt sysselsättningsbiografin."
+Z463,LNU,FÖRETAGSSTORLEK (EGEN FÖRETAGARE) FÖRSTA ARBETE I ANNAT LAND ÄN SVERIGE,,Antal anställda vid eget företag för det första arbetet i annat land än Sverige.
+Z464,LNU,SEI SISTA ARBETE I ANNAT LAND ÄN SVERIGE,,"Socioekonomisk  grupp (SEI) för  det sista innehavda förvärvsarbetet i  annat land  än  Sverige,  enligt sysselsättningsbiografin."
+Z465,LNU,NYK80 SISTA ARBETE I ANNAT LAND ÄN SVERIGE,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för det sista innehavda förvärvsarbetet i annat land än Sverige, enligt sysselsättningsbiografin. Redovisas ej."
+Z466,LNU,NYK85 SISTA ARBETE I ANNAT LAND ÄN SVERIGE,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för det sista innehavda förvärvsarbetet i annat land än Sverige, enligt sysselsättningsbiografin. Redovisas ej."
+Z467,LNU,EGP SISTA ARBETE I ANNAT LAND ÄN SVERIGE,,"Klass (EGP) för det sista innehavda förvärvsarbetet i annat land än Sverige, enligt sysselsättningsbiografin."
+Z468,LNU,FÖRETAGSSTORLEK,,(EGEN  FÖRETAGARE)  VID  SISTA  ARBETET I  ANNAT  LAND  ÄN SVERIGE Antal anställda vid eget företag för det sista arbetet i annat land än Sverige.
+Z469,LNU,SEI FÖRSTA ARBETE,,"Socioekonomisk grupp (SEI) för ip:s första arbete som varade i minst sex månader, enligt sysselsättningsbiografin."
+Z47,LNU,ÅR/MÅNAD FÖR SLUT UTOMLANDSBOENDE 1,,ÅR/MÅNAD FÖR SLUT UTOMLANDSBOENDE 1 År  och  månad  då  intervjuperson  avslutade  sitt  första  utomlandsboende.  Endast  minsta  samt  högsta  år  och månad visas. Tabellen gäller för Z43 GT 0.
+Z470,LNU,NYK80 FÖRSTA ARBETE,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för ip:s första arbete som varade i minst sex månader, enligt sysselsättningsbiografin. Redovisas ej."
+Z471,LNU,NYK85 FÖRSTA ARBETE,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för ip:s första arbete som varade i minst sex månader, enligt sysselsättningsbiografin. Redovisas ej."
+Z476,LNU,EGP FÖRSTA ARBETE,,"Klass (EGP) för ip:s första arbete som varade i minst sex månader, enligt sysselsättningsbiografin."
+Z479,LNU,ARBETSPLATSSTORLEK FÖRSTA ARBETE,,"Antal anställda på arbetsplatsen för ip:s första arbete som varade i minst sex månader, enligt sysselsättningsbiografin."
+Z48,LNU,BÅDA FÖRÄLDRARNA FÖDDA I SVERIGE,,"Är/var båda dina föräldrar födda i Sverige? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z480,LNU,SEKTORTILLHÖRIGHET FÖRSTA ARBETE,,"Sektor för ip:s första arbete som varade i minst sex månader, enligt sysselsättningsbiografin."
+Z481,LNU,SEI NUVARANDE ARBETE,,Socioekonomisk grupp (SEI) för ip:s nuvarande arbete.
+Z482,LNU,NYK80 NUVARANDE ARBETE,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för ip:s nuvarande arbete. Redovisas ej."
+Z483,LNU,NYK85 NUVARANDE ARBETE,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för ip:s nuvarande arbete. Redovisas ej."
+Z484,LNU,SSYK NUVARANDE ARBETE,,Yrke enligt Standard för svensk yrkesklassificering (SSYK) för ip:s nuvarande arbete. Redovisas ej.
+Z488,LNU,EGP NUVARANDE ARBETE,,Klass (EGP) för ip:s nuvarande arbete.
+Z489,LNU,SNI NUVARANDE ARBETE,,SNI NUVARANDE ARBETE Näringsgrensindelning (SNI) på ip:s nuvarande arbete. Redovisas ej.
+Z49,LNU,FÖRÄLDRARNA SVENSKA,,"Var båda dina föräldrar svenska medborgare när du föddes? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z491,LNU,ARBETSPLATSSTORLEK NUVARANDE ARBETE,,Antal anställda på arbetsplatsen på ip:s nuvarande arbete.
+Z492,LNU,SEKTORTILLHÖRIGHET NUVARANDE ARBETE,,Sektor för ip:s nuvarande arbete.
+Z493,LNU,SYSSELSÄTTNING VID NUVARANDE SAMMANBOENDES START,,Huvudsaklig sysselsättning för ip vid tidpunkten för nuvarande sammanboendes start.
+Z494,LNU,SEI VID NUVARANDE SAMMANBOENDES START,,Socioekonomisk grupp (SEI) för ip:s arbete vid tidpunkten för nuvarande sammanboendes start.
+Z495,LNU,NYK80 VID NUVARANDE SAMMANBOENDES START,,"Nordisk yrkesklassificering (NYK, 1980års indelning) för ip:s arbete vid tidpunkten för nuvarande sammanboendes starts. Redovisas ej"
+Z496,LNU,NYK85 VID NUVARANDE SAMMANBOENDES START,,"Nordisk yrkesklassificering (NYK, 1985års indelning) för ip:s arbete vid tidpunkten för nuvarande sammanboendes starts. Redovisas ej."
+Z5,LNU,"INTERVJUDATUM – MÅN, DAG",,"Datum – år, månad och dag – då intervjun genomfördes. Endast lägsta och högsta värde redovisas."
+Z50,LNU,FÖDELSELAND – FADER,,"Från  vilket land  är/var  din  far?  Frågan  ej  ställd till  panelen,  men  uppgifter  från tidigare  LNU  har i förekommande fall lagts till."
+Z501,LNU,EGP VID NUVARANDE SAMMANBOENDES START,,Klass (EGP) för ip:s arbete vid tidpunkten för nuvarande sammanboendes starts.
+Z504,LNU,ARBETSPLATSSTORLEK VID NUVARANDE SAMMANBOENDES START,,Antal anställda på arbetsplatsen för ip:s arbete vid tidpunkten för nuvarande sammanboendes starts.
+Z505,LNU,SEKTORTILLHÖRIGHET VID NUVARANDE SAMMANBOENDES START,,Sektor för ip:s arbete vid tidpunkten för nuvarande sammanboendes start.
+Z506,LNU,ALLMÄNT HÄLSOTILLSTÅND,,Hur bedömer du ditt allmänna hälsotillstånd? Är det…
+Z507,LNU,PROMENERA 100 M,,Kan du promenera 100 meter någorlunda raskt utan besvär?
+Z508,LNU,SPRINGA 100 M,,Kan du springa 100 meter utan större besvär?
+Z509,LNU,GÅ I TRAPPOR,,Kan du gå uppför och nerför trappor utan besvär?
+Z51,LNU,FÖDELSELAND – MODER,,"Från  vilket land  är/var  din  mor?  Frågan  ej  ställd till  panelen,  men  uppgifter  från tidigare  LNU  har i förekommande fall lagts till."
+Z510,LNU,VRIDA VATTENKRAN,,Kan du vrida på och av en vattenkran utan besvär?
+Z511,LNU,LÄNGD I CM,,Hur lång är du?
+Z512,LNU,VIKT I KG,,Hur mycket väger du? Variabeln är här kategoriindelad.
+Z513,LNU,HUVUDVÄRK,,Har du under de senaste tolv månaderna haft huvudvärk eller migrän?
+Z514,LNU,FÖRKYLNING,,Har du under de senaste tolv månaderna varit förkyld eller haft influensa?
+Z515,LNU,SYNBESVÄR,,Har  du  under  de  senaste  tolv  månaderna  haft  synbesvär/ögonsjukdomar  som  ej  blir  påtagligt  bättre  med glasögon eller linser?
+Z516,LNU,HÖRSELNEDSÄTTNING,,Har du under de senaste tolv månaderna haft hörselnedsättning?
+Z517,LNU,BRÖSTVÄRK,,Har du under de senaste tolv månaderna haft smärtor eller värk i bröstet?
+Z518,LNU,LUFTRÖRSKATARR,,Har du under de senaste tolv månaderna haft kronisk luftrörskatarr (astma)?
+Z519,LNU,STRUMA,,Har du under de senaste tolv månaderna haft förstoring av sköldkörteln (struma)?
+Z52,LNU,HEMSPRÅK,,"Vilket språk talade man mest i ditt föräldrahem under din uppväxttid, d.v.s. fram till det du fyllt 16 år? Två eller fler siffror anger  flerspråkigt hem (t.ex. koden 13 står för ""1 Svenska"" och ""3 Finska""). Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Tabellen gäller för Z48 NE 1"
+Z520,LNU,TUBERKULOS,,Har du under de senaste tolv månaderna haft tuberkulos ?
+Z521,LNU,VÄRK I SKULDROR/AXLAR,,Har du under de senaste tolv månaderna haft värk i skuldror eller axlar?
+Z522,LNU,HJÄRTINFARKT,,"Har du under de senaste tolv månaderna haft propp i hjärtat, hjärtinfarkt?"
+Z523,LNU,STROKE,,"Har du under de senaste tolv månaderna haft propp i hjärtat, stroke?"
+Z524,LNU,HJÄRTSVAGHET,,Har du under de senaste tolv månaderna haft hjärtsvaghet?
+Z525,LNU,HÖGT BLODTRYCK,,Har du under de senaste tolv månaderna haft högt blodtryck?
+Z526,LNU,MAGONT,,"Har du under de senaste tolv månaderna haft magont, magbesvär?"
+Z527,LNU,MAGSÅR,,Har du under de senaste tolv månaderna haft magsår?
+Z528,LNU,VÄRK I RYGG/HÖFTER,,"Har du under de senaste tolv månaderna haft ryggsmärtor, ryggvärk, höftsmärtor, ischias?"
+Z529,LNU,GALLBESVÄR,,Har du under de senaste tolv månaderna haft gallbesvär eller gallsten?
+Z53,LNU,IMMIGRATIONSÅLDER,,"Är du född i Sverige eller i något annat land? Om annat land: Hur gammal var du när du kom till Sverige? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z530,LNU,NJURBESVÄR,,Har du under de senaste tolv månaderna haft njurbesvär eller njursten ?
+Z531,LNU,HEMORROJDER,,"Har du under de senaste tolv månaderna haft hemorrojder, smärtor i ändtarmen?"
+Z532,LNU,URINERINGSBESVÄR,,"Har du under de senaste tolv månaderna haft blåskatarr, besvär med vattenkastning? För män: prostata?"
+Z533,LNU,MENSTRUATIONSBESVÄR,,Till kvinnor födda 1950 och senare: har du under de senaste tolv månaderna haft menstruationsbesvär?
+Z534,LNU,GRAVIDITETSKOMPLIKATION,,Till kvinnor födda 1950 och senare: har du under de senaste tolv månaderna haft komplikationer vid graviditet?
+Z535,LNU,UNDERLIVSBESVÄR,,"Till  alla  kvinnor:  har  du  under  de  senaste  tolv  månaderna  haft  andra  underlivsbesvär  (flytningar,  smärtor, framfall m.m.)?"
+Z536,LNU,LJUMSKBRÅCK,,Har du under de senaste tolv månaderna haft hjumskbråck?
+Z537,LNU,ÅDERBRÅCK,,"Har du under de senaste tolv månaderna haft åderbråck, bensår?"
+Z538,LNU,BENSVULLNAD,,"Har du under de senaste tolv månaderna haft bensvullnad, svullna ben?"
+Z539,LNU,LEDVÄRK,,"Har du under de senaste tolv månaderna haft värk, smärtor i händer, armbågar, ben eller knän?"
+Z54,LNU,URSPRUNGSLAND,,"Vilket land är du född i? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z540,LNU,ALLMÄN TRÖTTHET,,Har du under de senaste tolv månaderna haft allmän trötthet?
+Z541,LNU,SÖMNBESVÄR,,Har du under de senaste tolv månaderna haft sömnbesvär?
+Z542,LNU,NERVÖSA BESVÄR,,"Har du under de senaste tolv månaderna haft nervösa besvär (ängslan, oro, ångest)?"
+Z543,LNU,DEPRESSIONER,,Har du under de senaste tolv månaderna haft depression eller varit djupt nedstämd?
+Z544,LNU,PSYKISK SJUKDOM,,Har du under de senaste tolv månaderna haft psykisk sjukdom?
+Z545,LNU,SVETTNINGAR,,"Har du under de senaste tolv månaderna haft blodvallningar, svettningar?"
+Z546,LNU,HOSTA,,Har du under de senaste tolv månaderna haft hosta?
+Z547,LNU,ANDNÖD,,"Har du under de senaste tolv månaderna haft andnöd, andfåddhet?"
+Z548,LNU,YRSEL,,Har du under de senaste tolv månaderna haft yrsel?
+Z549,LNU,ILLAMÅENDE,,Har du under de senaste tolv månaderna haft illamående?
+Z55,LNU,FÖRMÅGA ATT LÄSA SVENSKA,,"När det gäller innehållet i en dagstidning på svenska, förstår du då...  Tabellen gäller för Z2 EQ 5 och Z53 EQ 22 OR 23."
+Z550,LNU,AVMAGRING,,Har du under de senaste tolv månaderna haft avmagring?
+Z551,LNU,KRÄKNINGAR,,Har du under de senaste tolv månaderna haft kräkningar?
+Z552,LNU,DIARRÉ,,Har du under de senaste tolv månaderna haft diarré?
+Z553,LNU,FÖRSTOPPNING,,Har du under de senaste tolv månaderna haft förstoppning?
+Z554,LNU,ÖVERANSTRÄNGNING,,Har du under de senaste tolv månaderna varit överansträngd?
+Z555,LNU,UTSLAG,,"Har du under de senaste tolv månaderna haft utslag, eksem, psoriasis?"
+Z556,LNU,CANCER,,"Har du under de senaste tolv månaderna haft elakartad tumör, cancer, kräfta?"
+Z557,LNU,BLODBRIST,,"Har du under de senaste tolv månaderna haft blodbrist, anemi?"
+Z558,LNU,SOCKERSJUKA,,"Har du under de senaste tolv månaderna haft sockersjuka, diabetes?"
+Z559,LNU,ÖVERVIKT,,"Har du under de senaste tolv månaderna haft övervikt, fetma?"
+Z56,LNU,FÖRMÅGA ATT TALA SVENSKA,,"Hur bedömer du din förmåga att tala svenska? Tycker du att du talar svenska mycket bra, ganska bra, ganska dåligt eller mycket dåligt? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Tabellen gäller för Z2 EQ 5 och Z53 EQ 22 OR 23."
+Z560,LNU,ORGANISK NERVSJUKDOM,,"Har du under de senaste tolv månaderna haft organiska nervsjukdomar (CP, MS, Polio etc.)?"
+Z561,LNU,BESVÄR EFTER SKADA,,Har du under de senaste tolv månaderna haft bestående besvär av olycksfall eller skada?
+Z562,LNU,ALLERGI,,Har du under de senaste tolv månaderna haft allergi?
+Z563,LNU,URINVÄGSINFEKTION,,Har du under de senaste tolv månaderna haft urinvägsinfektion?
+Z564,LNU,ÖVRIGA SJUKDOMAR,,Har du under de senaste tolv månaderna haft någon annan sjukdom eller besvär som vi inte har nämnt?
+Z565,LNU,INLAGD PÅ SJUKHUS,,"Har du varit inlagd på sjukhus, vårdhem eller annan vårdinstitution under de senaste tolv månaderna?"
+Z566,LNU,SÖKT LÄKARE,,"Har du någon gång under de senaste tolv månaderna talat med, besökt eller besökts av besökts av läkare för egna sjukdomar eller besvär? (Läkarbesök för körkortsintyg och liknande räknas ej. Kontakt med läkare under sjukhusvistelse räknas ej heller)."
+Z567,LNU,SKÖTERSKEBESÖK,,"Har du under de senaste tolv månaderna talat med, besökt eller besökts av distriktssköterska, skolsköterska eller dylikt? (Samtalet eller besöket skall ha avsett egna besvär, ej t.ex. barnens.)"
+Z568,LNU,TANDTILLSTÅND,,Vilket av följande beskrivningar stämmer bäst på dina tänder?
+Z569,LNU,RÖKNING,,Röker du?
+Z57,LNU,RELIGIONSTILLHÖRIGHET – FADER,,"Vilken religionstillhörighet har/hade din far? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z570,LNU,RÖKT I ANTAL ÅR,,Hur många år har du rökt sammanlagt? Tabellen gäller för Z569 NE 4. Variabeln är här kategoriindelad.
+Z571,LNU,DRICKER VIN SPRIT MM,,"Dricker du vin, starköl, starkcider eller sprit någon gång?"
+Z572,LNU,ANTAL GGR DRICKER VIN SPRIT MM,,"Om ja: ungefär hur ofta under de senaste tolv månaderna har du druckit någon alkoholhaltig dryck, alltså vin, starköl, starkcider eller sprit? Tabellen gäller för Z571 EQ 1."
+Z573,LNU,ANTAL GLAS,,"Om ja: ungefär hur många glas brukar du dricka vid dessa tillfällen? Ett glas kan vara 1 glas vin, 1 flaska eller burk öl eller 1 snaps eller drink? Tabellen gäller för Z571 EQ 1 och Z572 NE 8."
+Z574,LNU,RÖRLIGHET,,"Index baserat på frågorna om rörelseförmåga (Z507 promenera 100 meter, Z508 springa 100 meter och Z509 gå i trappor). Bortfall på någon av variablerna ger värdet 9."
+Z575,LNU,PSYK VÄLBEF INDEX,,"Index baserat på frågorna Z540 (trötthet), Z541 (sömnbesvär), Z542 (nervösa besvär) och Z543 (Depression)"
+Z576,LNU,PSYKISKT VÄLBEFINNANDE,,"Kategorisering av indexskala Z575 (1|4|5=1,  2|9=2,  2|6|10|13=3,  7|8|18=4,  11,14,15,16=5)"
+Z577,LNU,OLLES PSYKINDEX,,"Index baserat på frågorna Z540 (trötthet), Z541 (sömnbesvär), Z542 (nervösa besvär), Z543 (Depression) och"
+Z578,LNU,VÄRK I RÖRELSEAPPARAT,,"Index baserat på frågorna Z521 (värk i skuldror/axlar), Z528 (värk i rygg/höft), och Z539 (ledvärk)."
+Z579,LNU,OLLES VÄRKINDEX,,"Index baserat på frågorna Z521 (värk i skuldror/axlar), Z528 (värk i rygg/höft), och Z539 (ledvärk)."
+Z58,LNU,RELIGIONSTILLHÖRIGHET – MODER,,"Vilken religionstillhörighet har/hade din mor? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z580,LNU,CIRKULATIONSSYSTEM,,"Index  baserat  på  frågorna  Z517  (smärtor i  bröstet),  Z524  (hjärtsvaghet),  Z525  (högt  blodtryck),  Z537 (åderbråck), Z538 (bensvullnad), Z547 (andnöd) och Z548 (yrsel)."
+Z581,LNU,OLLES CIRKULATIONSINDEX,,"Index  baserat  på  frågorna  Z517  (smärtor i  bröstet),  Z524  (hjärtsvaghet),  Z525  (högt  blodtryck),  Z537 (åderbråck), Z538 (bensvullnad), Z547 (andnöd) och Z548 (yrsel)."
+Z582,LNU,MAGBESVÄR,,"Index  baserat  på  frågorna  om  magbesvär  Z526  (magont),  Z529  (gallbesvär),  Z549  (illamående),  Z551 (kräkningar) och Z552 (diarré)."
+Z583,LNU,OLLES MAGINDEX,,"Index  baserat  på  frågorna  om  magbesvär  Z526  (magont),  Z549  (illamående),  Z551  (kräkningar)  och  Z552 (diarré)."
+Z584,LNU,AVFÖRINGSBESVÄR,,Index baserat på frågorna om avföringsbesvär Z531 (hemorrojder) och Z553 (förstoppning).
+Z585,LNU,SUMMERAD SYMPTOMSKALA,,"Index (44 item) baserat på Z513-Z532 dock ej Z523 samt Z536-Z560, där ”Nej” kodats 0, ”Ja, lätt” kodats 1, ”Ja, svår” kodats 2 och ”Ja, grad saknas” har kodats 1."
+Z586,LNU,SUMMERAD SYMPTOMSKALA 2,,"Summerat index (47 item) baserat på Z513-Z532 (dock ej Z523, stroke) samt Z536 – Z563, där ”Nej” kodats 0, ”Ja, lätt” kodats 1, ”Ja, svår” kodats 2 och ”Ja , grad saknas” har kodats 1."
+Z587,LNU,ANTAL JA PÅ SYMPTOM,,"Index (44 item) baserat på Z513-Z532 dock ej Z523 samt Z536-Z560, där ”Nej” kodats 0, ”Ja, lätt”, ”Ja, svår” samt ”Ja, grad saknas” har kodats 1."
+Z588,LNU,ANTAL JA PÅ SYMPTOM 2,,"Summerat index (47 item) baserat på Z513-Z532 (dock ej Z523, stroke) samt Z536 – Z563, där ”Nej” kodats 0, ”Ja, lätt”, ”Ja, svår” samt ”Ja , grad saknas” har kodats 1."
+Z589,LNU,TOTALT ANTAL VECKOR I ARBETE 2009,,"Hur många veckor under 2009 hade du ett arbete?  Variabeln inkluderar semester, sjukskrivning, tjänstledighet för  barn/studier  m.m. avser  dock enbart förvärvsarbete, dvs. arbete som ger lön eller annan inkomst"
+Z59,LNU,ANTAL SYSKON TOTALT,,Har du eller har du haft några syskon? Om ja: Hur många?
+Z590,LNU,ÅRSARBETSTIMMAR 2009,,"Totala  antalet  årsarbetstimmar  i  förvärvsarbete  2009.  Summan  av  heltid,  deltid,  jordbruksarbete,  medhjälp  i jordbruk, arbete som egen företagare, medhjälp i företag och fritt yrke. Variabeln är här kategoriindelad. Tabellen gäller för Z589 GT 0."
+Z591,LNU,ANSTÄLLD 2009,,"& Y364, jfr Var du anställd på heltid inklusive semester och sjukskrivning under år 2009?"
+Z592,LNU,VECKOR I ANSTÄLLNING 2009,,"& Y366, jfr Antal veckor under 2009: heltidsanställd. Tabellen gäller för Z591 EQ 1. & W207, jfr"
+Z593,LNU,VECKOTIMMAR ANSTÄLLD 2009,,"& Y365, jfr Antal timmar i genomsnitt per vecka under 2009: heltidsanställd. Variabeln är här kategoriindelad. Tabellen gäller för Z591 EQ 1. & W207, jfr"
+Z594,LNU,ARBETE I FÖRETAG ELLER VERKSAMHET 2009,,Arbetade du i eget eller delägt företag under år 2009?
+Z595,LNU,VECKOR I EGET FÖRETAG ELLER VERKSAMHET 2009,,"& Y370, jfr Antal veckor under 2009: arbetade i eget eller delägt företag. Tabellen gäller för Z594 EQ 1. & W210, jfr"
+Z596,LNU,VECKOTIMMAR EGET FÖRETAG ELLER VERKSAMHET 2009,,"& Y371, jfr Antal timmar per vecka under 2009: arbetade i eget eller delägt företag. Variabeln är här kategoriindelad. Tabellen gäller för Z594 EQ 1. & W210, jfr"
+Z597,LNU,ARBETSLÖS UNDER 2009,,"Sökte eller väntade du på arbete, var arbetslös eller permitterad under 2009?"
+Z598,LNU,ARBETSLÖSHETSVECKOR 2009,,Antal veckor under 2009: arbetssökande/arbetslös/permitterad. Variabeln är här kategoriindelad. Tabellen gäller för Z597 EQ 1.
+Z599,LNU,FÖRRA VECKAN: HELTID,,"Var du anställd på heltid (inklusive semester, sjukskrivning, tjänstledighet för barn/studier m.m.) förra veckan?"
+Z6,LNU,"INTERVJUNS BÖRJAN – TIM, MIN",,Intervjuarens notering av klockslag – timme och minut – då intervjun påbörjades. Endast lägsta och högsta värde redovisas.
+Z60,LNU,ANTAL SYSKON I LIVET,,"Om du har syskon, hur många av dessa är i livet? Tabellen gäller för Z59 GT 0."
+Z600,LNU,FÖRRA VECKAN: DELTID,,"Var du anställd på deltid (inklusive semester, sjukskrivning, tjänstledighet för barn/studier m.m.) förra veckan?"
+Z601,LNU,FÖRRA VECKAN: FÖRETAG ELLER JORDBRUK,,"& Y400, jfr Arbetade du som företagare eller jordbrukare förra veckan?"
+Z602,LNU,FÖRRA VECKAN: MEDHJÄLPARE FÖRETAG / JORDBRUK,,"& Y401, jfr Var du medhjälpare i familjemedlems företag eller jordbruk förra veckan?"
+Z603,LNU,FÖRRA VECKAN: FRILANS ELLER BISYSSLA,,Arbetade du som frilans eller i bisyssla förra veckan?
+Z604,LNU,FÖRRA VECKAN: SÖKTE ARBETE,,"Sökte eller väntade du på arbete, var arbetslös eller permitterad förra veckan?"
+Z605,LNU,FÖRRA VECKAN: PENSION,,"Hade du pension, delpension, aktivitets-eller sjukersättning förra veckan?"
+Z606,LNU,FÖRRA VECKAN: STUDERADE,,Var du studerande förra veckan?
+Z607,LNU,FÖRRA VECKAN: ÖVRIGT,,Gjorde du något annat förra veckan?
+Z608,LNU,SEI ANSTÄLLDA,,Vad hade du för befattning i denna anställning? Vid tveksamma fall: kan du beskriva arbetsuppgifterna? Kodat enligt Socioekonomisk indelning (SEI).  Tabellen gäller för anställda föregående vecka.
+Z609,LNU,NYK80 ANSTÄLLDA,,"Vad hade du för befattning i denna anställning? Vid tveksamma fall: kan du beskriva arbetsuppgifterna? Yrke enligt Nordisk yrkesklassificering (NYK, 1980års indelning). Redovisas ej."
+Z61,LNU,ANTAL BRÖDER TOTALT,,"Om du har syskon, hur många av dessa är bröder? Tabellen gäller för Z59 GT 0."
+Z610,LNU,NYK85 ANSTÄLLDA,,"Vad hade du för befattning i denna anställning? Vid tveksamma fall: kan du beskriva arbetsuppgifterna? Yrke enligt Nordisk yrkesklassificering (NYK, 1985års indelning). Redovisas ej."
+Z611,LNU,SSYK ANSTÄLLDA,,SSYK ANSTÄLLDA Vad hade du för befattning i denna anställning? Vid tveksamma fall: kan du beskriva arbetsuppgifterna? Yrke enligt Standard för svensk yrkesklassificering (SSYK). Redovisas ej.
+Z612,LNU,ISCO88 ANSTÄLLDA,,ISCO88 ANSTÄLLDA Vad hade du för befattning i denna anställning? Vid tveksamma fall: kan du beskriva arbetsuppgifterna? Yrke enligt International stardard classification of occupations (ISCO88). Redovisas ej.
+Z614,LNU,SIOPS ANSTÄLLDA,,Vad hade du för befattning i denna anställning? Vid tveksamma fall: kan du beskriva arbetsuppgifterna? Yrke enligt the Standard International Occupational Prestige Scale (SIOPS). Redovisas ej.
+Z615,LNU,ANTAL ÅR I SAMMA TYP AV ARBETE,,"Hur många år sammanlagt har du haft den här typen av arbete, alla befattningar och arbetsgivare inräknade? Tabellen gäller för anställda föregående vecka."
+Z616,LNU,ANSTÄLLNINGSFORM,,"Anställningsform, räknat vid nuvarande arbete.  Tabellen gäller för anställda föregående vecka."
+Z617,LNU,FRÅNVARO SENASTE 3 MÅNADERNA,,Frånvarande från nuvarande arbete de tre senaste månaderna. Tabellen gäller för anställda föregående vecka.
+Z618,LNU,FRÅNVAROANLEDNING SENASTE 3 MÅN,,Frånvarande från nuvarande arbete de tre senaste månaderna. Tabellen gäller för Z617 EQ 1.
+Z619,LNU,AVANCEMANGSMÖJLIGHETER INTERNA,,"Hur stora är möjligheterna att avancera i ett jobb som ditt, hos din nuvarande arbetsgivare? Tabellen gäller för anställda föregående vecka."
+Z62,LNU,ANTAL BRÖDER I LIVET,,"Om du har bröder, hur många av dessa är i livet? Tabellen gäller för Z59 GT 0."
+Z620,LNU,AVANCEMANGSMÖJLIGHETER EXTERNA,,"Hur stora är möjligheterna att avancera i ett jobb som ditt, genom att byta arbetsgivare? Tabellen gäller för anställda föregående vecka."
+Z621,LNU,ANSTÄLLNINGSÅR NUVARANDE ARBETE,,År för anställning av nuvarande arbete. Tabellen gäller för anställda föregående vecka.
+Z622,LNU,ANTAL UNDERSTÄLLDA,,Hur många personer är underställda dig? Variabeln är här kategoriindelad. Tabellen gäller för anställda föregående vecka.
+Z623,LNU,ARBETSLEDNING BLAND UNDERSTÄLLDA,,Har någon av dina underställda en arbetsledande funktion? Tabellen gäller för Z622 GT 0.
+Z624,LNU,UTBILDNINGSKRAV,,Behöver man någon skol- eller yrkesutbildning utöver folk- eller grundskola i din befattning? Tabellen gäller för anställda föregående vecka.
+Z625,LNU,SKOLÅR UTÖVER FOLK-/GRUNDSKOLA,,Ungefär  hur  många  års  utbildning  utöver  folk-  eller  grundskola  behöver  man?  Tabellen  gäller  för  anställda föregående vecka samt Z624 EQ 1.
+Z626,LNU,UPPLÄRNINGSTID,,"Utöver den kompetens som krävs för att få ett arbete som ditt, hur lång tid tar det att lära sig utföra arbetet någorlunda väl? Tabellen gäller för anställda föregående vecka."
+Z627,LNU,NYTTA AV TIDIGARE KUNSKAP,,I vilken grad har du i ditt dagliga arbete nytta av vad du lärt dig under din utbildning eller i tidigare arbeten? Tabellen gäller för anställda föregående vecka.
+Z628,LNU,SPECIFIK KOMPETENS,,Känner du till några andra arbetsgivare där du skulle ha stor nytta av det du lärt dig i ditt nuvarande arbete? Tabellen gäller för anställda föregående vecka.
+Z629,LNU,ARBETSTID ELLER SKIFT,,Vilken är din huvudsakliga arbetstid eller skiftform? Tabellen gäller för anställda föregående vecka.
+Z63,LNU,FÖDELSEÅR SYSKON 1,,Vilket år föddes syskon 1? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 0.
+Z630,LNU,OBEKVÄM ARBETSTID,,"Hur stor del av din arbetstid brukar du arbeta på kvällar, nätter eller helger? Tabellen gäller för anställda föregående vecka."
+Z631,LNU,ORDINARIE VECKOARBETSTID,,Hur många timmar är din ordinarie veckoarbetstid? Variabeln är här kategoriindelad. Tabellen gäller för anställda föregående vecka.
+Z632,LNU,PASSAR ARBETSTIDEN,,"Din ordinarie arbetstid, är det den arbetstid som passar dig bäst, eller skulle kortare eller längre arbetstid passa bättre? (Med hänsyn till att lönen då minskar eller ökar i motsvarande mån.) Tabellen gäller för anställda föregående vecka."
+Z633,LNU,HUR OFTA ÖVERTID,,Hur ofta arbetar du övertid (i ditt nuvarande jobb)? Är det…  Tabellen gäller för anställda föregående vecka.
+Z634,LNU,ERSÄTTNING FÖR ÖVERTID,,Är du berättigad till ekonomisk ersättning för den övertid du utför? Tabellen gäller för anställda föregående vecka.
+Z635,LNU,ÖVERNATTNING UTANFÖR HEMMET PGA ARBETE: ANTAL NÄTTER/ÅR,,"Händer det att du övernattar utanför hemmet på grund av ditt arbete, t.ex. vid tjänsteresa? Ungefär hur många nätter borta blir det sammanlagt under ett år? Variabeln är här kategoriindelad. Tabellen gäller för anställda föregående vecka."
+Z636,LNU,RESTID MINUTER PER DAG,,Antalet  minuter i restid sammanlagt till  och från  arbetet  under föregående  vecka.  Variabeln  är  här kategoriindelad.  Tabellen gäller för förvärvsarbetande föregående vecka.  Ingen restid/bor på arbetsplatsen
+Z637,LNU,FAST MÅNADSLÖN FÖRE SKATT,,Lön i kronor per månad före skatt: fast månadslön. Variabeln är här kategoriindelad. Tabellen gäller för anställda föregående vecka.
+Z638,LNU,VECKOLÖN FÖRE SKATT,,Lön i kronor per månad före skatt: fast veckolön. Tabellen gäller för anställda föregående vecka.
+Z639,LNU,FAST TIMLÖN,,Lön i kronor per timme före skatt: fast timlön. Variabeln är här kategoriindelad. Tabellen gäller för anställda föregående vecka.
+Z64,LNU,FÖDELSEÅR SYSKON 2,,Vilket år föddes syskon 2? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 1.
+Z640,LNU,INDIVIDUELLT ACKORD,,Genomsnittlig förtjänst i kronor per timme före skatt: individuellt ackord. Tabellen gäller för anställda föregående vecka.
+Z641,LNU,GRUPPACKORD,,"Genomsnittlig förtjänst i kronor per timme före skatt: gruppackord, lagackord. Tabellen gäller för anställda föregående vecka."
+Z642,LNU,MÅNADSLÖN M BONUS/PROVISION,,"Genomsnittlig  månadsinkomst  före  skatt:  fast  lön  med  bonus  eller  provision,  som  ej  ingår  i  något  av  ovan. Variabeln är här kategoriindelad. Tabellen gäller för anställda föregående vecka."
+Z643,LNU,ERSÄTTN FÖR OBEKVÄM ARBETSTID,,"Särskild ersättning för obekväm arbetstid, som ej ingår i något av ovan, i kronor per månad. Variabeln är här kategoriindelad. Tabellen gäller för anställda föregående vecka."
+Z644,LNU,ANNAN LÖNEFORM KR/MÅN,,Lön i kronor per månad: annan löneform.  Tabellen gäller för anställda föregående vecka.
+Z645,LNU,BRUTTOTIMLÖN,,"Bruttotimlön i kronor per timme, beräknad genom summering av Z637 – Z644 omräknade till timlön med hjälp av Z631. Variabeln är här kategoriindelad. Tabellen gäller för anställda föregående vecka."
+Z646,LNU,LÖN PER MÅNAD EFTER SKATT,,Hur mycket brukar du få ut per månad i lön från din ordinarie anställning sedan skatten är dragen? Variabeln är här kategoriindelad.
+Z647,LNU,NOGA MED TIDERNA,,Är det noga med tiderna på din arbetsplats? Tabellen gäller för anställda föregående vecka.
+Z648,LNU,STÄMPELUR,,Finns det stämpelur som du måste använda? Tabellen gäller för anställda föregående vecka.
+Z649,LNU,FLEXIBEL ARBETSTID,,"FLEXIBEL ARBETSTID Har du någon typ av flexibel arbetstid, dvs. kan du inom vissa gränser själv bestämma när du börjar och slutar arbetet? Tabellen gäller för anställda föregående vecka."
+Z65,LNU,FÖDELSEÅR SYSKON 3,,Vilket år föddes syskon 3? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 2.
+Z650,LNU,GRAD AV FLEXIBEL ARBETSTID,,"Kan du själv bestämma att flytta arbetstiden upp till en timme, ett par timmar, flera timmar eller en till flera dagar?  Tabellen gäller om Z649 EQ 1."
+Z651,LNU,KAN GÅ ÄRENDE,,"Om du skulle behöva gå ett privatärende, kan du lämna arbetsplatsen ungefär en halvtimme utan att säga till överordnande? Tabellen gäller för anställda föregående vecka."
+Z652,LNU,KAN BESTÄMMA ARBETSTAKT,,Kan du själv bestämma din arbetstakt? Tabellen gäller för anställda föregående vecka.
+Z653,LNU,INFLYTANDE VILKA ARBETSUPPGIFTER,,I vilken grad har du inflytande över vilka arbetsuppgifter du skall utföra? Tabellen gäller för anställda föregående vecka.
+Z654,LNU,INFLYTANDE ARBETSMETODER,,I vilken grad har du inflytande över på vilket sätt du skall utföra arbetsuppgifterna? Tabellen gäller för anställda föregående vecka.
+Z655,LNU,LÄR NYA SAKER,,I vilken grad innebär ditt arbete att du lär dig nya saker? Tabellen gäller för anställda föregående vecka.
+Z656,LNU,FÅR STÖD AV KAMRATER,,I vilken grad innebär ditt arbete att du kan få stöd och hjälp från dina arbetskamrater då det behövs? Tabellen gäller för anställda föregående vecka.
+Z657,LNU,CHEFENS ANTAL UNDERSTÄLLDA,,Hur många personer är direkt underställda din närmaste chef? Tabellen gäller för anställda föregående vecka.
+Z658,LNU,CHEFENS KÖN,,Är din närmaste chef en man eller en kvinna? Tabellen gäller för anställda föregående vecka.
+Z659,LNU,CHEFEN UTLANDSFÖDD,,Är din närmaste chef född i Sverige eller i ett annat land? Tabellen gäller för anställda föregående vecka.
+Z66,LNU,FÖDELSEÅR SYSKON 4,,Vilket år föddes syskon 4? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 3.
+Z660,LNU,CHEFEN ÄR HÖGSTA CHEF PÅ ARBETSPLATSEN,,Är din chef den högsta chefen på arbetsplatsen? Tabellen gäller för anställda föregående vecka.
+Z661,LNU,IP:S ARBETE SVÅRT ATT KONTROLLERA,,Hur svårt tror du att det är för din närmaste chef att veta hur mycket du anstränger dig på jobbet? Tabellen gäller för anställda föregående vecka.
+Z662,LNU,VIKTIGASTE SKÄL TILL ANSTRÄNGNING I ARBETET,,Folk anstränger sig på jobbet av många skäl. Vilket av dessa skäl är viktigast för dig? Tabellen gäller för anställda föregående vecka.
+Z663,LNU,NÄST VIKTIGASTE SKÄL TILL ANSTRÄNGNING I ARBETET,,Vilket av dessa skäl är näst viktigast för dig? Tabellen gäller för anställda föregående vecka.
+Z664,LNU,SVÅRT ATT ERSÄTTA IP,,Hur svårt tror du att det skulle vara för din arbetsgivare att ersätta dig om du slutade? Tabellen gäller för anställda föregående vecka.
+Z665,LNU,SVÅRT ATT FÅ NYTT JOBB,,Hur svårt tror du att det skulle vara för dig att få ett nytt jobb som är lika bra som ditt nuvarande om du av någon anledning måste sluta hos din arbetsgivare? Tabellen gäller för anställda föregående vecka.
+Z666,LNU,KVAR HOS ARBETSGIVARE OM 1 ÅR,,Tabellen gäller för anställda föregående vecka.
+Z667,LNU,TUNGA LYFT,,"Behöver man kunna lyfta 60 kilo för att klara av ditt arbete? Om ja: Behövs en sådan fysisk styrka dagligen i ditt arbete, någon gång per vecka eller mer sällan? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z668,LNU,KROPPSLIGT KRÄVANDE,,Är din typ av arbete kroppsligt krävande på något annat sätt? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z669,LNU,DAGLIG SVETTNING,,Är ditt arbete sådant att du dagligen blir svettig av kroppsansträngning? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z67,LNU,FÖDELSEÅR SYSKON 5,,Vilket år föddes syskon 5? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 4.
+Z670,LNU,PSYKISKT ANSTRÄNGANDE,,Är ditt arbete psykiskt ansträngande? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z671,LNU,JÄKT I ARBETET,,Är ditt arbete jäktigt? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z672,LNU,ENFORMIGT ARBETE,,Är ditt arbete enformigt? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z673,LNU,PSYKISK PRESS,,Index på psykisk press har skapats genom att kombinera uppgifter om  KRAV  och BESLUTSUTRYMME i arbetet.  Om  Z670=1  (psykiskt  ansträngande  arbete)  och  Z671=1  (jäktigt  arbete)  kodas  KRAV  som  1.  För övriga  kodas  krav  som  0.  Om  Z652=1  (kan  bestämma  arbetstakt)  och  Z672=2  (ej  enformigt  arbete)  kodas BESLUTSUTRYMME som 1. För övriga kodas BESLUTSUTRYMME som 0. Tabellen gäller för anställda föregående vecka.
+Z674,LNU,PSYKISK AKTIVITET,,Index på psykisk aktivitet har skapats genom att kombinera uppgifter om KRAV och BESLUTSUTRYMME i arbetet (se Z673). Tabellen gäller för anställda föregående vecka.
+Z675,LNU,STILLASITTANDE ARBETE,,Är ditt arbete sådant att du sitter ner större delen av din arbetstid? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z676,LNU,ARBETE MED ARBETSLEDNING,,"Hur stor del av din arbetstid leder du annan personals arbete, dvs. styr, instruerar, samordnar eller liknande? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z677,LNU,ARBETE MED MÄNNISKOR EJ ARBETSLEDNING,,"Hur stor del av din arbetstid arbetar du med kunder, patienter, elever eller andra människor bortsett från annan personal? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z678,LNU,ARBETE MED TEXT OCH/ELLER SIFFROR,,"Hur  stor  del  av  din  arbetstid arbetar  du  med text  och/eller  siffror,  dvs.  skriver,  räknar,  läser,  redigerar  eller liknande? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z679,LNU,ARBETE MED FÖREMÅL,,"Hur  stor  del  av  din  arbetstid  arbetar  du  med  föremål  eller  annat  material,  t.ex.  tillverkar,  bygger,  tillreder, städar, reparerar, packar, transporterar eller liknande arbetsuppgifter? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z68,LNU,FÖDELSEÅR SYSKON 6,,Vilket år föddes syskon 6? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 5.
+Z680,LNU,ARBETE MED HÖG MENTAL ANSTRÄNGNING,,"Hur stor del av din arbetstid arbetar du med mycket hög mental ansträngning, nära toppen av din förmåga? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z681,LNU,ARBETE MED LÅG MENTAL ANSTRÄNGNING,,"Hur stor del av din arbetstid arbetar du med låg mental ansträngning, långt under toppen av din förmåga? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z682,LNU,ARBETE MED KÄNSLOMÄSSIGT KRÄVANDE UPPGIFTER,,Hur stor del av din arbetstid arbetar du med känslomässigt krävande uppgifter? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z683,LNU,SJUKFRÅNVARO,,Ungefär  hur  många  dagar  under  de  senaste  12  månaderna  har  du  varit  borta  från  arbetet  på  grund  av  egen sjukdom? Variabeln är här kategoriindelad. Tabellen gäller för förvärvsarbetande föregående vecka.
+Z684,LNU,BULLER,,Är det bullrigt där du arbetar? Om ja: Bullrar det för jämnan eller bara ibland? Bullrar det öronbedövande? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z685,LNU,ENSIDIGA ARBETSRÖRELSER,,Har du i ditt arbete mycket upprepande och ensidiga arbetsrörelser? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z686,LNU,OLÄMPLIGA ARBETSSTÄLLNINGAR,,"Är ditt arbete sådant att du tvingas till krokiga, vridna eller på annat sätt olämpliga arbetsställningar? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z687,LNU,GAS DAMM RÖK,,"Utsätts du i ditt arbete för gas, damm eller rök? Om ja: är det så för jämnan, ofta eller bara ibland? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z688,LNU,SMUTSANDE ARBETE,,Blir du smutsig i ditt arbete? Om ja: Är det frågan om lätt nedsmutsning eller svår? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z689,LNU,"GIFT, SYRA, EXPLOSIVA ÄMNEN",,"Kommer du i kontakt med giftiga ämnen, frätande syror eller explosiva ämnen? Om ja: Gör du det för jämnan, ofta eller bara ibland? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z69,LNU,FÖDELSEÅR SYSKON 7,,Vilket år föddes syskon 7? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 6.
+Z690,LNU,TILLFREDSSTÄLLELSE MED LÖNEN,,Hur nöjd är du med din nuvarande lön (arbetsinkomst)? Tabellen gäller för förvärvsarbetande föregående vecka.
+Z691,LNU,INSTÄLLNING TILL ARBETET,,"Om du inte behövde lönen, hur mycket skulle du vilja arbeta i ditt nuvarande jobb? Tabellen gäller för förvärvsarbetande föregående vecka."
+Z694,LNU,NYK80 FÖRETAGARE/JORDBRUKARE,,"Yrke för företagare/jordbrukare enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+Z695,LNU,NYK85 FÖRETAGARE/JORDBRUKARE,,"Yrke för företagare/jordbrukare enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+Z7,LNU,"INTERVJUNS SLUT – TIM, MIN",,Intervjuarens notering av klockslag – timme och minut – då intervjun avslutades. Endast lägsta och högsta värde redovisas.
+Z70,LNU,FÖDELSEÅR SYSKON 8,,Vilket år föddes syskon 8? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 7.
+Z700,LNU,ANTAL ANSTÄLLDA I FÖRETAG/JORDBRUK,,Hur  många  anställda  har  företaget  eller  jordbruket?  (Medhjälpande  familjemedlem  räknas  ej  som  anställd). Variabeln är här kategoriindelad.  Tabellen gäller för Z601 EQ 1 eller Z602 EQ 1.
+Z701,LNU,ARBETSTIMMAR I GENOMSNITT,,Hur många timmar per vecka brukar du arbeta i företaget/jordbruket i genomsnitt under ett år? Variabeln är här kategoriindelad. Tabellen gäller för Z601 EQ 1 eller Z602 EQ 1.
+Z702,LNU,TIMMAR HEKTISKA VECKOR,,Hur många timmar per vecka brukar du arbeta i företaget/jordbruket under hektiska veckor? Variabeln är här kategoriindelad. Tabellen gäller för Z601 EQ 1 eller Z602 EQ 1.
+Z703,LNU,TIMMAR LUGNA VECKOR,,Hur  många  timmar  per  vecka  brukar  du  arbeta  i  företaget/jordbruket  under  lugna  veckor?  Variabeln  är  här kategoriindelad. Tabellen gäller för Z601 EQ 1 eller Z602 EQ 1.
+Z704,LNU,ANTAL HEKTISKA VECKOR,,Ungefär hur många veckor under ett år är hektiska? Tabellen gäller för Z601 EQ 1 eller Z602 EQ 1.
+Z705,LNU,SEMESTER 2009,,Hade du någon semester från företaget/jordbruket under 2009? Tabellen gäller för Z601 EQ 1 eller Z602 EQ 1.
+Z706,LNU,SEMESTERVECKOR 2009,,Hur många veckors semester hade du från ditt företag under 2009?  Tabellen gäller för Z601 EQ 1 eller Z602 EQ 1.
+Z707,LNU,FÖRETAGETS/JORDBRUKETS VÄRDE,,"Ungefär hur mycket bedömer du att företaget/jordbruket är värt, om du räknar bort eventuella lån? I 1000 SEK. Tabellen gäller för Z601 EQ 1 eller Z602 EQ 1."
+Z708,LNU,ANDEL EGET ÄGANDE I FÖRETAGET/JORDBRUKET,,"Ägs  dessa  tillgångar  huvudsakligen  av  dig,  din  partner  eller  äger  båda  ungefär  lika  mycket?  Ip:s  andel  av ägande. Tabellen gäller för Z601 EQ 1 eller Z602 EQ 1."
+Z709,LNU,PARTNERS ÄGANDE I FÖRETAGET/JORDBRUKET,,"Ägs dessa tillgångar huvudsakligen av dig, din partner eller äger båda ungefär lika mycket? Ip:s partners andel av ägande. Tabellen gäller för Z601 EQ 1 eller Z602 EQ 1."
+Z71,LNU,FÖDELSEÅR SYSKON 9,,Vilket år föddes syskon 9? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 8.
+Z710,LNU,SEI FRILANS/BISYSSLA,,Sociekonomisk indelning (SEI) för ip:s bisyssla.  Tabellen gäller för Z603 EQ 1.
+Z711,LNU,NYK80 FRILANS/BISYSSLA,,"Yrke för ip:s bisyssla enligt Nordisk yrkesklassificering (NYK, 1980 års indelning). Redovisas ej."
+Z712,LNU,NYK85 FRILANS/BISYSSLA,,"Yrke för ip:s bisyssla enligt Nordisk yrkesklassificering (NYK, 1985 års indelning). Redovisas ej."
+Z717,LNU,ARBETSTIMMAR I GENOMSNITT,,Hur många timmar per vecka brukar du arbeta i ditt yrke/bisyssla i genomsnitt under året? Variabeln är här kategoriindelad. Tabellen gäller för Z603 EQ 1.
+Z718,LNU,SEI ARBETSLÖSA,,"Vilket yrke har du, dvs. vilken typ av arbete betraktar du som ditt yrke utifrån din yrkesutbildning och/eller yrkeserfarenhet? Kodat enligt Socioekonomisk indelning (SEI). Tabellen gäller för Z604 EQ 1."
+Z719,LNU,NYK80 ARBETSLÖSA,,"Vilket yrke har du, dvs. vilken typ av arbete betraktar du som ditt yrke utifrån din yrkesutbildning och/eller yrkeserfarenhet? Yrke enligt Nordisk yrkesklassificering (NYK, 1980 års indelning för arbetslösa.) Redovisas ej."
+Z72,LNU,FÖDELSEÅR SYSKON 10,,Vilket år föddes syskon 10? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 9.
+Z720,LNU,NYK85 ARBETSLÖSA,,"Vilket yrke har du, dvs. vilken typ av arbete betraktar du som ditt yrke utifrån din yrkesutbildning och/eller yrkeserfarenhet? Yrke enligt Nordisk yrkesklassificering (NYK, 1985 års indelning för arbetslösa.) Redovisas ej."
+Z725,LNU,ARBETSLÖSHETSVECKOR,,"Hur länge  har  du  nu  sökt  eller  väntat  på  arbete,  varit  arbetslös  eller  permitterad?  Variabeln  är  här kategoriindelad. Tabellen gäller för Z604 EQ 1."
+Z726,LNU,ÖNSKAD ARBETSTID,,Hur många timmar per vecka skulle du vilja arbeta? Tabellen gäller för Z604 EQ 1.
+Z727,LNU,INSTÄLLLNING TILL ARBETE,,"Om du inte behövde lönen, hur mycket skulle du vilja arbeta? Tabellen gäller för Z604 EQ 1 OCH Z726 GT 0."
+Z728,LNU,PENSIONSÅR,,Antal år mellan ip:s pensionsår och intervjudatum. Tabellen gäller för Z605 EQ 1
+Z73,LNU,FÖDELSEÅR SYSKON 11,,Vilket år föddes syskon 11? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 10.
+Z736,LNU,FD FÖRETAGARE/JORDBRUKARE – ANSTÄLLDA,,Pensionerad företagare: Hur många anställda hade du?
+Z737,LNU,ÖNSKAR ARBETE,,Skulle du vilja ha något arbete nu om du fick tag i något som passar dig? Tabellen gäller för pensionärer som inte arbetade föregående vecka.
+Z738,LNU,ÖNSKADE ARB TIMMAR PER VECKA,,Hur många timmar per vecka skulle du vilja arbeta? Tabellen gäller för Z737 EQ 1.
+Z739,LNU,ORKAR EJ MED ARBETE,,Beror det på att du inte orkar med något arbete nu? Tabellen gäller för Z737 EQ 2.
+Z74,LNU,FÖDELSEÅR SYSKON 12,,Vilket år föddes syskon 12? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 11.
+Z740,LNU,EJ LÖNSAMT,,Tycker du att det inte lönar sig ekonomiskt att arbeta?
+Z748,LNU,TIMMAR – INKÖP MATLAGN DISK,,"Ungefärliga antalet timmar/vecka som ip:s hushåll ägnar åt matinköp, matlagning och disk. Variabeln är här kategoriindelad."
+Z749,LNU,TIMMAR IP – INKÖP MATLAGN DISK,,"Ungefärliga  antalet timmar/vecka som ip  ägnar  åt  matinköp,  matlagning  och  disk.  Variabeln  är  här kategoriindelad. Tabellen gäller för Z748 GT 0."
+Z75,LNU,FÖDELSEÅR SYSKON 13,,Vilket år föddes syskon 13 Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 12.
+Z750,LNU,TIMMAR – KLÄDVÅRD,,"Ungefärliga antalet timmar/vecka som ip:s hushåll ägnar åt klädvård (tvätt, strykning, etc.). Variabeln är här kategoriindelad."
+Z751,LNU,TIMMAR IP – KLÄDVÅRD,,"Ungefärliga  antalet timmar/vecka som ip  ägnar  åt  klädvård (tvätt, strykning,  etc.).  Variabeln  är  här kategoriindelad. Tabellen gäller för Z750 GT 0."
+Z752,LNU,TIMMAR – STÄDNING,,Ungefärliga antalet timmar/vecka som ip:s hushåll ägnar åt städning. Variabeln är här kategoriindelad.
+Z753,LNU,TIMMAR IP – STÄDNING,,Ungefärliga antalet timmar/vecka som ip ägnar åt städning. Variabeln är här kategoriindelad. Tabellen gäller för Z752 GT 0.
+Z754,LNU,TIMMAR – REPARATION OCH UNDERHÅLL,,"Ungefärliga  antalet  timmar/vecka  som  ip:s hushåll  ägnar  åt  reparation  och underhåll  (av  bostad,  fordon  och annan egendom)? Variabeln är här kategoriindelad."
+Z755,LNU,TIMMAR IP – REPARATION OCH UNDERHÅLL,,"Ungefärliga  antalet  timmar/vecka  som  ip  ägnar  åt  reparation  och  underhåll  (av  bostad,  fordon  och  annan egendom)? Variabeln är här kategoriindelad. Tabellen gäller för Z754 GT 0."
+Z756,LNU,TIMMAR – HJÄLP TILL ANHÖRIG ELLER SLÄKTING,,Ungefärliga antalet timmar/vecka som ip hjälper någon anhörig eller släkting utanför hushållet med omvårdnad eller hushållssysslor? Variabeln är här kategoriindelad.
+Z757,LNU,TIMMAR – HUSHÅLLSHJÄLP FRÅN EGNA BARN,,Ungefärliga antalet timmar/vecka som ip:s egna barn (ej boende i hushållet) utför hushållssysslor i ip:s hem.
+Z758,LNU,TIMMAR – HUSHÅLLSHJÄLP FRÅN FÖRÄLDRAR,,Ungefärliga antalet timmar/vecka som ip:s föräldrar (ej boende i hushållet) utför hushållssysslor i ip:s hem.
+Z759,LNU,TIMMAR – HUSHÅLLSHJÄLP FRÅN ANNAN ANHÖRIG/SLÄKTING,,Ungefärliga antalet timmar/vecka som anhörig/släkting till ip utför hushållssysslor i ip:s hem.
+Z76,LNU,FÖDELSEÅR SYSKON 14,,Vilket år föddes syskon 14? Variabeln är här kategoriindelad. Tabellen gäller för Z59 GT 13.
+Z760,LNU,TIMMAR – HUSHÅLLSHJÄLP FRÅN KOMMUNAL HEMTJÄNST,,Ungefärliga antalet timmar/vecka som kommunal hemtjänst utför hushållssysslor i ip:s hem.
+Z761,LNU,TIMMAR – HUSHÅLLSHJÄLP FRÅN PRIVAT KÖPT TJÄNST,,Ungefärliga antalet timmar/vecka som hushållssysslor i ip:s hem utförs av privat köpt tjänst.
+Z762,LNU,TIMMAR – HUSHÅLLSHJÄLP FRÅN ANNAN,,Ungefärliga antalet timmar/vecka som annan än ovan utför hushållssysslor i ip:s hem.
+Z763,LNU,FÖRDELNING AV HUSHÅLLETS PENGAR,,Hur fördelar du och din partner era pengar? Tabellen gäller för Z154 EQ 4 OR 5.
+Z764,LNU,ÅSIKTSSKILLNAD FÖRDELNING AV HUSHÅLLSARBETE,,Hur ofta händer det att dina och din partners åsikter skiljer sig åt vad gäller fördelningen av hushållsarbetet? Tabellen gäller för Z154 EQ 4 OR 5.
+Z765,LNU,ÅSIKTSSKILLNAD HUR PENGAR ANVÄNDS,,Hur  ofta  händer  det  att  dina  och  din  makes/makas/sambos  åsikter  skiljer  sig  åt  vad  gäller  hur  pengarna används? Tabellen gäller för Z154 EQ 4 OR 5.
+Z766,LNU,ÅSIKTSSKILLNAD HUR MKT MAKE/MAKA/SAMBO ARBETAR,,Hur ofta händer det att dina och din partners åsikter skiljer sig åt vad gäller hur mycket partner arbetar? Tabellen gäller för Z154 EQ 4 OR 5.
+Z767,LNU,ÅSIKTSSKILLNAD HUR MKT IP ARBETAR,,Hur ofta händer det att dina och din partners åsikter skiljer sig åt vad gäller hur mycket du arbetar? Tabellen gäller för Z154 EQ 4 OR 5.
+Z768,LNU,ANTAL DAGAR IP LÄMNAR BARN,,"Hur många dagar under en vanlig vecka, måndag till söndag, lämnar du barn på dagis, fritids eller skola? Tabellen gäller för ip som har barn under 14 år i hushållet."
+Z769,LNU,ANTAL DAGAR MAKE/MAKA/SAMBO LÄMNAR BARN,,"Hur många dagar under en vanlig vecka, måndag till söndag, lämnar din parter barn på dagis, fritids eller skola?  Tabellen gäller för ip som har barn under 14 år i hushållet och Z154 EQ 4 OR 5."
+Z77,LNU,KÖN SYSKON 1,,Är syskon 1 en bror eller en syster? Tabellen gäller för Z59 GT 0.
+Z770,LNU,ANTAL DAGAR ANNAN LÄMNAR BARN,,"Hur många dagar under en vanlig vecka, måndag till söndag, lämnar någon annan än du eller din partner barn på dagis, fritids eller skola? Tabellen gäller för ip som har barn under 14 år i hushållet."
+Z771,LNU,ANTAL DAGAR IP HÄMTAR BARN,,"Hur många dagar under en vanlig vecka, måndag till söndag, hämtar du barn på dagis, fritids eller skola? Tabellen gäller för ip som har barn under 14 år i hushållet."
+Z772,LNU,ANTAL DAGAR MAKE/MAKA/SAMBO HÄMTAR BARN,,"Hur  många  dagar  under  en  vanlig  vecka,  måndag  till  söndag, hämtar  din  partner  barn  på  dagis,  fritids  eller skola? Tabellen gäller för ip som har barn under 14 år i hushållet och Z154 EQ 4 OR 5."
+Z773,LNU,ANTAL DAGAR ANNAN HÄMTAR BARN,,"Hur många dagar under en vanlig vecka, måndag till söndag, hämtar någon annan än du eller din partner barn på dagis, fritids eller skola? Tabellen gäller för ip som har barn under 14 år i hushållet."
+Z774,LNU,ANTAL DAGAR IP LAGAR MIDDAG,,"Hur många dagar, under en vanlig vecka (måndag-söndag), lagar du middag? Tabellen gäller för ip som har barn under 14 år i hushållet."
+Z775,LNU,ANTAL DAGAR MAKE/MAKA/SAMBO LAGAR MIDDAG,,"Hur många dagar, under en vanlig vecka (måndag-söndag), lagar din partner middag? Tabellen gäller för ip som har barn under 14 år i hushållet och Z154 EQ 4 OR 5."
+Z776,LNU,ANTAL DAGAR ANNAN LAGAR MIDDAG,,"Hur många dagar, under en vanlig vecka (måndag-söndag), lagar någon annan än du eller din partner middag? Tabellen gäller för ip som har barn under 14 år i hushållet."
+Z777,LNU,ANTAL DAGAR IP NATTAR BARN,,"Hur många dagar, under en vanlig vecka (måndag-söndag), lägger du barn för natten? Tabellen gäller för ip som har barn under 14 år i hushållet."
+Z778,LNU,ANTAL DAGAR MAKE/MAKA/SAMBO NATTAR BARN,,"Hur många dagar, under en vanlig vecka (måndag-söndag), lägger din partner barn för natten? Tabellen gäller för ip som har barn under 14 år i hushållet och Z154 EQ 4 OR 5."
+Z779,LNU,ANTAL DAGAR ANNAN NATTAR BARN,,"Hur många dagar, under en vanlig vecka (måndag-söndag), lägger någon annan än du eller din partner barn för natten? Tabellen gäller för ip som har barn under 14 år i hushållet."
+Z78,LNU,KÖN SYSKON 2,,Är syskon 2 en bror eller en syster? Tabellen gäller för Z59 GT 1.
+Z780,LNU,KONTANTMARGINAL,,"Om du plötsligt hamnade i en situation, där du på en vecka måste skaffa fram 14 000 kronor, skulle du kunna klara det?"
+Z781,LNU,ANSKAFFNING AV KONTANTER,,Om ja: på vilket sätt skulle du kunna skaffa fram 14 000 kronor på en vecka? Tabellen gäller om Z780 EQ 1
+Z782,LNU,EKONOMISKA SVÅRIGHETER,,"Har det under de senaste tolv månaderna hänt att du haft svårigheter med att klara de löpande utgifterna för mat, hyra, räkningar m.m.?"
+Z783,LNU,FÅR UNDERHÅLL PER MÅNAD,,Får  du  underhåll  för  något  barn  som  är  fött  1992  eller  senare.  Om  ja:  Hur  mycket  sammanlagt  per  månad (kronor per månad)? Tabellen gäller för dem som har barn under 18 och är separerade från den andre föräldern Variabeln är här kategoriindelad.
+Z784,LNU,BETALAR UNDERHÅLL PER MÅNAD,,Betalar du underhåll för något barn som är fött 1992 eller senare? Om ja: Hur mycket får du sammanlagt per månad (kronor per månad)? Tabellen gäller för dem som har barn under 18 och är separerade från den andre föräldern Variabeln är här kategoriindelad.
+Z785,LNU,ARV,,Vad är det sammanlagda värdet av dina arv de senaste 10 åren?  Har ej fått arv
+Z786,LNU,"TOTALT GIVET EKONOMISKT STÖD, TKR",,"Har du, under de senaste tolv månaderna, givit ekonomiskt stöd eller gåvor för sammanlagt 6000 kr eller mer till  någon  eller  några  utanför  ditt  hushåll?  Om  ja:  Vad  är  det  sammanlagda  ungefärliga  värdet  (antal  tusen kronor)? Variabeln är här kategoriindelad. -9"
+Z787,LNU,"EKONOMISKT STÖD TILL FÖRÄLDRAR, TKR",,Kan du uppge ett ungefärligt värde på hur mycket dina föräldrar har fått under de senaste tolv månaderna (antal tusen kronor)? Variabeln är här kategoriindelad
+Z788,LNU,"EKONOMISKT STÖD TILL MOR/FARFÖRÄLDRAR, TKR",,Kan du uppge ett ungefärligt värde på hur mycket dina mor-/farföräldrar har fått under de senaste tolv månaderna (antal tusen kronor)? Variabeln är här kategoriindelad.
+Z789,LNU,"EKONOMISKT STÖD TILL BARN, TKR",,Kan du uppge ett ungefärligt värde på hur mycket barnet/barnen har fått under de senaste tolv månaderna (antal tusen kronor)?  Variabeln är här kategoriindelad.
+Z79,LNU,KÖN SYSKON 3,,Är syskon 3 en bror eller en syster? Tabellen gäller för Z59 GT 2.
+Z790,LNU,"EKONOMISKT STÖD TILL BARNBARN, TKR",,Kan du uppge ett ungefärligt värde på hur mycket barnbarnet/barnbarnen har fått under de senaste tolv månaderna (antal tusen kronor)? Variabeln är här kategoriindelad.
+Z791,LNU,"EKONOMISKT STÖD TILL ANNAN PERSON, TKR",,Kan du uppge ett ungefärligt värde på hur mycket annan person (andra personer) har fått under de senaste tolv månaderna (antal tusen kronor)? Variabeln är här kategoriindelad.
+Z792,LNU,TOTALT MOTTAGET EKONOMISKT STÖD,,Har du under de senaste tolv månaderna tagit emot ekonomiskt stöd eller gåvor för sammanlagt 6000 kronor eller mer från någon/några utanför ditt hushåll? Om ja: Vad är det sammanlagda ungefärliga värdet (antal tusen kronor)? Variabeln är här kategoriindelad.
+Z793,LNU,"EKONOMISKT STÖD FRÅN FÖRÄLDRAR, TKR",,Hur mycket har du fått från dina föräldrar under de senaste 12 månaderna (antal tusen kronor)? Variabeln är här kategoriindelad.
+Z794,LNU,EKONOMISKT STÖD FRÅN MOR/FARFÖRÄLDRAR TKR,,Hur mycket har du fått från dina mor-/farföräldrar under de senaste 12 månaderna (antal tusen kronor)? Variabeln är här kategoriindelad.
+Z795,LNU,"EKONOMISKT STÖD FRÅN BARN, TKR",,Hur mycket har du fått från barnet/barnen under de senaste 12 månaderna (antal tusen kronor)?
+Z796,LNU,"EKONOMISKT STÖD FRÅN BARNBARN, TKR",,Hur mycket har du fått från barnbarnet/barnbarnen under de senaste 12 månaderna (antal tusen kronor)?
+Z797,LNU,"EKONOMISKT STÖD FRÅN ANNAN PERSON, TKR",,Hur mycket har du fått från annan person (andra personer) under de senaste 12 månaderna (antal tusen kronor)? Variabeln är här kategoriindelad.
+Z798,LNU,NÄRA VÄN VID SJUKDOM,,Har du någon anhörig eller nära vän som ställer upp om du blir sjuk?
+Z799,LNU,NÄRA VÄN SOM SÄLLSKAP,,Har du någon anhörig eller nära vän som ställer upp om du vill ha sällskap?
+Z8,LNU,TYP AV INTERVJU,,Typ av intervju.
+Z80,LNU,KÖN SYSKON 4,,Är syskon 4 en bror eller en syster? Tabellen gäller för Z59 GT 3.
+Z800,LNU,NÅGON ATT PRATA MED,,Har  du  någon  anhörig  eller  nära  vän  som  ställer  upp  om  du  behöver  prata  med  någon  om  personliga bekymmer?
+Z801,LNU,VÄRDE REALA TILLGÅNGAR,,"Vad  är  det  UNGEFÄRLIGA  marknadsvärdet  på  [ip:s  eller ips:s  partners  ägda] tillgångar,  dvs.  bostad, bostadsrätt, fritidshus, tomt, mark eller skog? (tusen kr)"
+Z802,LNU,SKULDER FÖR REALA TILLGÅNGAR,,"Ungefär hur stora är dina och din partners skulder för detta? [lån på bostad, bostadsrätt, fritidshus, tomt, mark eller skog?] (tusen kr) Tabeller för Z801 GT 0."
+Z803,LNU,REALA TILLGÅNGAR ÄGANDE,,"Ägs dessa tillgångar huvudsakligen av dig, din partner eller äger båda ungefär lika mycket?  Tabellen gäller för ip som har reala tillgångar och Z154 EQ 4 OR 5."
+Z804,LNU,FINANSIELLA TILLGÅNGAR,,"Vad är det sammanlagda ungefärliga värdet på dina och din partners finansiella tillgångar, dvs. banktillgodohavanden,  kontanter,  aktier,  obligationer  och  andra  värdepapper?  Dra  ifrån  eventuella  övriga skulder, t.ex. studielån."
+Z805,LNU,FINANSIELLA TILLGÅNGAR ÄGANDE,,"Ägs dessa tillgångar huvudsakligen av dig, din partner eller äger båda ungefär lika mycket? Tabellen gäller för Z804 GE 1 AND LE 8 och Z154 EQ 4 OR 5."
+Z806,LNU,UTSATT FÖR STÖLD,,Har du under de senaste tolv månaderna varit utsatt för någon stöld?
+Z807,LNU,UTSATT FÖR SKADEGÖRELSE,,Har du under de senaste tolv månaderna varit med om att någon har skadat eller förstört egendom för dig?
+Z808,LNU,VÅLD MED KROPPSSKADA,,Har du under de senaste tolv månaderna varit utsatt för våld som ledde till synliga märken eller kroppsskada?
+Z809,LNU,VÅLD UTAN KROPPSSKADA,,Har  du  under  de  senaste tolv  månaderna  varit  utsatt  för  våld  som inte ledde till  synliga  märken  eller kroppsskada?
+Z81,LNU,KÖN SYSKON 5,,Är syskon 5 en bror eller en syster? Tabellen gäller för Z59 GT 4.
+Z810,LNU,ALLVARLIGA HOT,,Har du under de senaste tolv månaderna varit utsatt för hot eller hotelser som var farliga eller så allvarliga att du blev rädd?
+Z811,LNU,SEMESTERRESA 2009,,Gjorde du någon semesterresa (eller resa av rekreationskaraktär) under 2009?
+Z812,LNU,STUGVISTELSE 2009,,"Tillbringade du någon tid under 2009 i sommarstuga, kolonistuga, fritidshus eller liknande?"
+Z813,LNU,FISKA ELLER JAGA PÅ FRITIDEN,,
+Z814,LNU,TRÄDGÅRDSSKÖTSEL,,Brukar du göra något av följande som fritidsaktivitet: sköta trädgård?
+Z815,LNU,BIOBESÖK,,Brukar du göra något av följande som fritidsaktivitet: gå på bio?
+Z816,LNU,TEATERBESÖK,,"Brukar du göra något av följande som fritidsaktivitet: gå på teater, konserter, museer, utställningar?"
+Z817,LNU,RESTAURANGBESÖK,,Brukar du göra något av följande som fritidsaktivitet: gå på restaurang?
+Z818,LNU,DANS,,Brukar du göra något av följande som fritidsaktivitet: gå på dans?
+Z819,LNU,BESÖKA SLÄKTINGAR,,Brukar du göra något av följande som fritidsaktivitet: besöka släktingar?
+Z82,LNU,KÖN SYSKON 6,,Är syskon 6 en bror eller en syster? Tabellen gäller för Z59 GT 5.
+Z820,LNU,HA SLÄKTBESÖK,,Brukar du göra något av följande som fritidsaktivitet: ha släktingar på besök?
+Z821,LNU,BESÖKA VÄNNER OCH BEKANTA,,Brukar du göra något av följande som fritidsaktivitet: besöka vänner och bekanta?
+Z822,LNU,HA VÄNNER PÅ BESÖK,,Brukar du göra något av följande som fritidsaktivitet: ha vänner och bekanta på besök?
+Z823,LNU,BOKLÄSNING,,Brukar du göra något av följande som fritidsaktivitet: läsa böcker?
+Z824,LNU,STUDIECIRKEL,,Brukar du göra något av följande som fritidsaktivitet: delta i studiecirklar eller kurser?
+Z825,LNU,MUSICERA ELLER SJUNGA I KÖR,,
+Z826,LNU,HOBBYARBETE,,"Brukar du göra något av följande som fritidsaktivitet: syssla med hobbyverksamhet (sticka, sy snickra, måla, samla frimärken etc.)?"
+Z827,LNU,INTERNET,,Brukar du göra något av följande som fritidsaktivitet: ha direktkontakt med andra över Internet genom att t.ex. chatta eller spela online-spel?
+Z828,LNU,MOTIONSAKTIVITET,,"Utövar du någon motions-, frilufts- eller idrottsverksamhet, t.ex. långpromenader? Om ja: Hur ofta?"
+Z829,LNU,MEDLEM I FACKFÖRENING,,Är du medlem i någon fackförening eller facklig sammanslutning?
+Z83,LNU,KÖN SYSKON 7,,Är syskon 7 en bror eller en syster? Tabellen gäller för Z59 GT 6.
+Z830,LNU,FACKFÖRBUND,,Vilket förbund (eller liknande) tillhör du?
+Z831,LNU,FACKLIG MÖTESAKTIVITET,,Har du varit på något fackföreningsmöte under det senaste året?
+Z832,LNU,FACKLIGA UPPDRAG,,Har  du eller  har  du  haft  någon förtroendepost i  någon fackförening eller facklig sammanslutning (styrelsemedlemskap eller liknande)?
+Z833,LNU,FACKLIG AKTIVITET,,"FACKLIG AKTIVITET Index över facklig aktivitet baserad på svaren från frågorna i Z829, Z831 och z832.  Indexkonstruktion: Ej medlem i facklig organisation"
+Z834,LNU,PARTIMEDLEMSKAP,,PARTIMEDLEMSKAP Är  du  medlem  i  något  politiskt  parti  eller  politisk  sammanslutning?  Om  ja:  Har  du  eller  har  du  haft någon förtroendepost i någon politisk förening eller organisation (styrelsemedlem eller liknande)?
+Z835,LNU,POLITISK MÖTESAKTIVITET,,Har du varit på något politiskt möte eller sammankomst under det senaste året?
+Z836,LNU,POLITISK AKTIVITET,,POLITISK AKTIVITET Index över politisk aktivitet baserad på svaren från frågorna på Z834 och Z835. Indexkonstruktion: Ej medlem i politisk organisation + ej varit på politiskt möte senaste året
+Z837,LNU,VALDELTAGANDE 2006,,Röstade du i valet 2006?
+Z838,LNU,VALDELTAGANDE 2009 EU-PARLAMENTSVALET,,Röstade du i EU-parlamentsvalet 2009?
+Z839,LNU,VALDELTAGANDE 2010 AVSIKT,,"Tänker du rösta i valet 2010, dvs. nu i höst? Tabellen gäller för ip intervjuad före 20 sep 2010, dvs. före riksdagsvalet."
+Z84,LNU,KÖN SYSKON 8,,Är syskon 8 en bror eller en syster? Tabellen gäller för Z59 GT 7.
+Z840,LNU,VALDELTAGANDE 2010 FAKTISKT,,"Röstade du i valet 2010 [riksdags-, landstings- eller kommunalvalen i Sverige hösten 2010]? Tabellen gäller för ip intervjuad efter 19 sep 2010, dvs efter riksdagsvalet."
+Z841,LNU,ÖVRIGA FÖRENINGAR,,Tillhör du någon annan typ av förening eller organisation än ovan?
+Z842,LNU,FÖRENINGSAKTIVITETER,,"Hur ofta deltar du i någon sådan föreningsverksamhet, på ett ungefär?  Tabellen gäller för Z841 EQ 1."
+Z843,LNU,RELIGIONSTILLHÖRIGHET,,Vilken religionstillhörighet har du?
+Z844,LNU,RELIGIONEN VIKTIG,,Hur viktig är religionen i ditt liv? Tabellen gäller om Z843 GE 1 AND LE 6.
+Z845,LNU,DEMONSTRERAT SENASTE 10 ÅREN,,Har du under de senaste tio åren deltagit i en offentlig demonstration?
+Z846,LNU,PERSONLIG KONTAKT,,Har du någon gång tagit kontakt med en person i ansvarig ställning för att påverka ett beslut i en samhällsfråga?
+Z847,LNU,MÖTESTALAT,,Har du någon gång talat inför ett möte i en förening eller organisation?
+Z848,LNU,SKRIVIT I TIDNING,,Har du någon gång skrivit en insändare eller artikel till någon tidning eller tidskrift?
+Z849,LNU,POLITISKT DELTAGANDE,,"POLITISKT DELTAGANDE Index över politiskt deltagande baserat på frågorna i Z845, Z846, Z847 samt indexen Z833 och Z836,  Indexkonstruktion: om någon av de 6 variablerna har värde 9"
+Z85,LNU,KÖN SYSKON 9,,Är syskon 9 en bror eller en syster? Tabellen gäller för Z59 GT 8.
+Z850,LNU,KAN KLAGA,,Skulle  du  kunna  åta  dig  att  själv  författa  en  skrivelse  och  överklaga  ett  beslut  av  en  myndighet?  Om  nej: Känner du någon person som du vet att du skulle kunna få hjälp av i ett sådant fall?
+Z851,LNU,HJÄLP VID KLAGOMÅL,,Vet du vart man kan vända sig för att få hjälp i sådana situationer?  Tabellen gäller för Z850 NE 10 eller 21.
+Z852,LNU,TALA ENGELSKA,,Kan du tala engelska?
+Z853,LNU,LÄSA ENGELSKA,,Kan du förstå innehållet i en dagstidning på engelska?
+Z854,LNU,SAMHÄLLE MED MER PRIVATA ALTERNATIV,,"Vad anser du om förslaget att satsa på ett samhälle med fler privata alternativ inom skola, vård och omsorg?"
+Z855,LNU,SAMHÄLLE MED SMÅ INKOMSTSKILLNADER,,Vad anser du om förslaget att satsa på ett samhälle där inkomstskillnaderna är små?
+Z856,LNU,SAMHÄLLE DÄR MER VÅRD SKER INOM FAMILJEN,,Vad  anser  du  om  förslaget  att  satsa  på  ett  samhälle  där  vården  av  barn  och  äldre  i  högre  grad  sker  inom familjen?
+Z857,LNU,SAMHÄLLE MED JÄMSTÄLLDHET INOM FAMILJEN,,Vad anser du om förslaget att satsa på ett samhälle där männen tar lika stort ansvar som kvinnor för barn och hushåll?
+Z858,LNU,PROBLEMLÖSARE,,Brukar du kunna se en lösning på problem och svårigheter som andra finner hopplösa?
+Z859,LNU,LIVSTILLFREDSSTÄLLELSE,,Brukar du känna att ditt dagliga liv är en källa till personlig tillfredsställelse?
+Z86,LNU,KÖN SYSKON 10,,Är syskon 10 en bror eller en syster? Tabellen gäller för Z59 GT 9.
+Z860,LNU,SVÅRFÖRSTÅELIGT,,Brukar du känna att saker som händer dig i ditt dagliga liv är svåra att förstå?
+Z861,LNU,STYRA SITT LIV,,Brukar du känna att du själv kan styra ditt eget liv?
+Z862,LNU,IP:S VÄRDERING AV SIN SITUATION,,"Sett i stort, tycker du att du har det mycket bra, ganska bra, ganska dåligt eller mycket dåligt?"
+Z863,LNU,HAR IP FÅTT DET BÄTTRE ELLER SÄMRE,,"Om du tänker tillbaka på de senaste 10 åren, tycker du att dina levnadsförhållanden under denna tid försämrats, förbättrats eller varit i stort sett oförändrade?"
+Z864,LNU,JAG GILLAR ORDNING OCH REDA,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z865,LNU,JAG VISAR INTE KÄNSLOR INFÖR ANDRA,,Ange hur väl [ovanstående egenskap] stämmer in på dig
+Z866,LNU,JAG GER INTE UPP VID MOTGÅNGAR,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z867,LNU,JAG BRUKAR VARA LAT,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z868,LNU,JAG TÄNKER OFTA MER PÅ HUR ANDRA HAR DET ÄN PÅ MIG SJÄLV,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z869,LNU,FÖR ATT LYCKAS I LIVET MÅSTE MAN TA RISKER,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z87,LNU,KÖN SYSKON 11,,Är syskon 11 en bror eller en syster? Tabellen gäller för Z59 GT 10.
+Z870,LNU,JAG BLIR LÄTT NERVÖS,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z871,LNU,JAG HAR LÄTT FÖR ATT FÅ SAKER GJORDA,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z872,LNU,JAG GILLAR ATT TA ANSVAR,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z873,LNU,DET LÖNAR SIG INTE ATT PLANERA FÖR FRAMTIDEN,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z874,LNU,JAG ÄR BRA PÅ ATT HANTERA STRESS,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z875,LNU,JAG SER ALLTID TILL ATT SLUTFÖRA DET JAG PÅBÖRJAT,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z876,LNU,JAG ÄR EN RISKTAGARE,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z877,LNU,JAG GILLAR INTE ATT ÄNDRA PÅ INVANDA RUTINER,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z878,LNU,JAG BRUKAR LÄGGA NER MÖDA PÅ SAKER SOM BETALAR SIG FÖRST I FRAMTIDEN,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z879,LNU,JAG HAR SVÅRT ATT STÅ EMOT FRESTELSER,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z88,LNU,KÖN SYSKON 12,,Är syskon 12 en bror eller en syster? Tabellen gäller för Z59 GT 11.
+Z880,LNU,FRAMGÅNG ÄR ETT RESULTAT AV HÅRT ARBETE SNARARE ÄN TUR,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z881,LNU,JAG HAR EN LIVLIG FANTASI,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z882,LNU,JAG BRUKAR SKJUTA UPP SAKER SOM KÄNNS JOBBIGA,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z883,LNU,VAD SOM HÄNDER MIG BEROR PÅ MINA EGNA HANDLINGAR,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z884,LNU,JAG HAR ETT GOTT SJÄLVFÖRTROENDE,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z885,LNU,JAG HAR INGA KONSTNÄRLIGA INTRESSEN,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z886,LNU,JAG ÄR UTÅTRIKTAD OCH SOCIAL,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z887,LNU,JAG HAR GOD SJÄLVDISCIPLIN,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z888,LNU,JAG GÖR SAKER GRUNDLIGT,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z889,LNU,JAG HÅLLER MIG HELST I BAKGRUNDEN,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z89,LNU,KÖN SYSKON 13,,Är syskon 13 en bror eller en syster? Tabellen gäller för Z59 GT 12.
+Z890,LNU,JAG HITTAR OFTA FEL HOS ANDRA,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z891,LNU,JAG ÄR EN NATURLIG LEDARE,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z892,LNU,JAG BRUKAR LITA PÅ FOLK,,Ange hur väl [ovanstående egenskap]stämmer in på dig.
+Z893,LNU,JAG ÄR RESERVERAD,,Ange hur väl [ovanstående egenskap]stämmer in på dig.
+Z894,LNU,JAG ÄR NÄSTAN ALLTID PÅ GOTT HUMÖR,,Ange hur väl [ovanstående egenskap] stämmer in på dig.
+Z9,LNU,INDIREKT INTERVJU,,Anger huruvida intervju gjordes med intervjupersonen eller annan än intervjupersonen
+Z90,LNU,KÖN SYSKON 14,,Är syskon 14 en bror eller en syster? Tabellen gäller för Z59 GT 13.
+Z91,LNU,POSITION I SYSKONSKARAN,,Ip:s  position  i  syskonskaran.  Decimalvärde  gäller  för  syskon  födda  samma  år.  Syskon  för  vilka  uppgift  om födelseår saknas har inte inkluderats i beräkningen av position i syskonskaran. Tabellen gäller för Z59 NE 88.
+Z913,LNU,NATIONALITET,,"Nationalitet enligt RTB-registret, hämtat från LISA."
+Z914,LNU,LÄN FÖR KYRKOBOKFÖRING,,"Län enligt aktuell kyrkobokföring enligt RTB-registret, hämtat från LISA."
+Z915,LNU,KOMMUN FÖR KYRKOBOKFÖRING,,"Kommun enligt aktuell kyrkobokföring enligt RTB-registret, hämtat från LISA. Redovisas ej."
+Z916,LNU,H-REGION,,"H-region, omfattning enligt RTB registret hämtat från LISA."
+Z917,LNU,CIVILSTÅND,,"Ip:s Civilstånd enligt RTB-registret, hämtat från LISA."
+Z918,LNU,MAKE/A FÖDELSEÅR,,"Födelseår för ip:s make/maka/sambo enligt RTB-registret, hämtat från LISA."
+Z919,LNU,INDIVIDVIKT EFTER ORDINARIE DATAINSAMLING OCH BORTFALLSUPPFÖLJNING,,"INDIVIDVIKT EFTER ORDINARIE DATAINSAMLING OCH BORTFALLSUPPFÖLJNING Används  vid  analys  av  de  långa  intervjuerna  för  hela  svarsmängden,  stratum  1-4.  Se  Teknisk  rapport.  En beskrivning av genomförande och metoder. Levnadsnivåundersökningen 2010 för en utförligare beskrivning. Redovisas ej."
+Z92,LNU,HEL UPPVÄXTFAMILJ,,"Bodde du hos båda dina biologiska föräldrar under hela din uppväxttid, dvs. fram tills det du fyllt 16 år? Om nej: Vad berodde det på? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z920,LNU,INDIVIDVIKT EFTER FÖRKORTAD UPPFÖLJNINGSINTERVJU,,"INDIVIDVIKT EFTER FÖRKORTAD UPPFÖLJNINGSINTERVJU Används  vid  analys  av  de  långa  OCH  korta  intervjuerna  för  hela  svarsmängden,  stratum  1-4.  Se  Teknisk rapport.  En beskrivning av genomförande och  metoder.  Levnadsnivåundersökningen 2010  för  en  utförligare beskrivning. Redovisas ej."
+Z921,LNU,STRATUM 1-3: INDIVIDVIKT EFTER ORDINARIE DATAINSAMLING OCH,,"STRATUM 1-3: INDIVIDVIKT EFTER ORDINARIE DATAINSAMLING OCH BORTFALLSUPPFÖLJNING Används  vid  analys  av  de  långa  intervjuerna,  svarsmängden  motsvarar  stratum 1-3.  Se  Teknisk  rapport.  En beskrivning av genomförande och metoder. Levnadsnivåundersökningen 2010 för en utförligare beskrivning. Redovisas ej."
+Z922,LNU,STRATUM 1-3: INDIVIDVIKT EFTER FÖRKORTAD UPPFÖLJNINGSINTERVJU,,"STRATUM 1-3: INDIVIDVIKT EFTER FÖRKORTAD UPPFÖLJNINGSINTERVJU Används  vid  analys  av  de  långa  OCH  korta  intervjuerna,  svarsmängden  motsvarar  stratum  1-3.  Se  Teknisk rapport.  En beskrivning av genomförande och  metoder.  Levnadsnivåundersökningen 2010  för  en  utförligare beskrivning. Redovisas ej."
+Z93,LNU,UMGÄNGESFREKVENS FRÅNLEVANDE FÖRÄLDER,,"Under den tid dina föräldrar inte levde ihop, hur ofta träffade du då den föräldern du inte huvudsakligen bodde med? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Tabellen gäller för Z92 EQ 21 OR 22."
+Z94,LNU,ÅLDER DÅ FÖRÄLDRAR SLUTADE BO TILLSAMMANS,,Tabellen gäller för Z2 EQ 5 AND Z92 EQ 21.
+Z95,LNU,BODDE MED STYVFÖRÄLDER,,Bodde du tillsammans med en styvförälder någon gång under din uppväxt?  Tabellen gäller för Z2 EQ 5 AND Z92 NE 10.
+Z96,LNU,BODDE MED STYVSYSKON,,"Bodde  du  tillsammans  med  styvsyskon  någon  gång  under  din  uppväxt?  Frågan  ej  ställd  till  panelen,  men uppgifter från tidigare LNU har i förekommande fall lagts till. Tabellen gäller för Z2 EQ 5 AND Z92 NE 10."
+Z97,LNU,TIDPUNKT FÖR FLYTT HEMIFRÅN ÅR/MÅN,,Vilket år flyttade du hemifrån (första gången)? Endast år redovisas. Variabeln är här kategoriindelad.
+Z98,LNU,KONFLIKTER I UPPVÄXTFAMILJEN,,"Förekom det allvarliga slitningar i din familj under din uppväxttid? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till."
+Z99,LNU,KONFLIKT BIOLOGISKA FÖRÄLDRAR,,"Förekom det allvarliga slitningar mellan dina biologiska föräldrar? Frågan ej ställd till panelen, men uppgifter från tidigare LNU har i förekommande fall lagts till. Tabellen gäller för Z98 EQ 1."

@@ -1,0 +1,148 @@
+INSERT INTO Kodlistor ('KODLISTA') VALUES (NULL);
+ 
+INSERT INTO Kodlistor ('KODLISTA') VALUES (NULL);
+ 
+INSERT INTO Kodlistor ('KODLISTA') VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.');
+ 
+INSERT INTO Kodlistor (KODLISTA) VALUES (NULL);
+ 
+INSERT INTO Kodlistor (KODLISTA) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ingen gång');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('En gång');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Två till tre gånger');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Fyra gånger eller mer');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Missing');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ingen gång');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('En gång');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Två till tre gånger');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Fyra gånger eller mer');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Missing');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (1, '2', '1', 'Ingen gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (2, '2', '1', 'Ingen gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '1', 'Ingen gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '2', 'En gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '3', 'Två till tre gånger');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '4', 'Fyra gånger eller mer');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '.', 'Missing');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '1', 'Ingen gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '2', 'En gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '3', 'Två till tre gånger');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '4', 'Fyra gånger eller mer');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '.', 'Missing');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '1', 'Ingen gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '2', 'En gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '3', 'Två till tre gånger');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '4', 'Fyra gånger eller mer');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '.', 'Missing');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '1', 'Ingen gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '2', 'En gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '3', 'Två till tre gånger');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '4', 'Fyra gånger eller mer');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '.', 'Missing');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '1', 'Ingen gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '2', 'En gång');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '3', 'Två till tre gånger');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '4', 'Fyra gånger eller mer');
+ 
+INSERT INTO Kodlistor_stor ('K_ID', 'KODLISTA', 'KOD', 'SVARSTEXT') VALUES (NULL, '2', '.', 'Missing');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ingen gång');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('En gång');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Två till tre gånger');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Fyra gånger eller mer');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Missing');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('1', '1', 'Ingen gång');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('1', '2', 'En gång');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('1', '3', 'Två till tre gånger');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('1', '4', 'Fyra gånger eller mer');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('1', '.', 'Missing');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ingen gång');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('En gång');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Två till tre gånger');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Fyra gånger eller mer');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Missing');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('1', '1', 'Ingen gång');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('1', '2', 'En gång');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('1', '3', 'Två till tre gånger');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('1', '4', 'Fyra gånger eller mer');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('1', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('sick1v_1', 'SLOSH 06 working', '', '1', 'B12_a', 'Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('sick1v_1', 'SLOSH 06 working', '', '1', 'B12_a', 'Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.', '1');
+ 

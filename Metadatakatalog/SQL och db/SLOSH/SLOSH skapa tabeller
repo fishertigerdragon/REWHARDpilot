@@ -2,7 +2,7 @@ CREATE TABLE Enkättexter (enkättext TEXT PRIMARY KEY);
 
 CREATE TABLE Svarstexter (svarstext TEXT PRIMARY KEY);
 
-CREATE TABLE Kodlistor (kodlista TEXT PRIMARY KEY);
+CREATE TABLE Kodlistor (kodlista INTEGER PRIMARY KEY AUTOINCREMENT);
 
 CREATE TABLE Kodlistor_stor (K_ID INTEGER PRIMARY KEY AUTOINCREMENT, 
                             kodlista TEXT,
@@ -13,6 +13,8 @@ CREATE TABLE Kodlistor_stor (K_ID INTEGER PRIMARY KEY AUTOINCREMENT,
                             
 CREATE TABLE Variabler (variabel TEXT,
                         enkät TEXT,
+                        beskrivning TEXT,    
+                        dubbelkodning TEXT,
                         itemnr TEXT,
                         enkättext TEXT,
                         kodlista TEXT,

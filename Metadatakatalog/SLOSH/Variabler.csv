@@ -935,9 +935,9 @@ emprprim_2,SLOSH 08 working,,,3,Vilken är din huvudsakliga arbetsgivare?,107
 emprprim_3,SLOSH 10 working,,,2,Vilken är din huvudsakliga arbetsgivare?,108
 emprprim_4,SLOSH 12 working,,,27,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,107
 emprprim_4,SLOSH 12 non-working,,,27,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,107
-emprprim_5,SLOSH 14 non-working,,,29,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,109
-emprprim_6,SLOSH 16 non-working,,,29,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,109
-emprprim_7,SLOSH 18 non-working,,,29,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,109
+emprprim_5,SLOSH 14 non-working,,,29,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,108
+emprprim_6,SLOSH 16 non-working,,,29,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,108
+emprprim_7,SLOSH 18 non-working,,,29,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,108
 emprprimtxt_1,SLOSH 06 working,,,A56_txt,Vilken är din huvudsakliga arbetsgivare?,45
 emprprimtxt_1,,,,A56_txt,Vilken är din huvudsakliga arbetsgivare?,45
 emprprimtxt_2,SLOSH 08 working,,,3_txt,Vilken är din huvudsakliga arbetsgivare?,45
@@ -953,145 +953,145 @@ emprprimtxt_6,SLOSH 16 non-working,,,29_txt,Vilken är din huvudsakliga arbetsgi
 emprprimtxt_6,,,,29_txt,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,45
 emprprimtxt_7,SLOSH 18 non-working,,,29_txt,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,45
 emprprimtxt_7,,,,29_txt,Vilken är din huvudsakliga arbetsgivare? Markera endast ett alternativ.,45
-childwom_1,SLOSH 06 working,,,A57_a,Finns det på din arbetsplats en förståelse för kvinnliga medarbetare som har behov av minskad arbetstid under småbarnsåren?,110
-childman_1,SLOSH 06 working,,,A57_b,Finns det på din arbetsplats en förståelse för manliga medarbetare som har behov av minskad arbetstid under småbarnsåren?,110
-arbskift_1,SLOSH 06 working,,,A58,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,111
-arbskift_2,SLOSH 08 working,,1.0,56_a,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,112
-arbskift_2,SLOSH 08 non-working,,1.0,56_a,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,112
-arbskift_3,SLOSH 10 working,,,20,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,113
-arbskift_4,SLOSH 12 working,,,21,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,113
-arbskift_5,SLOSH 14 working,,,28,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,113
-arbskift_6,SLOSH 16 working,,,27,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,113
-arbskift_7,SLOSH 18 working,,,25,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,113
-timeoff_1,SLOSH 06 working,,,A59,Kan du utan problem ta ledigt när du behöver det?,114
-hemmaarb_1,SLOSH 06 working,,,A60,Har stor del av din ordinarie arbetstid arbetar du vanligtvis i hemmet?,115
-lonetyp_1,SLOSH 06 working,,,A61,Hur avlönas du? Markera endast ett alternativ,116
+childwom_1,SLOSH 06 working,,,A57_a,Finns det på din arbetsplats en förståelse för kvinnliga medarbetare som har behov av minskad arbetstid under småbarnsåren?,109
+childman_1,SLOSH 06 working,,,A57_b,Finns det på din arbetsplats en förståelse för manliga medarbetare som har behov av minskad arbetstid under småbarnsåren?,109
+arbskift_1,SLOSH 06 working,,,A58,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,110
+arbskift_2,SLOSH 08 working,,1.0,56_a,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,111
+arbskift_2,SLOSH 08 non-working,,1.0,56_a,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,111
+arbskift_3,SLOSH 10 working,,,20,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,112
+arbskift_4,SLOSH 12 working,,,21,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,112
+arbskift_5,SLOSH 14 working,,,28,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,112
+arbskift_6,SLOSH 16 working,,,27,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,112
+arbskift_7,SLOSH 18 working,,,25,Vilken arbetstid har du vanligtvis? Markera endast ett alternativ,112
+timeoff_1,SLOSH 06 working,,,A59,Kan du utan problem ta ledigt när du behöver det?,113
+hemmaarb_1,SLOSH 06 working,,,A60,Har stor del av din ordinarie arbetstid arbetar du vanligtvis i hemmet?,114
+lonetyp_1,SLOSH 06 working,,,A61,Hur avlönas du? Markera endast ett alternativ,115
 lonetyptxt_1,SLOSH 06 working,,,A61_txt,Hur avlönas du? Markera endast ett alternativ,45
-y2newjob_1,SLOSH 06 working,,,A62_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbete?,117
-y2newjob_2,SLOSH 08 working,,,62_aa,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,118
-y2newjob_3,SLOSH 10 working,,,9_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,118
-y2newjob_4,SLOSH 12 working,,,29_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,119
-y2newjob_4,SLOSH 12 non-working,,,29_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,119
-y2newjob_5,SLOSH 14 working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,119
-y2newjob_5,SLOSH 14 non-working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,119
-y2newjob_6,SLOSH 16 working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,119
-y2newjob_6,SLOSH 16 non-working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,119
-y2newjob_7,SLOSH 18 working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,120
-y2newjob_7,SLOSH 18 non-working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,120
-y2newgro_1,SLOSH 06 working,,,A62_b,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp?,117
-y2newgro_2,SLOSH 08 working,,,62_ab,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp?,118
-y2newgro_3,SLOSH 10 working,,,9_b,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp?,118
-y2newgro_4,SLOSH 12 working,,,29_b,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp?,119
-y2newgro_4,SLOSH 12 non-working,,,29_b,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp?,119
-y2newgro_5,SLOSH 14 working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,120
-y2newgro_5,SLOSH 14 non-working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,120
-y2newgro_6,SLOSH 16 working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,120
-y2newgro_6,SLOSH 16 non-working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,120
-y2newgro_7,SLOSH 18 working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,120
-y2newgro_7,SLOSH 18 non-working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,120
-y2newman_1,SLOSH 06 working,,,A62_c,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt chef?,117
-y2newman_2,SLOSH 08 working,,,62_ac,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,118
-y2newman_3,SLOSH 10 working,,,9_c,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,118
-y2newman_4,SLOSH 12 working,,,29_c,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,119
-y2newman_4,SLOSH 12 non-working,,,29_c,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,119
-y2newman_5,SLOSH 14 working,,1.0,16_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,120
-y2newman_5,SLOSH 14 non-working,,1.0,16_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,120
-y2newman_6,SLOSH 16 working,,1.0,15_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,120
-y2newman_6,SLOSH 16 non-working,,1.0,15_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,120
-y2newman_7,SLOSH 18 working,,,25_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,120
-y2newman_7,SLOSH 18 non-working,,,25_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,120
-y2increa_1,SLOSH 06 working,,,A62_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått väsentligt utökade arbetsuppgifter?,117
+y2newjob_1,SLOSH 06 working,,,A62_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbete?,116
+y2newjob_2,SLOSH 08 working,,,62_aa,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,117
+y2newjob_3,SLOSH 10 working,,,9_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,117
+y2newjob_4,SLOSH 12 working,,,29_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,117
+y2newjob_4,SLOSH 12 non-working,,,29_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,117
+y2newjob_5,SLOSH 14 working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,117
+y2newjob_5,SLOSH 14 non-working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,117
+y2newjob_6,SLOSH 16 working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,117
+y2newjob_6,SLOSH 16 non-working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,117
+y2newjob_7,SLOSH 18 working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,118
+y2newjob_7,SLOSH 18 non-working,,,25_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt jobb?,118
+y2newgro_1,SLOSH 06 working,,,A62_b,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp?,116
+y2newgro_2,SLOSH 08 working,,,62_ab,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp?,117
+y2newgro_3,SLOSH 10 working,,,9_b,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp?,117
+y2newgro_4,SLOSH 12 working,,,29_b,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp?,117
+y2newgro_4,SLOSH 12 non-working,,,29_b,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp?,117
+y2newgro_5,SLOSH 14 working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,118
+y2newgro_5,SLOSH 14 non-working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,118
+y2newgro_6,SLOSH 16 working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,118
+y2newgro_6,SLOSH 16 non-working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,118
+y2newgro_7,SLOSH 18 working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,118
+y2newgro_7,SLOSH 18 non-working,,,25_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt arbetsgrupp(er)?,118
+y2newman_1,SLOSH 06 working,,,A62_c,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du bytt chef?,116
+y2newman_2,SLOSH 08 working,,,62_ac,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,117
+y2newman_3,SLOSH 10 working,,,9_c,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,117
+y2newman_4,SLOSH 12 working,,,29_c,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,117
+y2newman_4,SLOSH 12 non-working,,,29_c,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,117
+y2newman_5,SLOSH 14 working,,1.0,16_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,118
+y2newman_5,SLOSH 14 non-working,,1.0,16_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,118
+y2newman_6,SLOSH 16 working,,1.0,15_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,118
+y2newman_6,SLOSH 16 non-working,,1.0,15_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,118
+y2newman_7,SLOSH 18 working,,,25_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,118
+y2newman_7,SLOSH 18 non-working,,,25_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått ny chef?,118
+y2increa_1,SLOSH 06 working,,,A62_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått väsentligt utökade arbetsuppgifter?,116
 y2increa_2,SLOSH 08 working,,1.0,62_bd,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har du fått väsentligt utökade arbetsuppgifter?,55
 y2increa_2,SLOSH 08 non-working,,1.0,62_bd,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har du fått väsentligt utökade arbetsuppgifter?,55
 y2increa_3,SLOSH 10 working,,,11_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har du fått väsentligt utökade arbetsuppgifter?,55
 y2increa_4,SLOSH 12 working,,1.0,12_d,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt utökade arbetsuppgifter?,55
 y2increa_4,SLOSH 12 non-working,,1.0,12_d,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt utökade arbetsuppgifter?,55
-y2increa_5,SLOSH 14 working,,,19_d,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt utökade arbetsuppgifter?,121
-y2increa_6,SLOSH 16 working,,,18_d,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt utökade arbetsuppgifter?,121
-y2increa_7,SLOSH 18 working,,,16_d,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt utökade arbetsuppgifter?,121
-y2decrea_1,SLOSH 06 working,,,A62_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått väsentligt minskade arbetsuppgifter?,117
+y2increa_5,SLOSH 14 working,,,19_d,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt utökade arbetsuppgifter?,119
+y2increa_6,SLOSH 16 working,,,18_d,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt utökade arbetsuppgifter?,119
+y2increa_7,SLOSH 18 working,,,16_d,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt utökade arbetsuppgifter?,119
+y2decrea_1,SLOSH 06 working,,,A62_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått väsentligt minskade arbetsuppgifter?,116
 y2decrea_2,SLOSH 08 working,,1.0,62_be,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har du fått väsentligt minskade arbetsuppgifter?,55
 y2decrea_2,SLOSH 08 non-working,,1.0,62_be,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har du fått väsentligt minskade arbetsuppgifter?,55
 y2decrea_3,SLOSH 10 working,,,11_e,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har du fått väsentligt minskade arbetsuppgifter?,55
 y2decrea_4,SLOSH 12 working,,1.0,12_e,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt minskade arbetsuppgifter?,55
 y2decrea_4,SLOSH 12 non-working,,1.0,12_e,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt minskade arbetsuppgifter?,55
-y2decrea_5,SLOSH 14 working,,,19_e,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt minskade arbetsuppgifter?,121
+y2decrea_5,SLOSH 14 working,,,19_e,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt minskade arbetsuppgifter?,119
 y2decrea_6,SLOSH 16 working,,,18_e,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt minskade arbetsuppgifter?,55
-y2decrea_7,SLOSH 18 working,,,16_e,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt minskade arbetsuppgifter?,121
-y2change_1,SLOSH 06 working,,,A62_f,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått väsentligt förändrade arbetsuppgifter?,117
+y2decrea_7,SLOSH 18 working,,,16_e,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt minskade arbetsuppgifter?,119
+y2change_1,SLOSH 06 working,,,A62_f,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har du fått väsentligt förändrade arbetsuppgifter?,116
 y2change_2,SLOSH 08 working,,,62_bf,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har du fått väsentligt förändrade arbetsuppgifter?,55
 y2change_3,SLOSH 10 working,,,11_f,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har du fått väsentligt förändrade arbetsuppgifter?,55
 y2change_4,SLOSH 12 working,,1.0,12_f,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt annorlunda arbetsuppgifter?,55
 y2change_4,SLOSH 12 non-working,,1.0,12_f,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt annorlunda arbetsuppgifter?,55
 y2change_5,SLOSH 14 working,,,19_f,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt annorlunda arbetsuppgifter?,55
-y2change_6,SLOSH 16 working,,,18_f,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt annorlunda arbetsuppgifter?,121
-y2change_7,SLOSH 18 working,,,16_f,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt annorlunda arbetsuppgifter?,121
-y2newcol_1,SLOSH 06 working,,,A62_g,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det skett nyanställningar på arbetsplatsen?,117
+y2change_6,SLOSH 16 working,,,18_f,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt annorlunda arbetsuppgifter?,119
+y2change_7,SLOSH 18 working,,,16_f,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har du fått väsentligt annorlunda arbetsuppgifter?,119
+y2newcol_1,SLOSH 06 working,,,A62_g,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det skett nyanställningar på arbetsplatsen?,116
 y2newcol_2,SLOSH 08 working,,1.0,62_ba,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det skett nyanställningar på arbetsplatsen?,55
 y2newcol_2,SLOSH 08 non-working,,1.0,62_ba,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det skett nyanställningar på arbetsplatsen?,55
 y2newcol_3,SLOSH 10 working,,,11_a,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har det skett nyanställningar på arbetsplatsen?,55
 y2newcol_4,SLOSH 12 working,,1.0,12_a,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nyanställningar på arbetsplatsen?,55
 y2newcol_4,SLOSH 12 non-working,,1.0,12_a,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nyanställningar på arbetsplatsen?,55
-y2newcol_5,SLOSH 14 working,,,19_a,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nyanställningar på arbetsplatsen(/arbetsplatserna)?,121
-y2newcol_6,SLOSH 16 working,,,18_a,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nyanställningar på arbetsplatsen(/arbetsplatserna)?,121
-y2newcol_7,SLOSH 18 working,,,16_a,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nyanställningar på arbetsplatsen(/arbetsplatserna)?,121
-y2reduct_1,SLOSH 06 working,,,A62_h,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det skett nedskärningar av personal?,117
+y2newcol_5,SLOSH 14 working,,,19_a,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nyanställningar på arbetsplatsen(/arbetsplatserna)?,119
+y2newcol_6,SLOSH 16 working,,,18_a,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nyanställningar på arbetsplatsen(/arbetsplatserna)?,119
+y2newcol_7,SLOSH 18 working,,,16_a,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nyanställningar på arbetsplatsen(/arbetsplatserna)?,119
+y2reduct_1,SLOSH 06 working,,,A62_h,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det skett nedskärningar av personal?,116
 y2reduct_2,SLOSH 08 working,,1.0,62_bb,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det skett nedskärningar av personal?,55
 y2reduct_2,SLOSH 08 non-working,,1.0,62_bb,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det skett nedskärningar av personal?,55
 y2reduct_3,SLOSH 10 working,,,11_b,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har det skett nedskärningar av personal?,55
 y2reduct_4,SLOSH 12 working,,1.0,12_b,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nedskärningar av personal?,55
 y2reduct_4,SLOSH 12 non-working,,1.0,12_b,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nedskärningar av personal?,55
-y2reduct_5,SLOSH 14 working,,,19_b,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nedskärningar av personal?,121
-y2reduct_6,SLOSH 16 working,,,18_b,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nedskärningar av personal?,121
-y2reduct_7,SLOSH 18 working,,,16_b,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nedskärningar av personal?,121
-y2transf_1,SLOSH 06 working,,,A62_i,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det gjorts omplaceringar?,117
+y2reduct_5,SLOSH 14 working,,,19_b,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nedskärningar av personal?,119
+y2reduct_6,SLOSH 16 working,,,18_b,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nedskärningar av personal?,119
+y2reduct_7,SLOSH 18 working,,,16_b,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det skett nedskärningar av personal?,119
+y2transf_1,SLOSH 06 working,,,A62_i,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det gjorts omplaceringar?,116
 y2transf_2,SLOSH 08 working,,,62_bc,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det gjorts omplaceringar?,55
 y2transf_2,SLOSH 08 non-working,,,62_bc,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det gjorts omplaceringar?,55
 y2transf_3,SLOSH 10 working,,,11_c,Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @ Har det gjorts omplaceringar?,55
 y2transf_4,SLOSH 12 working,,1.0,12_c,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det gjorts omplaceringar?,55
 y2transf_4,SLOSH 12 non-working,,1.0,12_c,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det gjorts omplaceringar?,55
-y2transf_5,SLOSH 14 working,,,19_c,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det gjorts omplaceringar?,121
+y2transf_5,SLOSH 14 working,,,19_c,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det gjorts omplaceringar?,119
 y2transf_6,SLOSH 16 working,,,18_c,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det gjorts omplaceringar?,55
-y2transf_7,SLOSH 18 working,,,16_c,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det gjorts omplaceringar?,121
-y2newowr_1,SLOSH 06 working,,,A62_j,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,117
-y2newowr_2,SLOSH 08 working,,1.0,62_ad,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,118
-y2newowr_2,SLOSH 08 non-working,,1.0,62_ad,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,118
-y2newowr_3,SLOSH 10 working,,,9_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,118
-y2newowr_4,SLOSH 12 working,,1.0,10_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,119
-y2newowr_4,SLOSH 12 non-working,,1.0,10_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,119
-y2newowr_5,SLOSH 14 working,,,16_f,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din(a) arbetsplats(er) bytt ägare/huvudman?,120
-y2newowr_6,SLOSH 16 working,,,15_f,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din(a) arbetsplats(er) bytt ägare/huvudman?,120
-y2newowr_7,SLOSH 18 working,,,13_f,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det skett omorganisation(er) på din(a) arbetsplats(er)?,120
-y2fusion_1,SLOSH 06 working,,,A62_k,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsgrupp (eller delar av den) slagits samman med en annan arbetsgrupp eller andra arbetsenheter?,117
+y2transf_7,SLOSH 18 working,,,16_c,Följande frågor gäller din arbetsplats/dina arbetsplatser och dina arbetsuppgifter under de senaste två åren: @ I vilken grad har det gjorts omplaceringar?,119
+y2newowr_1,SLOSH 06 working,,,A62_j,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,116
+y2newowr_2,SLOSH 08 working,,1.0,62_ad,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,117
+y2newowr_2,SLOSH 08 non-working,,1.0,62_ad,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,117
+y2newowr_3,SLOSH 10 working,,,9_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,117
+y2newowr_4,SLOSH 12 working,,1.0,10_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,117
+y2newowr_4,SLOSH 12 non-working,,1.0,10_d,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsplats bytt ägare/huvudman?,117
+y2newowr_5,SLOSH 14 working,,,16_f,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din(a) arbetsplats(er) bytt ägare/huvudman?,118
+y2newowr_6,SLOSH 16 working,,,15_f,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din(a) arbetsplats(er) bytt ägare/huvudman?,118
+y2newowr_7,SLOSH 18 working,,,13_f,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har det skett omorganisation(er) på din(a) arbetsplats(er)?,118
+y2fusion_1,SLOSH 06 working,,,A62_k,Följande frågor gäller din arbetsplats/dina arbetsplatser under de två senaste åren: @ Har din arbetsgrupp (eller delar av den) slagits samman med en annan arbetsgrupp eller andra arbetsenheter?,116
 titlepre_1,SLOSH 06 working,,,A63,"Vad har du för närvarande för arbetstitel? (Ange t.ex. ""skomakare"", ""lagerförman"", ""sjuksköterska"" eller ""domprost"".)",45
 titleedu_1,SLOSH 06 working,,,A64,"Vad har du för yrke i grunden (om det skiljer sig från din arbetstitel)? (Ange t.ex. ""snickare"", ""bibliotekarie"", ""läkare"" eller ""fil.dr. i arkeologi"".)",45
-gencondi_1,SLOSH 06 working,,,B_1,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_2,SLOSH 08 working,,,37,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_2,SLOSH 08 non-working,,,37,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_3,SLOSH 10 working,,,27,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_3,SLOSH 10 non-working,,,27,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_4,SLOSH 12 working,,,41,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_4,SLOSH 12 non-working,,,41,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_5,SLOSH 14 working,,,35,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_5,SLOSH 14 non-working,,,35,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_6,SLOSH 16 working,,1.0,63,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_6,SLOSH 16 non-working,,1.0,63,Hur bedömer du ditt allmänna hälsotillstånd?,122
-gencondi_7,SLOSH 18 working,,,35,Hur bedömer du ditt allmänna hälsotillstånd?,123
-gencondi_7,SLOSH 18 non-working,,,35,Hur bedömer du ditt allmänna hälsotillstånd?,123
+gencondi_1,SLOSH 06 working,,,B_1,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_2,SLOSH 08 working,,,37,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_2,SLOSH 08 non-working,,,37,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_3,SLOSH 10 working,,,27,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_3,SLOSH 10 non-working,,,27,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_4,SLOSH 12 working,,,41,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_4,SLOSH 12 non-working,,,41,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_5,SLOSH 14 working,,,35,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_5,SLOSH 14 non-working,,,35,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_6,SLOSH 16 working,,1.0,63,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_6,SLOSH 16 non-working,,1.0,63,Hur bedömer du ditt allmänna hälsotillstånd?,120
+gencondi_7,SLOSH 18 working,,,35,Hur bedömer du ditt allmänna hälsotillstånd?,121
+gencondi_7,SLOSH 18 non-working,,,35,Hur bedömer du ditt allmänna hälsotillstånd?,121
 handicap_1,SLOSH 06 working,,,B_7,"Har du någon långvarig sjukdom, några besvär efter olycksfall, något handikapp eller annan svaghet?",1
 handicap_1,SLOSH 06 non-working,,,B_7,"Har du någon långvarig sjukdom, några besvär efter olycksfall, något handikapp eller annan svaghet?",1
 handicap_2,SLOSH 08 working,,,38,"Har du någon långvarig sjukdom, några besvär efter olycksfall, något handikapp eller annan svaghet?",1
 handicap_2,SLOSH 08 non-working,,,38,"Har du någon långvarig sjukdom, några besvär efter olycksfall, något handikapp eller annan svaghet?",1
-handicap_3,SLOSH 10 working,,,41_j,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Fysiskt handikapp,124
-handicap_3,SLOSH 10 non-working,,,41_j,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Fysiskt handikapp,124
-handicap_4,SLOSH 12 working,,1.0,76_j,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,124
-handicap_4,SLOSH 12 non-working,,1.0,76_j,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,124
-handicap_5,SLOSH 14 working,,1.0,72_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,126
-handicap_5,SLOSH 14 non-working,,1.0,72_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,126
-handicap_6,SLOSH 16 working,,1.0,81_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,124
-handicap_6,SLOSH 16 non-working,,1.0,81_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,124
-handicap_7,SLOSH 18 working,,,47_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Fysiskt handikapp,126
-handicap_7,SLOSH 18 non-working,,,47_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Fysiskt handikapp,126
+handicap_3,SLOSH 10 working,,,41_j,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Fysiskt handikapp,122
+handicap_3,SLOSH 10 non-working,,,41_j,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Fysiskt handikapp,122
+handicap_4,SLOSH 12 working,,1.0,76_j,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,122
+handicap_4,SLOSH 12 non-working,,1.0,76_j,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,122
+handicap_5,SLOSH 14 working,,1.0,72_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,124
+handicap_5,SLOSH 14 non-working,,1.0,72_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,124
+handicap_6,SLOSH 16 working,,1.0,81_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,122
+handicap_6,SLOSH 16 non-working,,1.0,81_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Fysiskt handikapp,122
+handicap_7,SLOSH 18 working,,,47_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Fysiskt handikapp,124
+handicap_7,SLOSH 18 non-working,,,47_g,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Fysiskt handikapp,124
 ryggenup_1,SLOSH 06 working,,1.0,B3_a,Först kommer några frågor om hur du känner dig efter arbetet så här års. Har du efter arbetet ont på något av följande ställen… @ ...övre delen av ryggen eller nacken?,15
 ryggenup_1,SLOSH 06 non-working,,1.0,B3_a,Först kommer några frågor om hur du känner dig efter arbetet så här års. Har du efter arbetet ont på något av följande ställen… @ ...övre delen av ryggen eller nacken?,15
 ryggenup_2,SLOSH 08 working,,1.0,66_a,Först kommer några frågor om hur du känner dig efter arbetet. Har du ont på något av följande ställen... @ ...övre delen av ryggen eller nacken?,15
@@ -1116,16 +1116,16 @@ huvudont_1,SLOSH 06 working,,,B2_c,Har du under de senaste 3 månaderna… @ ...
 huvudont_1,SLOSH 06 non-working,,,B2_c,Har du under de senaste 3 månaderna… @ ...varit trött och håglös?,15
 huvudont_2,SLOSH 08 working,,,40_c,Har du under de senaste 3 månaderna… @ ...varit trött och håglös?,15
 huvudont_2,SLOSH 08 non-working,,,40_c,Har du under de senaste 3 månaderna… @ ...varit trött och håglös?,15
-huvudont_3,SLOSH 10 working,,,42_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,124
-huvudont_3,SLOSH 10 non-working,,,42_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,124
-huvudont_4,SLOSH 12 working,,1.0,77_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,125
-huvudont_4,SLOSH 12 non-working,,1.0,77_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,125
-huvudont_5,SLOSH 14 working,,1.0,73_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,124
-huvudont_5,SLOSH 14 non-working,,1.0,73_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,124
-huvudont_6,SLOSH 16 working,,,47_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,126
-huvudont_6,SLOSH 16 non-working,,,47_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,126
-huvudont_7,SLOSH 18 working,,,46_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,126
-huvudont_7,SLOSH 18 non-working,,,46_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,126
+huvudont_3,SLOSH 10 working,,,42_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,122
+huvudont_3,SLOSH 10 non-working,,,42_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,122
+huvudont_4,SLOSH 12 working,,1.0,77_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,123
+huvudont_4,SLOSH 12 non-working,,1.0,77_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,123
+huvudont_5,SLOSH 14 working,,1.0,73_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,122
+huvudont_5,SLOSH 14 non-working,,1.0,73_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,122
+huvudont_6,SLOSH 16 working,,,47_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,124
+huvudont_6,SLOSH 16 non-working,,,47_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,124
+huvudont_7,SLOSH 18 working,,,46_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,124
+huvudont_7,SLOSH 18 non-working,,,46_a,Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär? @ Huvudvärk,124
 sovsvari_1,SLOSH 06 working,,,B2_d,Har du under de senaste 3 månaderna… @ ...varit trött och håglös?,15
 sovsvari_1,SLOSH 06 non-working,,,B2_d,Har du under de senaste 3 månaderna… @ ...varit trött och håglös?,15
 sovsvari_2,SLOSH 08 working,,,40_d,Har du under de senaste 3 månaderna… @ ...varit trött och håglös?,15
@@ -1134,165 +1134,165 @@ uttrotta_1,SLOSH 06 working,,1.0,B5_a,"Lite mer om jobbet så här års @ Hände
 uttrotta_2,SLOSH 08 working,,1.0,68_a,"Lite mer om jobbet så här års @ Händer det att du, när du kommer hem ifrån arbetet är uttröttad i kroppen?",15
 kopplaav_1,SLOSH 06 working,,1.0,B5_b,Lite mer om jobbet så här års @ Händer det att du inte kan koppla av tankarna från arbetet när du är ledig?,15
 kopplaav_2,SLOSH 08 working,,1.0,68_b,Lite mer om jobbet så här års @ Händer det att du inte kan koppla av tankarna från arbetet när du är ledig?,15
-m3concen_1,SLOSH 06 working,,,B3_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,114
-m3concen_1,SLOSH 06 non-working,,,B3_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,114
-m3concen_2,SLOSH 08 working,,,41_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,114
-m3concen_2,SLOSH 08 non-working,,,41_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,114
-m3concen_3,SLOSH 10 working,,,50_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,114
-m3concen_3,SLOSH 10 non-working,,,50_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,114
-m3concen_4,SLOSH 12 working,,,76_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,114
-m3concen_4,SLOSH 12 non-working,,,76_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,114
-m3concen_5,SLOSH 14 working,,1.0,67_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,127
-m3concen_5,SLOSH 14 non-working,,1.0,67_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,127
-m3concen_6,SLOSH 16 working,,,61_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,127
-m3concen_6,SLOSH 16 non-working,,,61_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,127
-m3concen_7,SLOSH 18 working,,,63_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,127
-m3concen_7,SLOSH 18 non-working,,,63_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,127
-m3decisi_1,SLOSH 06 working,,,B3_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,114
-m3decisi_1,SLOSH 06 non-working,,,B3_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,114
-m3decisi_2,SLOSH 08 working,,,41_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,114
-m3decisi_2,SLOSH 08 non-working,,,41_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,114
-m3decisi_3,SLOSH 10 working,,,50_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,114
-m3decisi_3,SLOSH 10 non-working,,,50_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,114
-m3decisi_4,SLOSH 12 working,,,76_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,114
-m3decisi_4,SLOSH 12 non-working,,,76_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,114
-m3decisi_5,SLOSH 14 working,,1.0,67_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,127
-m3decisi_5,SLOSH 14 non-working,,1.0,67_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,127
-m3decisi_6,SLOSH 16 working,,1.0,75_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,127
-m3decisi_6,SLOSH 16 non-working,,1.0,75_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,127
-m3decisi_7,SLOSH 18 working,,,63_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,127
-m3decisi_7,SLOSH 18 non-working,,,63_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,127
-m3memory_1,SLOSH 06 working,,,B3_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,114
-m3memory_1,SLOSH 06 non-working,,,B3_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,114
-m3memory_2,SLOSH 08 working,,,41_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,114
-m3memory_2,SLOSH 08 non-working,,,41_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,114
-m3memory_3,SLOSH 10 working,,,50_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,114
-m3memory_3,SLOSH 10 non-working,,,50_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,114
-m3memory_4,SLOSH 12 working,,,76_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,114
-m3memory_4,SLOSH 12 non-working,,,76_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,114
-m3memory_5,SLOSH 14 working,,1.0,67_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,127
-m3memory_5,SLOSH 14 non-working,,1.0,67_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,127
-m3memory_6,SLOSH 16 working,,,61_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,114
-m3memory_6,SLOSH 16 non-working,,,61_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,114
-m3memory_7,SLOSH 18 working,,,63_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,127
-m3memory_7,SLOSH 18 non-working,,,63_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,127
-m3think_1,SLOSH 06 working,,,B3_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,114
-m3think_1,SLOSH 06 non-working,,,B3_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,114
-m3think_2,SLOSH 08 working,,,41_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,114
-m3think_2,SLOSH 08 non-working,,,41_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,114
-m3think_3,SLOSH 10 working,,,50_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,114
-m3think_3,SLOSH 10 non-working,,,50_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,114
-m3think_4,SLOSH 12 working,,,76_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,114
-m3think_4,SLOSH 12 non-working,,,76_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,114
-m3think_5,SLOSH 14 working,,1.0,67_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,127
-m3think_5,SLOSH 14 non-working,,1.0,67_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,127
-m3think_6,SLOSH 16 working,,,61_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,114
-m3think_6,SLOSH 16 non-working,,,61_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,114
-m3think_7,SLOSH 18 working,,,63_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,127
-m3think_7,SLOSH 18 non-working,,,63_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,127
-emptines_1,SLOSH 06 working,,,B7_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete,128
-emptines_2,SLOSH 08 working,,,70_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,128
-emptines_2,SLOSH 08 non-working,,,70_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,128
-emptines_3,SLOSH 10 working,,,83_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,128
-emptines_3,SLOSH 10 non-working,,,83_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,128
-emptines_4,SLOSH 12 working,,,90_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,128
-emptines_4,SLOSH 12 non-working,,,90_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,128
-tiredend_1,SLOSH 06 working,,,B7_b,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig helt slut när arbetsdagen är över.,128
-tiredend_2,SLOSH 08 working,,,70_b,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig helt slut när arbetsdagen är över.,128
-tiredend_2,SLOSH 08 non-working,,,70_b,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig helt slut när arbetsdagen är över.,128
-tiredend_3,SLOSH 10 working,,,83_b,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig helt slut när arbetsdagen är över.,128
-tiredend_3,SLOSH 10 non-working,,,83_b,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig helt slut när arbetsdagen är över.,128
-tiredend_4,SLOSH 12 working,,,90_b,Nedan följer ett antal påståenden om känslor som kan uppstå. Läs igenom varje påstående och tänk efter hur ofta du känt på dessa sätt. @ Ange hur ofta du känt på dessa sätt. @ Jag känner mig helt slut när arbetsdagen är över.,128
-tiredend_4,SLOSH 12 non-working,,,90_b,Nedan följer ett antal påståenden om känslor som kan uppstå. Läs igenom varje påstående och tänk efter hur ofta du känt på dessa sätt. @ Ange hur ofta du känt på dessa sätt. @ Jag känner mig helt slut när arbetsdagen är över.,128
-tirednew_1,SLOSH 06 working,,,B7_c,Nedan följer ett antal påståenden om känslor som kan uppstå. Ange hur ofta du känt på dessa sätt. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag,128
-tirednew_2,SLOSH 08 working,,,70_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,128
-tirednew_2,SLOSH 08 non-working,,,70_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,128
-tirednew_3,SLOSH 10 working,,,83_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,128
-tirednew_3,SLOSH 10 non-working,,,83_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,128
-tirednew_4,SLOSH 12 working,,,90_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,128
-tirednew_4,SLOSH 12 non-working,,,90_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,128
-wholeday_1,SLOSH 06 working,,,B7_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,128
-wholeday_2,SLOSH 08 working,,,70_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,128
-wholeday_2,SLOSH 08 non-working,,,70_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,128
-wholeday_3,SLOSH 10 working,,,83_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,128
-wholeday_3,SLOSH 10 non-working,,,83_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,128
-wholeday_4,SLOSH 12 working,,,90_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,128
-wholeday_4,SLOSH 12 non-working,,,90_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,128
-burnout_1,SLOSH 06 working,,,B7_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,128
-burnout_2,SLOSH 08 working,,1.0,70_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,128
-burnout_2,SLOSH 08 non-working,,1.0,70_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,128
-burnout_3,SLOSH 10 working,,1.0,83_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,128
-burnout_3,SLOSH 10 non-working,,1.0,83_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,128
-burnout_4,SLOSH 12 working,,1.0,90_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,128
-burnout_4,SLOSH 12 non-working,,1.0,90_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,128
-capacphy_1,SLOSH 06 working,,,B8_a,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_2,SLOSH 08 working,,,44_a,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_2,SLOSH 08 non-working,,,44_a,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_3,SLOSH 10 working,,,40_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_3,SLOSH 10 non-working,,,40_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_4,SLOSH 12 working,,,55_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_4,SLOSH 12 non-working,,,55_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_5,SLOSH 14 working,,,51_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_5,SLOSH 14 non-working,,,51_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_6,SLOSH 16 working,,,52_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_6,SLOSH 16 non-working,,,52_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacphy_7,SLOSH 18 working,,,51_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,130
-capacphy_7,SLOSH 18 non-working,,,51_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,130
-capacpsy_1,SLOSH 06 working,,,B8_b,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_2,SLOSH 08 working,,,44_b,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_2,SLOSH 08 non-working,,,44_b,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_3,SLOSH 10 working,,,40_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_3,SLOSH 10 non-working,,,40_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_4,SLOSH 12 working,,,55_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_4,SLOSH 12 non-working,,,55_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_5,SLOSH 14 working,,,51_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_5,SLOSH 14 non-working,,,51_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_6,SLOSH 16 working,,,52_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_6,SLOSH 16 non-working,,,52_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,129
-capacpsy_7,SLOSH 18 working,,,51_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,130
-capacpsy_7,SLOSH 18 non-working,,,51_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,130
+m3concen_1,SLOSH 06 working,,,B3_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,113
+m3concen_1,SLOSH 06 non-working,,,B3_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,113
+m3concen_2,SLOSH 08 working,,,41_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,113
+m3concen_2,SLOSH 08 non-working,,,41_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,113
+m3concen_3,SLOSH 10 working,,,50_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,113
+m3concen_3,SLOSH 10 non-working,,,50_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,113
+m3concen_4,SLOSH 12 working,,,76_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,113
+m3concen_4,SLOSH 12 non-working,,,76_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,113
+m3concen_5,SLOSH 14 working,,1.0,67_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,125
+m3concen_5,SLOSH 14 non-working,,1.0,67_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,125
+m3concen_6,SLOSH 16 working,,,61_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,125
+m3concen_6,SLOSH 16 non-working,,,61_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,125
+m3concen_7,SLOSH 18 working,,,63_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,125
+m3concen_7,SLOSH 18 non-working,,,63_a,Har du under de senaste 3 månaderna… @ ...haft problem med koncentrationen?,125
+m3decisi_1,SLOSH 06 working,,,B3_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,113
+m3decisi_1,SLOSH 06 non-working,,,B3_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,113
+m3decisi_2,SLOSH 08 working,,,41_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,113
+m3decisi_2,SLOSH 08 non-working,,,41_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,113
+m3decisi_3,SLOSH 10 working,,,50_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,113
+m3decisi_3,SLOSH 10 non-working,,,50_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,113
+m3decisi_4,SLOSH 12 working,,,76_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,113
+m3decisi_4,SLOSH 12 non-working,,,76_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,113
+m3decisi_5,SLOSH 14 working,,1.0,67_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,125
+m3decisi_5,SLOSH 14 non-working,,1.0,67_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,125
+m3decisi_6,SLOSH 16 working,,1.0,75_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,125
+m3decisi_6,SLOSH 16 non-working,,1.0,75_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,125
+m3decisi_7,SLOSH 18 working,,,63_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,125
+m3decisi_7,SLOSH 18 non-working,,,63_b,Har du under de senaste 3 månaderna… @ ...haft svårt att fatta beslut?,125
+m3memory_1,SLOSH 06 working,,,B3_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,113
+m3memory_1,SLOSH 06 non-working,,,B3_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,113
+m3memory_2,SLOSH 08 working,,,41_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,113
+m3memory_2,SLOSH 08 non-working,,,41_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,113
+m3memory_3,SLOSH 10 working,,,50_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,113
+m3memory_3,SLOSH 10 non-working,,,50_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,113
+m3memory_4,SLOSH 12 working,,,76_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,113
+m3memory_4,SLOSH 12 non-working,,,76_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,113
+m3memory_5,SLOSH 14 working,,1.0,67_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,125
+m3memory_5,SLOSH 14 non-working,,1.0,67_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,125
+m3memory_6,SLOSH 16 working,,,61_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,113
+m3memory_6,SLOSH 16 non-working,,,61_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,113
+m3memory_7,SLOSH 18 working,,,63_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,125
+m3memory_7,SLOSH 18 non-working,,,63_c,Har du under de senaste 3 månaderna… @ ...haft minnessvårigheter?,125
+m3think_1,SLOSH 06 working,,,B3_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,113
+m3think_1,SLOSH 06 non-working,,,B3_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,113
+m3think_2,SLOSH 08 working,,,41_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,113
+m3think_2,SLOSH 08 non-working,,,41_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,113
+m3think_3,SLOSH 10 working,,,50_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,113
+m3think_3,SLOSH 10 non-working,,,50_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,113
+m3think_4,SLOSH 12 working,,,76_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,113
+m3think_4,SLOSH 12 non-working,,,76_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,113
+m3think_5,SLOSH 14 working,,1.0,67_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,125
+m3think_5,SLOSH 14 non-working,,1.0,67_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,125
+m3think_6,SLOSH 16 working,,,61_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,113
+m3think_6,SLOSH 16 non-working,,,61_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,113
+m3think_7,SLOSH 18 working,,,63_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,125
+m3think_7,SLOSH 18 non-working,,,63_d,Har du under de senaste 3 månaderna… @ ....haft svårt att tänka klart?,125
+emptines_1,SLOSH 06 working,,,B7_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete,126
+emptines_2,SLOSH 08 working,,,70_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,126
+emptines_2,SLOSH 08 non-working,,,70_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,126
+emptines_3,SLOSH 10 working,,,83_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,126
+emptines_3,SLOSH 10 non-working,,,83_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,126
+emptines_4,SLOSH 12 working,,,90_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,126
+emptines_4,SLOSH 12 non-working,,,90_a,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig känslomässigt tömd av mitt arbete.,126
+tiredend_1,SLOSH 06 working,,,B7_b,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig helt slut när arbetsdagen är över.,126
+tiredend_2,SLOSH 08 working,,,70_b,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig helt slut när arbetsdagen är över.,126
+tiredend_2,SLOSH 08 non-working,,,70_b,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig helt slut när arbetsdagen är över.,126
+tiredend_3,SLOSH 10 working,,,83_b,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig helt slut när arbetsdagen är över.,126
+tiredend_3,SLOSH 10 non-working,,,83_b,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig helt slut när arbetsdagen är över.,126
+tiredend_4,SLOSH 12 working,,,90_b,Nedan följer ett antal påståenden om känslor som kan uppstå. Läs igenom varje påstående och tänk efter hur ofta du känt på dessa sätt. @ Ange hur ofta du känt på dessa sätt. @ Jag känner mig helt slut när arbetsdagen är över.,126
+tiredend_4,SLOSH 12 non-working,,,90_b,Nedan följer ett antal påståenden om känslor som kan uppstå. Läs igenom varje påstående och tänk efter hur ofta du känt på dessa sätt. @ Ange hur ofta du känt på dessa sätt. @ Jag känner mig helt slut när arbetsdagen är över.,126
+tirednew_1,SLOSH 06 working,,,B7_c,Nedan följer ett antal påståenden om känslor som kan uppstå. Ange hur ofta du känt på dessa sätt. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag,126
+tirednew_2,SLOSH 08 working,,,70_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,126
+tirednew_2,SLOSH 08 non-working,,,70_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,126
+tirednew_3,SLOSH 10 working,,,83_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,126
+tirednew_3,SLOSH 10 non-working,,,83_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,126
+tirednew_4,SLOSH 12 working,,,90_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,126
+tirednew_4,SLOSH 12 non-working,,,90_c,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig trött när jag går upp på morgonen för att möta en ny arbetsdag.,126
+wholeday_1,SLOSH 06 working,,,B7_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,126
+wholeday_2,SLOSH 08 working,,,70_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,126
+wholeday_2,SLOSH 08 non-working,,,70_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,126
+wholeday_3,SLOSH 10 working,,,83_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,126
+wholeday_3,SLOSH 10 non-working,,,83_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,126
+wholeday_4,SLOSH 12 working,,,90_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,126
+wholeday_4,SLOSH 12 non-working,,,90_d,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Att arbeta under en hel dag är verkligen påfrestande för mig.,126
+burnout_1,SLOSH 06 working,,,B7_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,126
+burnout_2,SLOSH 08 working,,1.0,70_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,126
+burnout_2,SLOSH 08 non-working,,1.0,70_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,126
+burnout_3,SLOSH 10 working,,1.0,83_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,126
+burnout_3,SLOSH 10 non-working,,1.0,83_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,126
+burnout_4,SLOSH 12 working,,1.0,90_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,126
+burnout_4,SLOSH 12 non-working,,1.0,90_e,Nedan följer ett antal påståenden om känslor som kan uppstå i samband med arbete. Läs igenom varje påstående och tänk efter om du har känt så om ditt arbete. Ange hur ofta du känt på dessa sätt i samband med ditt arbete. @ Jag känner mig utbränd av mitt arbete.,126
+capacphy_1,SLOSH 06 working,,,B8_a,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_2,SLOSH 08 working,,,44_a,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_2,SLOSH 08 non-working,,,44_a,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_3,SLOSH 10 working,,,40_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_3,SLOSH 10 non-working,,,40_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_4,SLOSH 12 working,,,55_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_4,SLOSH 12 non-working,,,55_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_5,SLOSH 14 working,,,51_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_5,SLOSH 14 non-working,,,51_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_6,SLOSH 16 working,,,52_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_6,SLOSH 16 non-working,,,52_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacphy_7,SLOSH 18 working,,,51_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,128
+capacphy_7,SLOSH 18 non-working,,,51_a,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,128
+capacpsy_1,SLOSH 06 working,,,B8_b,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_2,SLOSH 08 working,,,44_b,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_2,SLOSH 08 non-working,,,44_b,Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_3,SLOSH 10 working,,,40_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_3,SLOSH 10 non-working,,,40_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_4,SLOSH 12 working,,,55_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_4,SLOSH 12 non-working,,,55_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_5,SLOSH 14 working,,,51_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_5,SLOSH 14 non-working,,,51_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_6,SLOSH 16 working,,,52_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_6,SLOSH 16 non-working,,,52_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,127
+capacpsy_7,SLOSH 18 working,,,51_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,128
+capacpsy_7,SLOSH 18 non-working,,,51_b,Om arbetsförmåga @ Hur bedömer du din arbetsförmåga när det gäller fysiska krav?,128
 highbp_1,SLOSH 06 working,,,B4_a,Har du av läkare informerats om att du @ ...har högt blodtryck?,1
 highbp_1,SLOSH 06 non-working,,,B4_a,Har du av läkare informerats om att du @ ...har högt blodtryck?,1
-highbp_2,SLOSH 08 working,,,58_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,124
-highbp_2,SLOSH 08 non-working,,,58_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,124
-highbp_3,SLOSH 10 working,,,41_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,124
-highbp_3,SLOSH 10 non-working,,,41_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,124
-highbp_4,SLOSH 12 working,,1.0,76_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,124
-highbp_4,SLOSH 12 non-working,,1.0,76_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,124
-highbp_5,SLOSH 14 working,,1.0,72_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,126
-highbp_5,SLOSH 14 non-working,,1.0,72_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,126
-highbp_6,SLOSH 16 working,,1.0,81_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,124
-highbp_6,SLOSH 16 non-working,,1.0,81_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,124
-highbp_7,SLOSH 18 working,,1.0,77_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,124
-highbp_7,SLOSH 18 non-working,,1.0,77_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,124
+highbp_2,SLOSH 08 working,,,58_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,122
+highbp_2,SLOSH 08 non-working,,,58_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,122
+highbp_3,SLOSH 10 working,,,41_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,122
+highbp_3,SLOSH 10 non-working,,,41_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,122
+highbp_4,SLOSH 12 working,,1.0,76_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,122
+highbp_4,SLOSH 12 non-working,,1.0,76_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,122
+highbp_5,SLOSH 14 working,,1.0,72_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,124
+highbp_5,SLOSH 14 non-working,,1.0,72_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,124
+highbp_6,SLOSH 16 working,,1.0,81_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,122
+highbp_6,SLOSH 16 non-working,,1.0,81_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Högt blodtryck,122
+highbp_7,SLOSH 18 working,,1.0,77_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,122
+highbp_7,SLOSH 18 non-working,,1.0,77_a,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Högt blodtryck,122
 heartdis_1,SLOSH 06 working,,,B4_b,Har du av läkare informerats om att du @ ...har hjärtsjukdom?,1
 heartdis_1,SLOSH 06 non-working,,,B4_b,Har du av läkare informerats om att du @ ...har hjärtsjukdom?,1
-heartdis_2,SLOSH 08 working,,,58_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,124
-heartdis_2,SLOSH 08 non-working,,,58_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,124
-heartdis_3,SLOSH 10 working,,,41_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,124
-heartdis_3,SLOSH 10 non-working,,,41_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,124
-heartdis_4,SLOSH 12 working,,1.0,76_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,124
-heartdis_4,SLOSH 12 non-working,,1.0,76_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,124
-heartdis_5,SLOSH 14 working,,1.0,72_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,124
-heartdis_5,SLOSH 14 non-working,,1.0,72_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,124
-heartdis_6,SLOSH 16 working,,1.0,81_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,126
-heartdis_6,SLOSH 16 non-working,,1.0,81_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,126
-heartdis_7,SLOSH 18 working,,,47_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,124
-heartdis_7,SLOSH 18 non-working,,,47_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,124
+heartdis_2,SLOSH 08 working,,,58_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,122
+heartdis_2,SLOSH 08 non-working,,,58_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,122
+heartdis_3,SLOSH 10 working,,,41_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,122
+heartdis_3,SLOSH 10 non-working,,,41_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,122
+heartdis_4,SLOSH 12 working,,1.0,76_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,122
+heartdis_4,SLOSH 12 non-working,,1.0,76_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,122
+heartdis_5,SLOSH 14 working,,1.0,72_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,122
+heartdis_5,SLOSH 14 non-working,,1.0,72_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,122
+heartdis_6,SLOSH 16 working,,1.0,81_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,124
+heartdis_6,SLOSH 16 non-working,,1.0,81_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Hjärt- kärlsjukdom,124
+heartdis_7,SLOSH 18 working,,,47_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,122
+heartdis_7,SLOSH 18 non-working,,,47_b,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Hjärt- kärlsjukdom,122
 diabetes_1,SLOSH 06 working,,,B4_c,Har du av läkare informerats om att du @ ...har diabetes?,1
 diabetes_1,SLOSH 06 non-working,,,B4_c,Har du av läkare informerats om att du @ ...har diabetes?,1
-diabetes_2,SLOSH 08 working,,,58_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,124
-diabetes_2,SLOSH 08 non-working,,,58_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,124
-diabetes_3,SLOSH 10 working,,,41_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,124
-diabetes_3,SLOSH 10 non-working,,,41_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,124
-diabetes_4,SLOSH 12 working,,1.0,76_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,124
-diabetes_4,SLOSH 12 non-working,,1.0,76_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,124
-diabetes_5,SLOSH 14 working,,1.0,72_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,126
-diabetes_5,SLOSH 14 non-working,,1.0,72_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,126
-diabetes_6,SLOSH 16 working,,1.0,81_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,126
-diabetes_6,SLOSH 16 non-working,,1.0,81_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,126
-diabetes_7,SLOSH 18 working,,,77_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,126
-diabetes_7,SLOSH 18 non-working,,,77_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,126
+diabetes_2,SLOSH 08 working,,,58_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,122
+diabetes_2,SLOSH 08 non-working,,,58_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,122
+diabetes_3,SLOSH 10 working,,,41_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,122
+diabetes_3,SLOSH 10 non-working,,,41_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,122
+diabetes_4,SLOSH 12 working,,1.0,76_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,122
+diabetes_4,SLOSH 12 non-working,,1.0,76_c,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,122
+diabetes_5,SLOSH 14 working,,1.0,72_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,124
+diabetes_5,SLOSH 14 non-working,,1.0,72_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,124
+diabetes_6,SLOSH 16 working,,1.0,81_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,124
+diabetes_6,SLOSH 16 non-working,,1.0,81_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren och hur mycket påverkade det i så fall ditt liv? @ Diabetes,124
+diabetes_7,SLOSH 18 working,,,77_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,124
+diabetes_7,SLOSH 18 non-working,,,77_d,Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @ Diabetes,124
 infoexer_1,SLOSH 06 working,,,B4_d,Har du av läkare informerats om att du @ ...borde börja motionera?,1
 infoexer_1,SLOSH 06 non-working,,,B4_d,Har du av läkare informerats om att du @ ...borde börja motionera?,1
 infoexer_2,SLOSH 08 working,,,45_a,Har du av läkare informerats om att du @ ...borde börja motionera?,1
@@ -1311,60 +1311,60 @@ infofood_4,SLOSH 12 non-working,,,54_b,Har du av läkare informerats om att du @
 infofood_5,SLOSH 14 non-working,,,71_b,Har du av läkare informerats om att du @ ...borde börja motionera?,81
 infofood_6,SLOSH 16 non-working,,,74_b,Har du av läkare informerats om att du @ ...borde börja motionera?,81
 infofood_7,SLOSH 18 non-working,,,76_a,Har du av läkare informerats om att du @ ...borde börja motionera?,1
-height_1,SLOSH 06 working,,,B5,Hur lång är du? @ cm,131
-height_1,SLOSH 06 non-working,,,B5,Hur lång är du? @ cm,131
-height_2,SLOSH 08 working,,,47,Hur lång är du? @ cm,131
-height_2,SLOSH 08 non-working,,,47,Hur lång är du? @ cm,131
-height_3,SLOSH 10 working,,,37,Hur lång är du? @ cm,131
-height_3,SLOSH 10 non-working,,,37,Hur lång är du? @ cm,131
-height_5,SLOSH 14 working,,,66,Hur lång är du? @ cm,131
-height_5,SLOSH 14 non-working,,,66,Hur lång är du? @ cm,131
-height_6,SLOSH 16 working,,,69,Hur lång är du? @ cm,131
-height_6,SLOSH 16 non-working,,,69,Hur lång är du? @ cm,131
-height_7,SLOSH 18 working,,,71,Hur lång är du? @ cm,131
-height_7,SLOSH 18 non-working,,,71,Hur lång är du? @ cm,131
-weight_1,SLOSH 06 working,,,B6,Hur mycket väger du? @ kg,131
-weight_1,SLOSH 06 non-working,,,B6,Hur mycket väger du? @ kg,131
-weight_2,SLOSH 08 working,,,48,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_2,SLOSH 08 non-working,,,48,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_3,SLOSH 10 working,,,38,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_3,SLOSH 10 non-working,,,38,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_4,SLOSH 12 working,,,53,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_4,SLOSH 12 non-working,,,53,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_5,SLOSH 14 working,,,67,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_5,SLOSH 14 non-working,,,67,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_6,SLOSH 16 working,,,70,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_6,SLOSH 16 non-working,,,70,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_7,SLOSH 18 working,,,72,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-weight_7,SLOSH 18 non-working,,,72,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",131
-sick1v_1,SLOSH 06 working,,1.0,B12_a,Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sick1v_1,SLOSH 06 non-working,,1.0,B12_a,Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sick1v_2,SLOSH 08 working,,1.0,77_a,Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sick1v_2,SLOSH 08 non-working,,1.0,77_a,Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sick1v_3,SLOSH 10 working,,,74_a,"Om sjukskrivning, sjuknärvaro och vård av sjukt barn @ Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.",119
-sick1v_4,SLOSH 12 working,,,78_a,Om sjukskrivning och vård av sjukt barn @ Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sick1v_5,SLOSH 14 working,,,69_a,Om sjukskrivning @ Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sick1v_6,SLOSH 16 working,,,69_a,Om sjukskrivning @ Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,120
-sick1v_7,SLOSH 18 working,,,74_a,Om sjukskrivning @ Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,120
-sickmore_1,SLOSH 06 working,,1.0,B12_b,Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sickmore_1,SLOSH 06 non-working,,1.0,B12_b,Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sickmore_2,SLOSH 08 working,,1.0,77_b,Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sickmore_2,SLOSH 08 non-working,,1.0,77_b,Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sickmore_3,SLOSH 10 working,,,74_b,"Om sjukskrivning, sjuknärvaro och vård av sjukt barn @ Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.",119
-sickmore_4,SLOSH 12 working,,,78_b,Om sjukskrivning och vård av sjukt barn @ Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sickmore_5,SLOSH 14 working,,,69_b,Om sjukskrivning @ Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,120
-sickmore_6,SLOSH 16 working,,,78_b,Om sjukskrivning @ Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,119
-sickmore_7,SLOSH 18 working,,,74_b,Om sjukskrivning @ Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,120
-sickchil_1,SLOSH 06 working,,1.0,B12_c,Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,119
-sickchil_1,SLOSH 06 non-working,,1.0,B12_c,Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,119
-sickchil_2,SLOSH 08 working,,1.0,77_c,Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,119
-sickchil_2,SLOSH 08 non-working,,1.0,77_c,Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,119
-sickchil_3,SLOSH 10 working,,,74_c,"Om sjukskrivning, sjuknärvaro och vård av sjukt barn @ Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?",119
-sickchil_4,SLOSH 12 working,,,78_c,Om sjukskrivning och vård av sjukt barn @ Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,119
-sickchil_5,SLOSH 14 working,,,69_c,Om sjukskrivning @ Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,119
-sickchil_6,SLOSH 16 working,,,78_c,Om sjukskrivning @ Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,119
-sickchil_7,SLOSH 18 working,,,74_c,Om sjukskrivning @ Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,119
-sickwork_1,SLOSH 06 working,,1.0,B12_d,Hur många gånger under de senaste 12 månaderna har det hänt att du gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?,119
-sickwork_1,SLOSH 06 non-working,,1.0,B12_d,Hur många gånger under de senaste 12 månaderna har det hänt att du gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?,119
-sickwork_2,SLOSH 08 working,,1.0,77_d,Hur många gånger under de senaste 12 månaderna har det hänt att du gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?,119
-sickwork_2,SLOSH 08 non-working,,1.0,77_d,Hur många gånger under de senaste 12 månaderna har det hänt att du gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?,119
+height_1,SLOSH 06 working,,,B5,Hur lång är du? @ cm,129
+height_1,SLOSH 06 non-working,,,B5,Hur lång är du? @ cm,129
+height_2,SLOSH 08 working,,,47,Hur lång är du? @ cm,129
+height_2,SLOSH 08 non-working,,,47,Hur lång är du? @ cm,129
+height_3,SLOSH 10 working,,,37,Hur lång är du? @ cm,129
+height_3,SLOSH 10 non-working,,,37,Hur lång är du? @ cm,129
+height_5,SLOSH 14 working,,,66,Hur lång är du? @ cm,129
+height_5,SLOSH 14 non-working,,,66,Hur lång är du? @ cm,129
+height_6,SLOSH 16 working,,,69,Hur lång är du? @ cm,129
+height_6,SLOSH 16 non-working,,,69,Hur lång är du? @ cm,129
+height_7,SLOSH 18 working,,,71,Hur lång är du? @ cm,129
+height_7,SLOSH 18 non-working,,,71,Hur lång är du? @ cm,129
+weight_1,SLOSH 06 working,,,B6,Hur mycket väger du? @ kg,129
+weight_1,SLOSH 06 non-working,,,B6,Hur mycket väger du? @ kg,129
+weight_2,SLOSH 08 working,,,48,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_2,SLOSH 08 non-working,,,48,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_3,SLOSH 10 working,,,38,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_3,SLOSH 10 non-working,,,38,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_4,SLOSH 12 working,,,53,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_4,SLOSH 12 non-working,,,53,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_5,SLOSH 14 working,,,67,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_5,SLOSH 14 non-working,,,67,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_6,SLOSH 16 working,,,70,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_6,SLOSH 16 non-working,,,70,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_7,SLOSH 18 working,,,72,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+weight_7,SLOSH 18 non-working,,,72,"Hur mycket väger du? Om du är gravid, fyll i din vikt innan du blev gravid @ kg",129
+sick1v_1,SLOSH 06 working,,1.0,B12_a,Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sick1v_1,SLOSH 06 non-working,,1.0,B12_a,Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sick1v_2,SLOSH 08 working,,1.0,77_a,Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sick1v_2,SLOSH 08 non-working,,1.0,77_a,Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sick1v_3,SLOSH 10 working,,,74_a,"Om sjukskrivning, sjuknärvaro och vård av sjukt barn @ Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.",130
+sick1v_4,SLOSH 12 working,,,78_a,Om sjukskrivning och vård av sjukt barn @ Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sick1v_5,SLOSH 14 working,,,69_a,Om sjukskrivning @ Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sick1v_6,SLOSH 16 working,,,69_a,Om sjukskrivning @ Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,131
+sick1v_7,SLOSH 18 working,,,74_a,Om sjukskrivning @ Hur många gånger har du varit sjukskriven en vecka eller mindre under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,131
+sickmore_1,SLOSH 06 working,,1.0,B12_b,Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sickmore_1,SLOSH 06 non-working,,1.0,B12_b,Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sickmore_2,SLOSH 08 working,,1.0,77_b,Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sickmore_2,SLOSH 08 non-working,,1.0,77_b,Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sickmore_3,SLOSH 10 working,,,74_b,"Om sjukskrivning, sjuknärvaro och vård av sjukt barn @ Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.",130
+sickmore_4,SLOSH 12 working,,,78_b,Om sjukskrivning och vård av sjukt barn @ Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sickmore_5,SLOSH 14 working,,,69_b,Om sjukskrivning @ Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,131
+sickmore_6,SLOSH 16 working,,,78_b,Om sjukskrivning @ Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,130
+sickmore_7,SLOSH 18 working,,,74_b,Om sjukskrivning @ Hur många gånger har du varit sjukskriven längre än en vecka under de senaste 12 månaderna? Räkna inte med vård av sjukt barn i ditt svar.,131
+sickchil_1,SLOSH 06 working,,1.0,B12_c,Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,130
+sickchil_1,SLOSH 06 non-working,,1.0,B12_c,Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,130
+sickchil_2,SLOSH 08 working,,1.0,77_c,Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,130
+sickchil_2,SLOSH 08 non-working,,1.0,77_c,Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,130
+sickchil_3,SLOSH 10 working,,,74_c,"Om sjukskrivning, sjuknärvaro och vård av sjukt barn @ Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?",130
+sickchil_4,SLOSH 12 working,,,78_c,Om sjukskrivning och vård av sjukt barn @ Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,130
+sickchil_5,SLOSH 14 working,,,69_c,Om sjukskrivning @ Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,130
+sickchil_6,SLOSH 16 working,,,78_c,Om sjukskrivning @ Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,130
+sickchil_7,SLOSH 18 working,,,74_c,Om sjukskrivning @ Hur många gånger har du varit hemma för vård av sjukt barn under de senaste 12 månaderna?,130
+sickwork_1,SLOSH 06 working,,1.0,B12_d,Hur många gånger under de senaste 12 månaderna har det hänt att du gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?,130
+sickwork_1,SLOSH 06 non-working,,1.0,B12_d,Hur många gånger under de senaste 12 månaderna har det hänt att du gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?,130
+sickwork_2,SLOSH 08 working,,1.0,77_d,Hur många gånger under de senaste 12 månaderna har det hänt att du gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?,130
+sickwork_2,SLOSH 08 non-working,,1.0,77_d,Hur många gånger under de senaste 12 månaderna har det hänt att du gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?,130

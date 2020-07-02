@@ -3114,3 +3114,429 @@ INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'IT
  
 INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('otheremp_2', 'SLOSH 08 non-working', '', '1', '1', 'Vilken typ av anställning/arbete hade du innan du slutade arbeta?', '217');
  
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har dagar då jag känner mig uppvarvad hela tiden.');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ganska ofta');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Nästan jämt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('218', '1', 'Inte alls');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('218', '2', 'Ibland');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('218', '3', 'Ganska ofta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('218', '4', 'Nästan jämt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('218', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressA_2', 'SLOSH 08 working', '', '', '', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har dagar då jag känner mig uppvarvad hela tiden.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressA_2', 'SLOSH 08 non-working', '', '', '67_a', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har dagar då jag känner mig uppvarvad hela tiden.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har dagar då jag känner mig mycket pressad, på gränsen av vad jag klarar av.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressB_2', 'SLOSH 08 working', '', '', '94_b', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har dagar då jag känner mig mycket pressad, på gränsen av vad jag klarar av.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressB_2', 'SLOSH 08 non-working', '', '', '67_b', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har dagar då jag känner mig mycket pressad, på gränsen av vad jag klarar av.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har svårt att slappna av på fritiden.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressC_2', 'SLOSH 08 working', '', '', '94_c', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har svårt att slappna av på fritiden.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressC_2', 'SLOSH 08 non-working', '', '', '67_c', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har svårt att slappna av på fritiden.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag får lätt hjärtklappning även då jag inte anstränger mig fysiskt.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressD_2', 'SLOSH 08 working', '', '', '94_d', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag får lätt hjärtklappning även då jag inte anstränger mig fysiskt.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressD_2', 'SLOSH 08 non-working', '', '', '67_d', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag får lätt hjärtklappning även då jag inte anstränger mig fysiskt.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag svettas lätt även då jag inte anstränger mig fysiskt.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressE_2', 'SLOSH 08 working', '', '', '94_e', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag svettas lätt även då jag inte anstränger mig fysiskt.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressE_2', 'SLOSH 08 non-working', '', '', '67_e', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag svettas lätt även då jag inte anstränger mig fysiskt.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag får ont i bröstet eller hjärtat när jag har mycket att göra.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressF_2', 'SLOSH 08 working', '', '', '94_f', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag får ont i bröstet eller hjärtat när jag har mycket att göra.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressF_2', 'SLOSH 08 non-working', '', '', '67_f', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag får ont i bröstet eller hjärtat när jag har mycket att göra.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag är ofta spänd.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressG_2', 'SLOSH 08 working', '', '', '94_g', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag är ofta spänd.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressG_2', 'SLOSH 08 non-working', '', '', '67_g', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag är ofta spänd.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har ofta oroande tankar.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressH_2', 'SLOSH 08 working', '', '', '94_h', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har ofta oroande tankar.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressH_2', 'SLOSH 08 non-working', '', '', '67_h', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har ofta oroande tankar.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag är ofta rastlös.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressI_2', 'SLOSH 08 working', '', '', '94_i', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag är ofta rastlös.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressI_2', 'SLOSH 08 non-working', '', '', '67_i', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag är ofta rastlös.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag känner mig inte utvilad när jag har tagit det lugnt ett par dagar.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressJ_2', 'SLOSH 08 working', '', '', '67_j', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag känner mig inte utvilad när jag har tagit det lugnt ett par dagar.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressJ_2', 'SLOSH 08 non-working', '', '', '67_j', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag känner mig inte utvilad när jag har tagit det lugnt ett par dagar.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har dagar då jag hela tiden känner mig stressad.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressK_2', 'SLOSH 08 working', '', '', '94_j', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har dagar då jag hela tiden känner mig stressad.', '218');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressK_2', 'SLOSH 08 non-working', '', '', '67_j', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag har dagar då jag hela tiden känner mig stressad.', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag känner mig lugn och avspänd');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressL_2', 'SLOSH 08 non-working', '', '', '67_l', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag känner mig lugn och avspänd', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag känner mig i god balans');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('LLstressM_2', 'SLOSH 08 non-working', '', '', '67_m', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ Jag känner mig i god balans', '218');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ På min arbetsplats känner jag mig trygg och accepterad');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('accepted_2', 'SLOSH 08 working', '', '', '21_k', 'Läs varje påstående och sätt ett tydligt kryss i rutan för det svarsalternativet som kommer närmast hur du har känt dig under de närmaste tre månaderna@ På min arbetsplats känner jag mig trygg och accepterad', '28');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Förekommer någon av följande risker eller hot för dig i ditt arbete?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('bankrupt_2', 'SLOSH 08 working', '', '1', '5_c', 'Förekommer någon av följande risker eller hot för dig i ditt arbete?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Förekom någon av följande risker eller hot för dig i ditt arbete innan du slutade arbeta?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('bankrupt_2', 'SLOSH 08 non-working', '', '1', '18_c', 'Förekom någon av följande risker eller hot för dig i ditt arbete innan du slutade arbeta?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du tillräckliga befogenheter att fatta beslut i ditt arbete?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('resautho_2', 'SLOSH 08 working', '', '1', '6_a', 'Har du tillräckliga befogenheter att fatta beslut i ditt arbete?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Får du tillräcklig information för att du skall kunna fullgöra dina arbetsuppgifter?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('resinfo_2', 'SLOSH 08 working', '', '', '6_b', 'Får du tillräcklig information för att du skall kunna fullgöra dina arbetsuppgifter?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Finns det tillräckligt med personal för att du skall kunna klara av ditt arbete?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('respers_2', 'SLOSH 08 working', '', '', '6_c', 'Finns det tillräckligt med personal för att du skall kunna klara av ditt arbete?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Finns det tillräckligt med ekonomiska resurser för att du skall kunna klara av ditt arbete?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('reseconom_2', 'SLOSH 08 working', '', '', '6_d', 'Finns det tillräckligt med ekonomiska resurser för att du skall kunna klara av ditt arbete?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Finns det tillräckligt med utrustning för att du skall kunna klara av ditt arbete?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('resequip_2', 'SLOSH 08 working', '', '', '6_e', 'Finns det tillräckligt med utrustning för att du skall kunna klara av ditt arbete?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du i ditt arbete ansvar för andra människors liv och säkerhet?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('resplife_2', 'SLOSH 08 working', '', '', '6_f', 'Har du i ditt arbete ansvar för andra människors liv och säkerhet?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du i ditt arbete ansvar för materiella värden, där det också finns risk för materiella skador?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('respmat_2', 'SLOSH 08 working', '', '', '6_g', 'Har du i ditt arbete ansvar för materiella värden, där det också finns risk för materiella skador?', '6');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Här nedan har vi ställt upp några rader med rutor, som går från den ena ytterligheten till den andra. Beskriv hur det vanligen är för dig genom att sätta ett kryss på varje rad. Ju längre till vänster du sätter ditt kryss, desto mer stämmer det som står till vänster. Ju längre till höger du sätter ditt kryss, desto mer stämmer det som står till höger. Näst längst ut innebär alltså att du bara delvis håller med. @ Hur upplever du ditt arbete?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Alldeles för mycket att göra');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Alldeles för lite att göra');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('219', '1', 'Alldeles för mycket att göra');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('219', '2', '');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('219', '3', 'Varken eller');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('219', '4', '');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('219', '5', 'Alldeles för lite att göra');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('219', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('mycklite_2', 'SLOSH 08 working', '', '', '12_a', 'Här nedan har vi ställt upp några rader med rutor, som går från den ena ytterligheten till den andra. Beskriv hur det vanligen är för dig genom att sätta ett kryss på varje rad. Ju längre till vänster du sätter ditt kryss, desto mer stämmer det som står till vänster. Ju längre till höger du sätter ditt kryss, desto mer stämmer det som står till höger. Näst längst ut innebär alltså att du bara delvis håller med. @ Hur upplever du ditt arbete?', '219');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('För lite inflytande');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('För stort inflytande');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('220', '1', 'För lite inflytande');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('220', '2', '');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('220', '3', 'Varken eller');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('220', '4', '');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('220', '5', 'För stort inflytande');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('220', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('inflytan_2', 'SLOSH 08 working', '', '', '12_b', 'Här nedan har vi ställt upp några rader med rutor, som går från den ena ytterligheten till den andra. Beskriv hur det vanligen är för dig genom att sätta ett kryss på varje rad. Ju längre till vänster du sätter ditt kryss, desto mer stämmer det som står till vänster. Ju längre till höger du sätter ditt kryss, desto mer stämmer det som står till höger. Näst längst ut innebär alltså att du bara delvis håller med. @ Hur upplever du ditt arbete?', '220');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('På min arbetsplats behandlar vi varandra med respekt');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('respect_2', 'SLOSH 08 working', '', '', '21_j', 'På min arbetsplats behandlar vi varandra med respekt', '28');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('På min arbetsplats tänker man lika mycket på sina medmänniskor som på lönsamheten');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('humanity_2', 'SLOSH 08 working', '', '', '21_l', 'På min arbetsplats tänker man lika mycket på sina medmänniskor som på lönsamheten', '28');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Strukturen hos vår organisation är ett hinder för arbetet');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('structure_2', 'SLOSH 08 working', '', '', '21_q', 'Strukturen hos vår organisation är ett hinder för arbetet', '28');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under de två senaste åren varit indragen i någon form av konflikt på din arbetsplats med… @ …chefer?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('confboss_2', 'SLOSH 08 working', '', '', '26_a', 'Har du under de två senaste åren varit indragen i någon form av konflikt på din arbetsplats med… @ …chefer?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Strax innan du slutade arbeta, var du indragen i någon form av konflikt på din arbetsplats med …. @ …chefer?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('confboss_2', 'SLOSH 08 non-working', '', '1', '26_a', 'Strax innan du slutade arbeta, var du indragen i någon form av konflikt på din arbetsplats med …. @ …chefer?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under de två senaste åren varit indragen i någon form av konflikt på din arbetsplats med… @…arbetskamrater?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('confmate_2', 'SLOSH 08 working', '', '1', '26_b', 'Har du under de två senaste åren varit indragen i någon form av konflikt på din arbetsplats med… @…arbetskamrater?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Strax innan du slutade arbeta, var du indragen i någon form av konflikt på din arbetsplats med …. @…arbetskamrater?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('confmate_2', 'SLOSH 08 non-working', '', '1', '26_b', 'Strax innan du slutade arbeta, var du indragen i någon form av konflikt på din arbetsplats med …. @…arbetskamrater?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under de två senaste åren varit indragen i någon form av konflikt på din arbetsplats med… @… andra personer ( t.ex. patienter, kunder, klienter, passagerare, elever)?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('confothe_2', 'SLOSH 08 working', '', '1', '26_c', 'Har du under de två senaste åren varit indragen i någon form av konflikt på din arbetsplats med… @… andra personer ( t.ex. patienter, kunder, klienter, passagerare, elever)?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Strax innan du slutade arbeta, var du indragen i någon form av konflikt på din arbetsplats med …. @… andra personer ( t.ex. patienter, kunder, klienter, passagerare, elever)?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('confothe_2', 'SLOSH 08 non-working', '', '1', '26_c', 'Strax innan du slutade arbeta, var du indragen i någon form av konflikt på din arbetsplats med …. @… andra personer ( t.ex. patienter, kunder, klienter, passagerare, elever)?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Är din närmaste chef bra på att samordna verksamheten?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('manaorg_2', 'SLOSH 08 working', '', '', '26_c', 'Är din närmaste chef bra på att samordna verksamheten?', '49');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Håller ledningen ihop verksamheten?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('manatogh_2', 'SLOSH 08 working', '', '', '31_e', 'Håller ledningen ihop verksamheten?', '49');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Stödjer ledningen det du och dina arbetskamrater arbetar med?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('manasupp_2', 'SLOSH 08 working', '', '', '31_f', 'Stödjer ledningen det du och dina arbetskamrater arbetar med?', '49');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('manacont_2', 'SLOSH 08 working', '', '', '31_g', 'Stödjer ledningen det du och dina arbetskamrater arbetar med?', '49');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Ny teknik och mera flexibla arbetsförhållanden har förändrat arbetslivet för många människor. Teknik kan vara till stor hjälp, men kan också leda till nya typer av stress @ Skatta i vilken mån du är stressad av... @... krav på att alltid vara tillgänglig i arbetsfrågor under arbetstid?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('stravailw_2', 'SLOSH 08 working', '', '', '31_g', 'Ny teknik och mera flexibla arbetsförhållanden har förändrat arbetslivet för många människor. Teknik kan vara till stor hjälp, men kan också leda till nya typer av stress @ Skatta i vilken mån du är stressad av... @... krav på att alltid vara tillgänglig i arbetsfrågor under arbetstid?', '60');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Ny teknik och mera flexibla arbetsförhållanden har förändrat arbetslivet för många människor. Teknik kan vara till stor hjälp, men kan också leda till nya typer av stress @ Skatta i vilken mån du är stressad av... @... krav på att alltid vara tillgänglig i arbetsfrågor under fritid?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('stravailf_2', 'SLOSH 08 working', '', '', '37_c', 'Ny teknik och mera flexibla arbetsförhållanden har förändrat arbetslivet för många människor. Teknik kan vara till stor hjälp, men kan också leda till nya typer av stress @ Skatta i vilken mån du är stressad av... @... krav på att alltid vara tillgänglig i arbetsfrågor under fritid?', '60');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Är bullernivån på ditt arbete så hög att du kan ha svårt att höra vad dina arbetskamrater säger?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Aldrig eller nästan aldrig');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Omkring 10 % av tiden');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Omkring 25 % av tiden');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Omkring 50 % av tiden');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Omkring 75 % av tiden');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Omkring 90 % av tiden');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Hela eller nästan hela tiden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('221', '1', 'Aldrig eller nästan aldrig');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('221', '2', 'Omkring 10 % av tiden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('221', '3', 'Omkring 25 % av tiden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('221', '4', 'Omkring 50 % av tiden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('221', '5', 'Omkring 75 % av tiden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('221', '6', 'Omkring 90 % av tiden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('221', '7', 'Hela eller nästan hela tiden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('221', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('nohear_2', 'SLOSH 08 working', '', '', '40', 'Är bullernivån på ditt arbete så hög att du kan ha svårt att höra vad dina arbetskamrater säger?', '221');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur störande upplever du bullret på din arbetsplats?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Inte alls störande');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Knappast alls störande');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Något störande');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ganska störande');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mycket störande');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mycket mycket störande');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Nästan outhärdligt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('222', '1', 'Inte alls störande');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('222', '2', 'Knappast alls störande');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('222', '3', 'Något störande');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('222', '4', 'Ganska störande');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('222', '5', 'Mycket störande');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('222', '6', 'Mycket mycket störande');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('222', '7', 'Nästan outhärdligt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('222', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('noisedist_2', 'SLOSH 08 working', '', '', '41', 'Hur störande upplever du bullret på din arbetsplats?', '222');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Om jag hade råd skulle jag sluta arbeta direkt:');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, helt');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, delvis');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('223', '1', 'Ja, helt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('223', '2', 'Ja, delvis');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('223', '3', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('223', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('stopwork_2', 'SLOSH 08 working', '', '', '47_b', 'Om jag hade råd skulle jag sluta arbeta direkt:', '223');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Varför arbetar du deltid?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Sjukskriven på deltid');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Föräldraledig på deltid');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Deltidspension');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Anställningen rymmer inte fler timmar');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Jag vill inte arbeta fler timmar');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Annat, nämligen:');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('224', '1', 'Sjukskriven på deltid');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('224', '2', 'Föräldraledig på deltid');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('224', '3', 'Deltidspension');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('224', '4', 'Anställningen rymmer inte fler timmar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('224', '5', 'Jag vill inte arbeta fler timmar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('224', '6', 'Annat, nämligen:');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('224', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('whypart_2', 'SLOSH 08 working', '', '', '53_b', 'Varför arbetar du deltid?', '224');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('whyparttxt_2', 'SLOSH 08 working', '', '', '53_b', 'Varför arbetar du deltid?', '169');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Förvärvsarbete/lönearbete (inkl. övertid på arbetsplatsen, hemma och vid tjänsteresa):');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hourwork_2', 'SLOSH 08 working', '', '', '54_a', 'Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Förvärvsarbete/lönearbete (inkl. övertid på arbetsplatsen, hemma och vid tjänsteresa):', '164');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Hur många timmar är den ordinarie arbetstiden per vecka (dvs. den tid som du ska arbeta varje vecka)?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hourordwork_2', 'SLOSH 08 working', '', '', '54_b', 'Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Hur många timmar är den ordinarie arbetstiden per vecka (dvs. den tid som du ska arbeta varje vecka)?', '164');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Sammanlagd restid till och från arbetet?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hourway_2', 'SLOSH 08 working', '', '', '54_c', 'Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Sammanlagd restid till och från arbetet?', '164');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Hem/hushållsarbete (t.ex. laga mat, tvätta, städa, handla):');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hourhous_2', 'SLOSH 08 working', '', '', '54_c', 'Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Hem/hushållsarbete (t.ex. laga mat, tvätta, städa, handla):', '164');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Vård och tillsyn av barn:');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hourchild_2', 'SLOSH 08 working', '', '', '54_e', 'Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Vård och tillsyn av barn:', '164');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Andra sysslor (t.ex. vårda anhöriga, ta hand om barnbarn, sköta husdjur, hjälpa/stödja vänner):');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hourothe_2', 'SLOSH 08 working', '', '', '54_f', 'Uppskatta din totala arbetsbörda (dvs både förvärvsarbete hem/hushållsarbete, vård av barn och andra sysslor) under en vecka. Tänk på en normal arbetsvecka (7 dagar). Fördela tid i timmar på följande sysslor. Ange 0 timmar för de sysslor som du inte utför: @Andra sysslor (t.ex. vårda anhöriga, ta hand om barnbarn, sköta husdjur, hjälpa/stödja vänner):', '164');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många timmar övertid har du arbetat under de senaste 3 månaderna? @Tvingad (beordrad)');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('0 timmar (ingen övvertid)');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('1-20 timmar');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('21-50 timmar');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('51-100 timmar');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mer än 100 timmar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('225', '1', '0 timmar (ingen övvertid)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('225', '2', '1-20 timmar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('225', '3', '21-50 timmar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('225', '4', '51-100 timmar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('225', '5', 'Mer än 100 timmar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('225', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('workforc_2', 'SLOSH 08 working', '', '1', '55_a', 'Hur många timmar övertid har du arbetat under de senaste 3 månaderna? @Tvingad (beordrad)', '225');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många timmar övertid hade du under de senaste 3 månaderna innan du slutade arbeta?Tvingad (beordrad)');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('workforc_2', 'SLOSH 08 non-working', '', '1', '34_a', 'Hur många timmar övertid hade du under de senaste 3 månaderna innan du slutade arbeta?Tvingad (beordrad)', '225');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många timmar övertid har du arbetat under de senaste 3 månaderna? @Frivillig (för att klara av en arbetstopp)');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('voltop_2', 'SLOSH 08 working', '', '1', '55_b', 'Hur många timmar övertid har du arbetat under de senaste 3 månaderna? @Frivillig (för att klara av en arbetstopp)', '225');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många timmar övertid hade du under de senaste 3 månaderna innan du slutade arbeta?Frivillig (för att klara av en arbetstopp)');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('voltop_2', 'SLOSH 08 non-working', '', '1', '34_b', 'Hur många timmar övertid hade du under de senaste 3 månaderna innan du slutade arbeta?Frivillig (för att klara av en arbetstopp)', '225');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många timmar övertid har du arbetat under de senaste 3 månaderna? @Frivillig (för att jag gillar mitt arbete)');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('vollike_2', 'SLOSH 08 working', '', '1', '55_c', 'Hur många timmar övertid har du arbetat under de senaste 3 månaderna? @Frivillig (för att jag gillar mitt arbete)', '225');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur många timmar övertid hade du under de senaste 3 månaderna innan du slutade arbeta?Frivillig (för att jag gillar mitt arbete)');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('vollike_2', 'SLOSH 08 non-working', '', '1', '34_c', 'Hur många timmar övertid hade du under de senaste 3 månaderna innan du slutade arbeta?Frivillig (för att jag gillar mitt arbete)', '225');
+ 

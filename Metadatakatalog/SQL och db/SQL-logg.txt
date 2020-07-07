@@ -3540,3 +3540,1593 @@ INSERT INTO Enkättexter (enkättext) VALUES ('Hur många timmar övertid hade d
  
 INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('vollike_2', 'SLOSH 08 non-working', '', '1', '34_c', 'Hur många timmar övertid hade du under de senaste 3 månaderna innan du slutade arbeta?Frivillig (för att jag gillar mitt arbete)', '225');
  
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du jourarbetstid?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dutywork_2', 'SLOSH 08 working', '', '', '57', 'Har du jourarbetstid?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du tidigare haft arbetstider som inneburit att du arbetat nattskift?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('shift_2', 'SLOSH 08 working', '', '', '58_a', 'Har du tidigare haft arbetstider som inneburit att du arbetat nattskift?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du tidigare haft arbetstider som inneburit att du arbetat nattskift? @ Om ja: Hur många år arbetade du nattskift?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('shiftyes_2', 'SLOSH 08 working', '', '', '58_b', 'Har du tidigare haft arbetstider som inneburit att du arbetat nattskift? @ Om ja: Hur många år arbetade du nattskift?', '181');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur mycket kan du påverka dina arbetstider med avseende på... @…arbetspassets längd?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mycket lite');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ganska lite');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('I viss mån');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ej relevant');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('226', '1', 'Mycket lite');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('226', '2', 'Ganska lite');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('226', '3', 'I viss mån');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('226', '4', 'Ganska mycket');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('226', '5', 'I mycket hög grad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('226', '6', 'Ej relevant');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('226', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('inflength_2', 'SLOSH 08 working', '', '', '59_a', 'Hur mycket kan du påverka dina arbetstider med avseende på... @…arbetspassets längd?', '226');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur mycket kan du påverka dina arbetstider med avseende på... @…arbetspassets start- och sluttid?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('infstart_2', 'SLOSH 08 working', '', '', '59_b', 'Hur mycket kan du påverka dina arbetstider med avseende på... @…arbetspassets start- och sluttid?', '226');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur mycket kan du påverka dina arbetstider med avseende på... @…att ta paus/rast under arbetspasset?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('infrest_2', 'SLOSH 08 working', '', '', '59_c', 'Hur mycket kan du påverka dina arbetstider med avseende på... @…att ta paus/rast under arbetspasset?', '226');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur mycket kan du påverka dina arbetstider med avseende på... @…vilka dagar som du arbetar?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('infdays_2', 'SLOSH 08 working', '', '', '59_d', 'Hur mycket kan du påverka dina arbetstider med avseende på... @…vilka dagar som du arbetar?', '226');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur mycket kan du påverka dina arbetstider med avseende på... @…att ta semester och annan ledighet?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('infholi_2', 'SLOSH 08 working', '', '', '59_e', 'Hur mycket kan du påverka dina arbetstider med avseende på... @…att ta semester och annan ledighet?', '226');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur mycket kan du påverka dina arbetstider med avseende på... @…att ta tjänstledigt (utan lön)?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('inffree_2', 'SLOSH 08 working', '', '', '59_f', 'Hur mycket kan du påverka dina arbetstider med avseende på... @…att ta tjänstledigt (utan lön)?', '226');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur mycket kan du påverka dina arbetstider med avseende på... @…att utföra privata ärenden på arbetstid?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('infprivate_2', 'SLOSH 08 working', '', '', '59_g', 'Hur mycket kan du påverka dina arbetstider med avseende på... @…att utföra privata ärenden på arbetstid?', '226');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta är längden av dina arbetspass... @…kortare än 8 timmar?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Så gott som aldrig');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Sällan (mindre ään 25%)');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ibland (ungeför 50%)');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('För det mesta (ungefär 75%)');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Så gott som alla arbetspass');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('227', '1', 'Så gott som aldrig');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('227', '2', 'Sällan (mindre ään 25%)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('227', '3', 'Ibland (ungeför 50%)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('227', '4', 'För det mesta (ungefär 75%)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('227', '5', 'Så gott som alla arbetspass');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('227', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hourshort_2', 'SLOSH 08 working', '', '', '60_a', 'Hur ofta är längden av dina arbetspass... @…kortare än 8 timmar?', '227');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta är längden av dina arbetspass... @…mellan 8 och 10 timmar?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hour8_2', 'SLOSH 08 working', '', '', '60_b', 'Hur ofta är längden av dina arbetspass... @…mellan 8 och 10 timmar?', '227');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta är längden av dina arbetspass... @…mellan 10 och 12 timmar?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hour12_2', 'SLOSH 08 working', '', '', '60_c', 'Hur ofta är längden av dina arbetspass... @…mellan 10 och 12 timmar?', '227');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta är längden av dina arbetspass... @…längre än 12 timmar?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hourlong_2', 'SLOSH 08 working', '', '', '60_d', 'Hur ofta är längden av dina arbetspass... @…längre än 12 timmar?', '227');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta är längden av dina arbetspass... @…15 timmar eller längre?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('restlong_2', 'SLOSH 08 working', '', '', '61_a', 'Hur ofta är längden av dina arbetspass... @…15 timmar eller längre?', '227');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta är längden av dina arbetspass... @…mellan 15 och 11 timmar?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rest15_2', 'SLOSH 08 working', '', '', '61_b', 'Hur ofta är längden av dina arbetspass... @…mellan 15 och 11 timmar?', '227');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta är längden av dina arbetspass... @…mellan 11 och 8 timmar?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rest11_2', 'SLOSH 08 working', '', '', '61_c', 'Hur ofta är längden av dina arbetspass... @…mellan 11 och 8 timmar?', '227');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('restshort_2', 'SLOSH 08 working', '', '', '61_d', 'Hur ofta är längden av dina arbetspass... @…kortare än 8 timmar?', '227');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @Har det skett omorganisation på din arbetsplats?');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('228', '1', 'Nej, ingen gång');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('228', '2', 'Ja, en gång');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('228', '3', 'Ja, 2-3 gånger');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('228', '4', 'Ja, 4 gånger eller mer');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('228', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('y2reorg_2', 'SLOSH 08 working', '', '', '62_ae', 'Följande frågor gäller din arbetsplats/dina arbetsplatser under de senaste två åren: @Har det skett omorganisation på din arbetsplats?', '228');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket är/var ditt huvudsakliga yrke? @ Om du inte yrkesarbetar nu, ange det yrke som du huvudsakligen har haft. Försök att lämna en så detaljerad yrkestitel som möjligt. @ Till exempel: Skriv istället för assistent, inköpsassistent. Var god texta!');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('yrke_2', 'SLOSH 08 working', '', '1', '63_a', 'Vilket är/var ditt huvudsakliga yrke? @ Om du inte yrkesarbetar nu, ange det yrke som du huvudsakligen har haft. Försök att lämna en så detaljerad yrkestitel som möjligt. @ Till exempel: Skriv istället för assistent, inköpsassistent. Var god texta!', '169');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket var ditt huvudsakliga yrke? @ Ange det yrke som du huvudsakligen har haft. Försök att lämna en så detaljerad yrkestitel som möjligt. @ Till exempel: Skriv istället för assistent, inköpsassistent. Var god texta!');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('yrke_2', 'SLOSH 08 non-working', '', '1', '36_a', 'Vilket var ditt huvudsakliga yrke? @ Ange det yrke som du huvudsakligen har haft. Försök att lämna en så detaljerad yrkestitel som möjligt. @ Till exempel: Skriv istället för assistent, inköpsassistent. Var god texta!', '169');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilka är/var dina huvudsakliga arbetsuppgifter? Beskriv dina huvudsakliga arbetsuppgifter. Om du t.ex. är projektledare eller liknande skriv då vad du gör, exempelvis ”är ansvarig för att förbättra arbetsmiljön i åldringsvården”. Är du t.ex. fabriksarbetare skriv då vad du gör/tillverkar.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('yrketxt_2', 'SLOSH 08 working', '', '1', '63_b', 'Vilka är/var dina huvudsakliga arbetsuppgifter? Beskriv dina huvudsakliga arbetsuppgifter. Om du t.ex. är projektledare eller liknande skriv då vad du gör, exempelvis ”är ansvarig för att förbättra arbetsmiljön i åldringsvården”. Är du t.ex. fabriksarbetare skriv då vad du gör/tillverkar.', '169');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilka var dina huvudsakliga arbetsuppgifter? Beskriv dina huvudsakliga arbetsuppgifter. Om du t ex var projektledare eller liknande skriv då vad du gjorde, exempelvis ”var ansvarig för att förbättra arbetsmiljön i åldringsvården”. Var du t ex fabriksarbetare skriv då vad du gjorde/tillverkade');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('yrketxt_2', 'SLOSH 08 non-working', '', '1', '36_b', 'Vilka var dina huvudsakliga arbetsuppgifter? Beskriv dina huvudsakliga arbetsuppgifter. Om du t ex var projektledare eller liknande skriv då vad du gjorde, exempelvis ”var ansvarig för att förbättra arbetsmiljön i åldringsvården”. Var du t ex fabriksarbetare skriv då vad du gjorde/tillverkade', '169');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under de senaste 3 månaderna... @…använt sömnmedel (även receptfria medel, t.ex. Valeriana)?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Inte alls/Sällan de sista tre månaderna');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('229', '1', 'Varje dag');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('229', '2', 'Ett par dar per vecka (1 dag av 2)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('229', '3', 'En dag per vecka (1 dag av 5)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('229', '4', 'Ett par dar per månad (1 dag av 10)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('229', '5', 'Inte alls/Sällan de sista tre månaderna');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('229', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('soporific_2', 'SLOSH 08 working', '', '', '67_e', 'Har du under de senaste 3 månaderna... @…använt sömnmedel (även receptfria medel, t.ex. Valeriana)?', '229');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('soporific_2', 'SLOSH 08 non-working', '', '', '40_e', 'Har du under de senaste 3 månaderna... @…använt sömnmedel (även receptfria medel, t.ex. Valeriana)?', '229');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under de senaste 3 månaderna... @…använt smärtstillande medicin (även receptfria medel)?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('analgesic_2', 'SLOSH 08 working', '', '', '67_f', 'Har du under de senaste 3 månaderna... @…använt smärtstillande medicin (även receptfria medel)?', '229');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('analgesic_2', 'SLOSH 08 non-working', '', '', '40_f', 'Har du under de senaste 3 månaderna... @…använt smärtstillande medicin (även receptfria medel)?', '229');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket av följande påstående beskriver bäst din kosthållning?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Jag äter ganska mycket fett, socker och/eller snabbmat.');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Jag äter en varierad, genomsnittlig kost.');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Jag undviker fett och socker och/eller håller en speciell diet');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('230', '1', 'Jag äter ganska mycket fett, socker och/eller snabbmat.');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('230', '2', 'Jag äter en varierad, genomsnittlig kost.');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('230', '3', 'Jag undviker fett och socker och/eller håller en speciell diet');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('230', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('food_2', 'SLOSH 08 working', '', '', '74', 'Vilket av följande påstående beskriver bäst din kosthållning?', '230');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('food_2', 'SLOSH 08 non-working', '', '', '46', 'Vilket av följande påstående beskriver bäst din kosthållning?', '230');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Ungefär hur många dagar under de senaste 12 månaderna har du sammanlagt gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('8-30 dagar');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('31-90 dagar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('231', '1', 'Inte någon');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('231', '2', '1-7 dagar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('231', '3', '8-30 dagar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('231', '4', '31-90 dagar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('231', '5', '91 dagar eller mer');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('231', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('sickworkd_2', 'SLOSH 08 working', '', '1', '78_b', 'Ungefär hur många dagar under de senaste 12 månaderna har du sammanlagt gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?', '231');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Denna fråga gäller inte dig som varit pensionerad eller hemarbetande i mer än ett år. @ Ungefär hur många dagar under de senaste 12 månaderna har du sammanlagt gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('sickworkd_2', 'SLOSH 08 non-working', '', '1', '50_b', 'Denna fråga gäller inte dig som varit pensionerad eller hemarbetande i mer än ett år. @ Ungefär hur många dagar under de senaste 12 månaderna har du sammanlagt gått till arbetet trots att du ansett att du med tanke på ditt hälsotillstånd egentligen borde ha sjukskrivit dig?', '231');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du haft känning av följande besvär under de senaste tre månaderna? @Kraftiga egna snarkningar');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('snoring_2', 'SLOSH 08 working', '', '', '79_h', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Kraftiga egna snarkningar', '139');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('snoring_2', 'SLOSH 08 non-working', '', '', '79_h', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Kraftiga egna snarkningar', '139');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du haft känning av följande besvär under de senaste tre månaderna? @Andningsuppehåll under sömnen');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('apnoea_2', 'SLOSH 08 working', '', '', '79_h', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Andningsuppehåll under sömnen', '139');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('apnoea_2', 'SLOSH 08 non-working', '', '', '52_i', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Andningsuppehåll under sömnen', '139');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du haft känning av följande besvär under de senaste tre månaderna? @Mardrömmar');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('nightmare_2', 'SLOSH 08 working', '', '', '79_j', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Mardrömmar', '139');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('nightmare_2', 'SLOSH 08 non-working', '', '', '52_j', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Mardrömmar', '139');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du haft känning av följande besvär under de senaste tre månaderna? @Ofrivilliga ryckningar i benen som stör sömnen');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rls_2', 'SLOSH 08 working', '', '', '79_k', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Ofrivilliga ryckningar i benen som stör sömnen', '139');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rls_2', 'SLOSH 08 non-working', '', '', '52_k', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Ofrivilliga ryckningar i benen som stör sömnen', '139');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du haft känning av följande besvär under de senaste tre månaderna? @Trött i huvudet');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('tiredhead_2', 'SLOSH 08 working', '', '', '79_l', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Trött i huvudet', '139');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('tiredhead_2', 'SLOSH 08 non-working', '', '', '52_l', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Trött i huvudet', '139');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du haft känning av följande besvär under de senaste tre månaderna? @Kortare sömn än 6 timmar');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('shortsle_2', 'SLOSH 08 working', '', '', '79_m', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Kortare sömn än 6 timmar', '139');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('shortsle_2', 'SLOSH 08 non-working', '', '', '52_m', 'Har du haft känning av följande besvär under de senaste tre månaderna? @Kortare sömn än 6 timmar', '139');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur tycker du att du sover på det hela taget');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('sleepqua_2', 'SLOSH 08 working', '', '', '83', 'Hur tycker du att du sover på det hela taget', '120');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('sleepqua_2', 'SLOSH 08 non-working', '', '', '56', 'Hur tycker du att du sover på det hela taget', '120');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Anser du dig vara morgon- eller kvällsmänniska?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Utpräglad morgonmänniska (dvs morgonpigg och kvällstrött)');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('I viss mån morgonmänniska');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('I viss mån kvällsmänniska');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Utpräglad kvällsmänniska (dvs morgontrött och kvällspigg)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('232', '1', 'Utpräglad morgonmänniska (dvs morgonpigg och kvällstrött)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('232', '2', 'I viss mån morgonmänniska');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('232', '3', 'Varken eller');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('232', '4', 'I viss mån kvällsmänniska');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('232', '5', 'Utpräglad kvällsmänniska (dvs morgontrött och kvällspigg)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('232', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('evemor_2', 'SLOSH 08 working', '', '', '56', 'Anser du dig vara morgon- eller kvällsmänniska?', '232');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Reumatisk sjukdom');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rheuma_2', 'SLOSH 08 working', '', '', '85_d', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Reumatisk sjukdom', '122');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rheuma_2', 'SLOSH 08 non-working', '', '', '58_d', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Reumatisk sjukdom', '122');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Sjukdom i rygg, leder och muskler');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('muscl_2', 'SLOSH 08 working', '', '', '85_e', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Sjukdom i rygg, leder och muskler', '122');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('muscl_2', 'SLOSH 08 non-working', '', '', '58_e', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Sjukdom i rygg, leder och muskler', '122');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Psykisk sjukdom');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('psycho_2', 'SLOSH 08 working', '', '', '85_f', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Psykisk sjukdom', '122');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('psycho_2', 'SLOSH 08 non-working', '', '', '58_f', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Psykisk sjukdom', '122');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Astma');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('asthma_2', 'SLOSH 08 working', '', '', '85_g', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Astma', '122');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('asthma_2', 'SLOSH 08 non-working', '', '', '58_g', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Astma', '122');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Obstruktiv lungsjukdom');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('copd_2', 'SLOSH 08 working', '', '', '85_h', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Obstruktiv lungsjukdom', '122');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('copd_2', 'SLOSH 08 non-working', '', '', '58_h', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Obstruktiv lungsjukdom', '122');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Annan sjukdom/besvär');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('othersick_2', 'SLOSH 08 working', '', '', '85_i', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Annan sjukdom/besvär', '122');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('othersick_2', 'SLOSH 08 non-working', '', '', '58_i', 'Har du eller har du haft någon eller några av följande långvariga och/eller allvarliga sjukdomar eller besvär under de senaste 2 åren? @Annan sjukdom/besvär', '122');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Får du smärtor – stickningar – ont i bröstet när du går uppför backar eller trappor, eller när du går fort på plan mark?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpain1_2', 'SLOSH 08 working', '', '', '86_a', 'Får du smärtor – stickningar – ont i bröstet när du går uppför backar eller trappor, eller när du går fort på plan mark?', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpain1_2', 'SLOSH 08 non-working', '', '', '59_a', 'Får du smärtor – stickningar – ont i bröstet när du går uppför backar eller trappor, eller när du går fort på plan mark?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Får du smärtor – stickningar – ont i bröstet när du går i vanlig takt på plan mark?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpain2_2', 'SLOSH 08 working', '', '', '86_b', 'Får du smärtor – stickningar – ont i bröstet när du går i vanlig takt på plan mark?', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpain2_2', 'SLOSH 08 non-working', '', '', '59_b', 'Får du smärtor – stickningar – ont i bröstet när du går i vanlig takt på plan mark?', '1');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Om du får smärtor eller obehag i bröstet i samband med att du rör dig, brukar du då?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('stanna');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('sakta ner farten');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('fortsätta i samma takt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('233', '1', 'stanna');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('233', '2', 'sakta ner farten');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('233', '3', 'fortsätta i samma takt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('233', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainwhat_2', 'SLOSH 08 working', '', '', '87', 'Om du får smärtor eller obehag i bröstet i samband med att du rör dig, brukar du då?', '233');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainwhat_2', 'SLOSH 08 non-working', '', '', '60', 'Om du får smärtor eller obehag i bröstet i samband med att du rör dig, brukar du då?', '233');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Om du stannar eller saktar ner, försvinner smärtorna då?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainno_2', 'SLOSH 08 working', '', '', '88', 'Om du stannar eller saktar ner, försvinner smärtorna då?', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainno_2', 'SLOSH 08 non-working', '', '', '61', 'Om du stannar eller saktar ner, försvinner smärtorna då?', '1');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Om de försvinner, hur snart då?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Efter mindre än 10 minuter');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Efter mer än 10 minuter');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('234', '1', 'Efter mindre än 10 minuter');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('234', '2', 'Efter mer än 10 minuter');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('234', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainsnom_2', 'SLOSH 08 working', '', '', '89', 'Om de försvinner, hur snart då?', '234');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainsnom_2', 'SLOSH 08 non-working', '', '', '62', 'Om de försvinner, hur snart då?', '234');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Var brukar du känna dessa smärtor eller obehag? @ Du kan kryssa flera alternativ');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mitt i bröstet');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('235', '1', 'Mitt i bröstet');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('235', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainmid_2', 'SLOSH 08 working', '', '', '90', 'Var brukar du känna dessa smärtor eller obehag? @ Du kan kryssa flera alternativ', '235');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainmid_2', 'SLOSH 08 non-working', '', '', '63_a', 'Var brukar du känna dessa smärtor eller obehag? @ Du kan kryssa flera alternativ', '235');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('vänster sida');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('236', '1', 'vänster sida');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('236', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainleft_2', 'SLOSH 08 working', '', '', '90_b', 'Var brukar du känna dessa smärtor eller obehag? @ Du kan kryssa flera alternativ', '236');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainleft_2', 'SLOSH 08 non-working', '', '', '63_b', 'Var brukar du känna dessa smärtor eller obehag? @ Du kan kryssa flera alternativ', '236');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('andra ställen i bröstkorgen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('237', '1', 'andra ställen i bröstkorgen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('237', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainoth_2', 'SLOSH 08 working', '', '', '90_b', 'Var brukar du känna dessa smärtor eller obehag? @ Du kan kryssa flera alternativ', '237');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainoth_2', 'SLOSH 08 non-working', '', '', '63_c', 'Var brukar du känna dessa smärtor eller obehag? @ Du kan kryssa flera alternativ', '237');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du någon gång haft svår smärta i bröstet som varat i en halvtimme eller mer?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainmin_2', 'SLOSH 08 working', '', '', '91', 'Har du någon gång haft svår smärta i bröstet som varat i en halvtimme eller mer?', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cpainmin_2', 'SLOSH 08 non-working', '', '', '64', 'Har du någon gång haft svår smärta i bröstet som varat i en halvtimme eller mer?', '1');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under den allra senaste tiden upplevt ljud i något av öronen utan att det fanns en yttre ljudkälla (s.k. tinnitus) som varat mer än i fem minuter?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, ständigt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('238', '1', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('238', '2', 'Ja, ibland');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('238', '3', 'Ja, ofta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('238', '4', 'Ja, ständigt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('238', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('tinnitus_2', 'SLOSH 08 working', '', '', '92_a', 'Har du under den allra senaste tiden upplevt ljud i något av öronen utan att det fanns en yttre ljudkälla (s.k. tinnitus) som varat mer än i fem minuter?', '238');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('tinnitus_2', 'SLOSH 08 non-working', '', '', '65_a', 'Har du under den allra senaste tiden upplevt ljud i något av öronen utan att det fanns en yttre ljudkälla (s.k. tinnitus) som varat mer än i fem minuter?', '238');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur mycket upplever du att tinnitusljuden oroar, besvärar eller upprör dig?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('tiniprob_2', 'SLOSH 08 working', '', '', '92_b', 'Hur mycket upplever du att tinnitusljuden oroar, besvärar eller upprör dig?', '238');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('tiniprob_2', 'SLOSH 08 non-working', '', '', '65_b', 'Hur mycket upplever du att tinnitusljuden oroar, besvärar eller upprör dig?', '238');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur svårt har du (utan hörapparat) höra vad som sägs i samtal mellan flera personer?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Inte särskilt svårt');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Inte alls svårt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('239', '1', 'Mycket svårt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('239', '2', 'Ganska svårt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('239', '3', 'Inte särskilt svårt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('239', '4', 'Inte alls svårt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('239', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hearloss_2', 'SLOSH 08 working', '', '', '94', 'Hur svårt har du (utan hörapparat) höra vad som sägs i samtal mellan flera personer?', '239');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('hearloss_2', 'SLOSH 08 non-working', '', '', '66', 'Hur svårt har du (utan hörapparat) höra vad som sägs i samtal mellan flera personer?', '239');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('De allra flesta svåra situationer klarar jag att lösa med bra resultat');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('240', '1', 'Stämmer inte alls');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('240', '2', 'Stämmer inte särskilt bra');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('240', '3', 'Stämmer ganska bra');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('240', '4', 'Stämmer helt och hållet');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('240', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopA_2', 'SLOSH 08 working', '', '', '95_a', 'De allra flesta svåra situationer klarar jag att lösa med bra resultat', '240');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopA_2', 'SLOSH 08 non-working', '', '', '68_a', 'De allra flesta svåra situationer klarar jag att lösa med bra resultat', '240');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('De viktigaste sakerna i mitt liv har jag egentligen ingen kontroll över');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopB_2', 'SLOSH 08 working', '', '', '95_b', 'De viktigaste sakerna i mitt liv har jag egentligen ingen kontroll över', '240');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopB_2', 'SLOSH 08 non-working', '', '', '68_b', 'De viktigaste sakerna i mitt liv har jag egentligen ingen kontroll över', '240');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Jag skulle önska att jag kunde förändra livet men det går inte');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopC_2', 'SLOSH 08 working', '', '', '95_c', 'Jag skulle önska att jag kunde förändra livet men det går inte', '240');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopC_2', 'SLOSH 08 non-working', '', '', '68_c', 'Jag skulle önska att jag kunde förändra livet men det går inte', '240');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Alla mina försök att förändra min livssituation är meningslösa');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopD_2', 'SLOSH 08 working', '', '', '95_d', 'Alla mina försök att förändra min livssituation är meningslösa', '240');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopD_2', 'SLOSH 08 non-working', '', '', '68_d', 'Alla mina försök att förändra min livssituation är meningslösa', '240');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Det är bäst att jag inte försöker lösa mina egna problem, så att jag inte förstör för mig själv och andra');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopE_2', 'SLOSH 08 working', '', '', '95_e', 'Det är bäst att jag inte försöker lösa mina egna problem, så att jag inte förstör för mig själv och andra', '240');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopE_2', 'SLOSH 08 non-working', '', '', '68_e', 'Det är bäst att jag inte försöker lösa mina egna problem, så att jag inte förstör för mig själv och andra', '240');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Det är bättre att andra försöker lösa problemen än att jag själv rör till det och gör det värre');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopF_2', 'SLOSH 08 working', '', '', '95_f', 'Det är bättre att andra försöker lösa problemen än att jag själv rör till det och gör det värre', '240');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopF_2', 'SLOSH 08 non-working', '', '', '68_f', 'Det är bättre att andra försöker lösa problemen än att jag själv rör till det och gör det värre', '240');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Jag skulle nog haft det bättre om jag inte hade ansträngt mig så mycket med att lösa mina problem');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopG_2', 'SLOSH 08 working', '', '', '95_g', 'Jag skulle nog haft det bättre om jag inte hade ansträngt mig så mycket med att lösa mina problem', '240');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopG_2', 'SLOSH 08 non-working', '', '', '68_g', 'Jag skulle nog haft det bättre om jag inte hade ansträngt mig så mycket med att lösa mina problem', '240');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Alla mina försök att göra saker och ting bättre har egentligen bara försämrat situationen');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopH_2', 'SLOSH 08 working', '', '', '95_h', 'Alla mina försök att göra saker och ting bättre har egentligen bara försämrat situationen', '240');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ursincopH_2', 'SLOSH 08 non-working', '', '', '68_h', 'Alla mina försök att göra saker och ting bättre har egentligen bara försämrat situationen', '240');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur stor del av de anställda fick sluta under nedskärningen?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mindre än 8 %');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mellan 8 % och 18 %');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('18 % eller mer');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('241', '1', 'Mindre än 8 %');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('241', '2', 'Mellan 8 % och 18 %');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('241', '3', '18 % eller mer');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('241', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('numredun_2', 'SLOSH 08 working', '', '', '111', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur stor del av de anställda fick sluta under nedskärningen?', '241');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('numredun_2', 'SLOSH 08 non-working', '', '', '85', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur stor del av de anställda fick sluta under nedskärningen?', '241');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Fick du någon förvarning om den planerade nedskärningen?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('noti_2', 'SLOSH 08 working', '', '', '112_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Fick du någon förvarning om den planerade nedskärningen?', '241');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('noti_2', 'SLOSH 08 non-working', '', '', '86_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Fick du någon förvarning om den planerade nedskärningen?', '241');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om ja, hur fick du informationen?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Individuellt, i personligt möte med t.ex. en chef');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Kollektivt, via brev, e-post eller telefon');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Genom stormöte eller liknande');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Via rykten');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('242', '1', 'Individuellt, i personligt möte med t.ex. en chef');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('242', '2', 'Kollektivt, via brev, e-post eller telefon');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('242', '3', 'Genom stormöte eller liknande');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('242', '4', 'Via rykten');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('242', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('notihow_2', 'SLOSH 08 working', '', '', '112_b', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om ja, hur fick du informationen?', '242');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('notihow_2', 'SLOSH 08 non-working', '', '', '86_b', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om ja, hur fick du informationen?', '242');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur lång tid före uppsägningarna kom förvarningen från arbetsgivaren?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('En vecka eller mindre');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mellan en vecka och en månad');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mellan en och tre månader');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mellan tre och sex månader');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mer än sex månader');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('243', '1', 'En vecka eller mindre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('243', '2', 'Mellan en vecka och en månad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('243', '3', 'Mellan en och tre månader');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('243', '4', 'Mellan tre och sex månader');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('243', '5', 'Mer än sex månader');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('243', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('notitime_2', 'SLOSH 08 working', '', '', '113', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur lång tid före uppsägningarna kom förvarningen från arbetsgivaren?', '243');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('notitime_2', 'SLOSH 08 non-working', '', '', '87', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur lång tid före uppsägningarna kom förvarningen från arbetsgivaren?', '243');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @På vilket sätt påverkades du av förändringarna?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Jag blev uppsagd och arbetslös');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Jag blev uppsagd, men hittade ett annat jobb innan jag blev arbetslös');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Jag blev uppsagd, men behövde aldrig sluta, utan fortsatte arbeta i samma organisation');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Jag sade upp mig själv utan att ha blivit uppsagd av arbetsgivaren');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Jag pensionerade mig');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Jag blev aldrig uppsagd och fortsatte arbeta i samma organisation');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('244', '1', 'Jag blev uppsagd och arbetslös');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('244', '2', 'Jag blev uppsagd, men hittade ett annat jobb innan jag blev arbetslös');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('244', '3', 'Jag blev uppsagd, men behövde aldrig sluta, utan fortsatte arbeta i samma organisation');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('244', '4', 'Jag sade upp mig själv utan att ha blivit uppsagd av arbetsgivaren');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('244', '5', 'Jag pensionerade mig');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('244', '6', 'Jag blev aldrig uppsagd och fortsatte arbeta i samma organisation');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('244', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('redinflu_2', 'SLOSH 08 working', '', '', '114', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @På vilket sätt påverkades du av förändringarna?', '244');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('redinflu_2', 'SLOSH 08 non-working', '', '', '88', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @På vilket sätt påverkades du av förändringarna?', '244');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Var du själv tvungen att säga upp personal?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('layoff_2', 'SLOSH 08 working', '', '', '115', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Var du själv tvungen att säga upp personal?', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('layoff_2', 'SLOSH 08 non-working', '', '', '89', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Var du själv tvungen att säga upp personal?', '1');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Kände du att du kunde påverka hur nedskärningen genomfördes?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, ganska mycket');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Nej, knappast');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('245', '1', 'Ja, ganska mycket');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('245', '2', 'Ja, delvis');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('245', '3', 'Nej, knappast');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('245', '4', 'Nej, inte alls');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('245', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('inflds_2', 'SLOSH 08 working', '', '', '116', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Kände du att du kunde påverka hur nedskärningen genomfördes?', '245');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('inflds_2', 'SLOSH 08 non-working', '', '', '90', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Kände du att du kunde påverka hur nedskärningen genomfördes?', '245');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om du blev uppsagd, @ vilket var det huvudsakliga skälet som arbetsgivaren uppgav?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Arbetsbrist');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ekonomiska besparingar');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Personliga skäl');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('246', '1', 'Arbetsbrist');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('246', '2', 'Ekonomiska besparingar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('246', '3', 'Personliga skäl');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('246', '4', 'Annat');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('246', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('reasonds_2', 'SLOSH 08 working', '', '', '117_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om du blev uppsagd, @ vilket var det huvudsakliga skälet som arbetsgivaren uppgav?', '246');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('reasonds_2', 'SLOSH 08 non-working', '', '', '91_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om du blev uppsagd, @ vilket var det huvudsakliga skälet som arbetsgivaren uppgav?', '246');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om du blev uppsagd, @ ansåg du att det skäl arbetsgivaren angav var det verkliga skälet?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('realreason_2', 'SLOSH 08 working', '', '', '117_b', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om du blev uppsagd, @ ansåg du att det skäl arbetsgivaren angav var det verkliga skälet?', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('realreason_2', 'SLOSH 08 non-working', '', '', '91_b', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om du blev uppsagd, @ ansåg du att det skäl arbetsgivaren angav var det verkliga skälet?', '1');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden ekonomisk kompensation för den händelse du skulle ha blivit uppsagd?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, erbjudande om ett engångsbelopp');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, erbjudande om lön under ett visst antal månader');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('247', '1', 'Ja, erbjudande om ett engångsbelopp');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('247', '2', 'Ja, erbjudande om lön under ett visst antal månader');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('247', '3', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('247', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('compens_2', 'SLOSH 08 working', '', '', '118', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden ekonomisk kompensation för den händelse du skulle ha blivit uppsagd?', '247');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('compens_2', 'SLOSH 08 non-working', '', '', '92', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden ekonomisk kompensation för den händelse du skulle ha blivit uppsagd?', '247');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden utbildning för att du skulle ha större chans att få nytt jobb?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsedu_2', 'SLOSH 08 working', '', '', '119_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden utbildning för att du skulle ha större chans att få nytt jobb?', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsedu_2', 'SLOSH 08 non-working', '', '', '93_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden utbildning för att du skulle ha större chans att få nytt jobb?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Fick du någon hjälp med att förbereda dig för arbetssökande?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dshelp_2', 'SLOSH 08 working', '', '', '119_b', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Fick du någon hjälp med att förbereda dig för arbetssökande?', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dshelp_2', 'SLOSH 08 non-working', '', '', '93_b', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Fick du någon hjälp med att förbereda dig för arbetssökande?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden nytt jobb?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dshelpjob_2', 'SLOSH 08 working', '', '', '119_c', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden nytt jobb?', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dshelpjob_2', 'SLOSH 08 non-working', '', '', '93_c', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden nytt jobb?', '1');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Öppen och begriplig');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, i stort sett');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('248', '1', 'Ja, i stort sett');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('248', '2', 'Ja, delvis');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('248', '3', 'Nej, inte alls');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('248', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsopen_2', 'SLOSH 08 working', '', '', '120_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Öppen och begriplig', '248');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsopen_2', 'SLOSH 08 non-working', '', '', '94_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Öppen och begriplig', '248');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Rättvist och opartisk');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsfair_2', 'SLOSH 08 working', '', '', '120_b', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Rättvist och opartisk', '248');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsfair_2', 'SLOSH 08 non-working', '', '', '94_b', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Rättvist och opartisk', '248');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Kaotisk');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dschaotic_2', 'SLOSH 08 working', '', '', '120_c', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Kaotisk', '248');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dschaotic_2', 'SLOSH 08 non-working', '', '', '94_c', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Kaotisk', '248');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Välplanerad');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsplanned_2', 'SLOSH 08 working', '', '', '120_d', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Välplanerad', '248');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsplanned_2', 'SLOSH 08 non-working', '', '', '94_d', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Välplanerad', '248');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Demokratisk');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsdemocr_2', 'SLOSH 08 working', '', '', '120_e', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Demokratisk', '248');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsdemocr_2', 'SLOSH 08 non-working', '', '', '94_e', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Hur skulle du beskriva nedskärningen som process, särskilt hur besluten fattades (oavsett om du gillade resultatet eller ej)? @Demokratisk', '248');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Håller du med om att det var nödvändigt att skära ned i organisationen?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsnecess_2', 'SLOSH 08 working', '', '', '121', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Håller du med om att det var nödvändigt att skära ned i organisationen?', '248');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsnecess_2', 'SLOSH 08 non-working', '', '', '95', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Håller du med om att det var nödvändigt att skära ned i organisationen?', '248');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om du blev uppsagd, när fick du ett nytt jobb?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('I god tid innan jag skulle ha blivit arbetslös');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ungefär vid den tidpunkt jag annars skulle ha blivit arbetslös');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Inom tre månader efter att jag blev arbetslös');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mellan tre och sex månader efter att jag blev arbetslös');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mer än sex månader efter att jag blev arbetslös');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Inte än/aldrig');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('249', '1', 'I god tid innan jag skulle ha blivit arbetslös');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('249', '2', 'Ungefär vid den tidpunkt jag annars skulle ha blivit arbetslös');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('249', '3', 'Inom tre månader efter att jag blev arbetslös');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('249', '4', 'Mellan tre och sex månader efter att jag blev arbetslös');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('249', '5', 'Mer än sex månader efter att jag blev arbetslös');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('249', '6', 'Inte än/aldrig');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('249', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsnewjob_2', 'SLOSH 08 working', '', '', '122', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om du blev uppsagd, när fick du ett nytt jobb?', '249');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('dsnewjob_2', 'SLOSH 08 non-working', '', '', '96', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om du blev uppsagd, när fick du ett nytt jobb?', '249');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden ett nytt jobb utan att själv ha sökt det först?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, i samma organisation');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, i annan organisation');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('250', '1', 'Ja, i samma organisation');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('250', '2', 'Ja, i annan organisation');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('250', '3', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('250', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('joboldorg_2', 'SLOSH 08 working', '', '', '123_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden ett nytt jobb utan att själv ha sökt det först?', '250');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('251', '1', 'Ja, i samma organisation');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('251', '2', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('251', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('joboldorg_2', 'SLOSH 08 non-working', '', '', '97_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Blev du erbjuden ett nytt jobb utan att själv ha sökt det först?', '251');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om det var i en annan organisation, av vilken instans skulle det ordnas?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Offentliga organ');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Arbetsgivaren');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Facket');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Samarbete mellan flera parter');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Andra');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('252', '1', 'Offentliga organ');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('252', '2', 'Arbetsgivaren');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('252', '3', 'Facket');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('252', '4', 'Samarbete mellan flera parter');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('252', '5', 'Andra');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('252', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('jobothorg_2', 'SLOSH 08 working', '', '', '123_b_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om det var i en annan organisation, av vilken instans skulle det ordnas?', '252');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('jobothorg_2', 'SLOSH 08 non-working', '', '', '97_b_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Om det var i en annan organisation, av vilken instans skulle det ordnas?', '252');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Mer effektiv');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, definitivt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('253', '1', 'Ja, definitivt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('253', '2', 'Ja, delvis');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('253', '3', 'Nej, inte alls');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('253', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('norgeff_2', 'SLOSH 08 working', '', '', '124_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Mer effektiv', '253');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('norgeff_2', 'SLOSH 08 non-working', '', '', '98_a', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Mer effektiv', '253');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Underbemannad');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('norgstaff_2', 'SLOSH 08 working', '', '', '124_b', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Underbemannad', '253');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('norgstaff_2', 'SLOSH 08 non-working', '', '', '98_b', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Underbemannad', '253');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Välorganiserad');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('norgorg_2', 'SLOSH 08 working', '', '', '124_c', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Välorganiserad', '253');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('norgorg_2', 'SLOSH 08 non-working', '', '', '98_c', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Välorganiserad', '253');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Kaotisk');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('norgchao_2', 'SLOSH 08 working', '', '', '124_d', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Kaotisk', '253');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('norgchao_2', 'SLOSH 08 non-working', '', '', '98_d', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Kaotisk', '253');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Osäker');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('norginsec_2', 'SLOSH 08 working', '', '', '124_e', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Osäker', '253');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('norginsec_2', 'SLOSH 08 non-working', '', '', '98_e', 'Resten av frågeformuläret är endast för dig som under de två senaste åren varit med om nedskärning med risk för uppsägning av personal. Om du var egenföretagare eller jordbrukare eller arbetade i en organisation som hade mindre än 10 anställda före nedskärningen så kan du hoppa över resten av frågeformuläret. @Följande fråga är bara till dem som fortsatte att arbeta i den nedskurna organisationen: Efter nedskärningen, hur skulle du beskriva din organisation? @Osäker', '253');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('När slutade du förvärvsarbeta?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitwoyr_2', 'SLOSH 08 non-working', '', '', '1_a', 'När slutade du förvärvsarbeta?', '171');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitwomo_2', 'SLOSH 08 non-working', '', '', '1_a', 'När slutade du förvärvsarbeta?', '191');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du en arbetsplats att gå tillbaka till, om och när du önskar att arbeta igen?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Kanske/Vet ej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('254', '1', 'Ja');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('254', '2', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('254', '3', 'Kanske/Vet ej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('254', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('backwork_2', 'SLOSH 08 non-working', '', '', '1_a', 'Har du en arbetsplats att gå tillbaka till, om och när du önskar att arbeta igen?', '254');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Ålderspension');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('agepens_2', 'SLOSH 08 non-working', '', '', '2_a', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Ålderspension', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Sjukpension/sjukersättning (förtidspension)');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('sickpens_2', 'SLOSH 08 non-working', '', '', '2_b', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Sjukpension/sjukersättning (förtidspension)', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Annan pension (t.ex. avtalspension)');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('othepens_2', 'SLOSH 08 non-working', '', '', '2_c', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Annan pension (t.ex. avtalspension)', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Arbetsmarknadsutbildning');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('workedu_2', 'SLOSH 08 non-working', '', '', '2_d', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Arbetsmarknadsutbildning', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Praktik på en arbetsplats');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('training_2', 'SLOSH 08 non-working', '', '', '2_e', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Praktik på en arbetsplats', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Annan arbetsmarknadsåtgärd');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('backtowork_2', 'SLOSH 08 non-working', '', '', '2_e', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Annan arbetsmarknadsåtgärd', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Rehabilitering/arbetsträning');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rehabil_2', 'SLOSH 08 non-working', '', '', '2_g', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Rehabilitering/arbetsträning', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Långtidssjukskrivning med sjukpenning');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('sickbene_2', 'SLOSH 08 non-working', '', '', '2_h', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Långtidssjukskrivning med sjukpenning', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Långtidssjukskrivning med aktivitets- eller sjukersättning');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('sickacti_2', 'SLOSH 08 non-working', '', '', '2_i', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Långtidssjukskrivning med aktivitets- eller sjukersättning', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Arbetslös');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('unempl_2', 'SLOSH 08 non-working', '', '', '2_j', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Arbetslös', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Föräldraledig');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('parental_2', 'SLOSH 08 non-working', '', '', '2_k', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Föräldraledig', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Ta hand om hem och familj utan att vara föräldraledig');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('carehome_2', 'SLOSH 08 non-working', '', '', '2_l', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Ta hand om hem och familj utan att vara föräldraledig', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Studerande');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('studying_2', 'SLOSH 08 non-working', '', '', '2_m', 'Vilket/vilka av följande alternativ beskriver bäst din nuvarande situation? @Studerande', '223');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @Blev berättigad till privat pensionsförsäkring');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('leftpriv_2', 'SLOSH 08 non-working', '', '', '3_c', 'Av vilken anledning lämnade du ditt lönearbete? @Blev berättigad till privat pensionsförsäkring', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @Blev erbjuden möjligheten att gå i pension tidigare genom ett speciellt erbjudande från min arbetsgivare');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('leftagree_2', 'SLOSH 08 non-working', '', '', '3_d', 'Av vilken anledning lämnade du ditt lönearbete? @Blev erbjuden möjligheten att gå i pension tidigare genom ett speciellt erbjudande från min arbetsgivare', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @Blev utköpt');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('leftout_2', 'SLOSH 08 non-working', '', '', '3_e', 'Av vilken anledning lämnade du ditt lönearbete? @Blev utköpt', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @Blev friställd');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('leftdism_2', 'SLOSH 08 non-working', '', '', '3_f', 'Av vilken anledning lämnade du ditt lönearbete? @Blev friställd', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @Sade upp mig själv');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('leftown_2', 'SLOSH 08 non-working', '', '', '3_g', 'Av vilken anledning lämnade du ditt lönearbete? @Sade upp mig själv', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @Egen ohälsa');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('leftheal_2', 'SLOSH 08 non-working', '', '', '3_h', 'Av vilken anledning lämnade du ditt lönearbete? @Egen ohälsa', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @Släktings eller väns ohälsa');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('leftrela_2', 'SLOSH 08 non-working', '', '', '3_i', 'Av vilken anledning lämnade du ditt lönearbete? @Släktings eller väns ohälsa', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @Ville gå i pension samtidigt som make/maka/partner');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('lefttoge_2', 'SLOSH 08 non-working', '', '', '3_j', 'Av vilken anledning lämnade du ditt lönearbete? @Ville gå i pension samtidigt som make/maka/partner', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @För att tillbringa mer tid med familjen');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('leftfami_2', 'SLOSH 08 non-working', '', '', '3_k', 'Av vilken anledning lämnade du ditt lönearbete? @För att tillbringa mer tid med familjen', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @För att ta hand om mina barn');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('leftchil_2', 'SLOSH 08 non-working', '', '', '3_l', 'Av vilken anledning lämnade du ditt lönearbete? @För att ta hand om mina barn', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @För att njuta av livet');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('leftlife_2', 'SLOSH 08 non-working', '', '', '3_m', 'Av vilken anledning lämnade du ditt lönearbete? @För att njuta av livet', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Av vilken anledning lämnade du ditt lönearbete? @För att utbilda mig');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('lefteduc_2', 'SLOSH 08 non-working', '', '', '3_n', 'Av vilken anledning lämnade du ditt lönearbete? @För att utbilda mig', '1');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Om du har slutat arbeta de senaste två åren ……. @ Var det ditt beslut att sluta arbeta?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, jag ville sluta arbeta');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, fast helst hade jag velat fortsätta arbeta');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Nej, men jag var nöjd med att sluta');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Nej, jag hade velat fortsätta arbeta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('255', '1', 'Ja, jag ville sluta arbeta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('255', '2', 'Ja, fast helst hade jag velat fortsätta arbeta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('255', '3', 'Nej, men jag var nöjd med att sluta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('255', '4', 'Nej, jag hade velat fortsätta arbeta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('255', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('owndec_2', 'SLOSH 08 non-working', '', '', '4', 'Om du har slutat arbeta de senaste två åren ……. @ Var det ditt beslut att sluta arbeta?', '255');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplevde du att sluta arbeta? @Jag blev stressad av att sluta mitt arbete');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitstres_2', 'SLOSH 08 non-working', '', '', '5_a', 'Hur upplevde du att sluta arbeta? @Jag blev stressad av att sluta mitt arbete', '206');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplevde du att sluta arbeta? @Jag har haft ekonomiska svårigheter sedan jag slutade arbeta');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitecon_2', 'SLOSH 08 non-working', '', '', '5_b', 'Hur upplevde du att sluta arbeta? @Jag har haft ekonomiska svårigheter sedan jag slutade arbeta', '206');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplevde du att sluta arbeta? @Jag känner att jag tappat min funktion i livet');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitlife_2', 'SLOSH 08 non-working', '', '', '5_c', 'Hur upplevde du att sluta arbeta? @Jag känner att jag tappat min funktion i livet', '206');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplevde du att sluta arbeta? @Jag har tappat kontakten med många av mina vänner sedan jag slutat arbete');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitfrien_2', 'SLOSH 08 non-working', '', '', '5_d', 'Hur upplevde du att sluta arbeta? @Jag har tappat kontakten med många av mina vänner sedan jag slutat arbete', '206');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplevde du att sluta arbeta? @Jag har mer tid för mig själv sedan jag slutade arbeta');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitown_2', 'SLOSH 08 non-working', '', '', '5_e', 'Hur upplevde du att sluta arbeta? @Jag har mer tid för mig själv sedan jag slutade arbeta', '206');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplevde du att sluta arbeta? @Jag har mer tid för min familj sedan jag slutade arbeta');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitfami_2', 'SLOSH 08 non-working', '', '', '5_f', 'Hur upplevde du att sluta arbeta? @Jag har mer tid för min familj sedan jag slutade arbeta', '206');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplevde du att sluta arbeta? @Jag känner mig mer avslappnad sedan jag slutade arbeta');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitrelx_2', 'SLOSH 08 non-working', '', '', '5_g', 'Hur upplevde du att sluta arbeta? @Jag känner mig mer avslappnad sedan jag slutade arbeta', '206');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplevde du att sluta arbeta? @Min hälsa har blivit sämre sedan jag slutade arbeta');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitwors_2', 'SLOSH 08 non-working', '', '', '5_h', 'Hur upplevde du att sluta arbeta? @Min hälsa har blivit sämre sedan jag slutade arbeta', '206');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplevde du att sluta arbeta? @Min hälsa har blivit bättre sedan jag slutade arbeta');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('quitbett_2', 'SLOSH 08 non-working', '', '', '5_i', 'Hur upplevde du att sluta arbeta? @Min hälsa har blivit bättre sedan jag slutade arbeta', '206');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Fick du någon rehabiliteringsinsats innan du slutade arbeta?');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('256', '1', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('256', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rehano_2', 'SLOSH 08 non-working', '', '', '7_a', 'Fick du någon rehabiliteringsinsats innan du slutade arbeta?', '256');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, medicinsk rehabilitering');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('257', '1', 'Ja, medicinsk rehabilitering');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('257', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rehamed_2', 'SLOSH 08 non-working', '', '', '7_a', 'Fick du någon rehabiliteringsinsats innan du slutade arbeta?', '257');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, arbetsinriktad rehabilitering');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('258', '1', 'Ja, arbetsinriktad rehabilitering');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('258', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rehawork_2', 'SLOSH 08 non-working', '', '', '7_a', 'Fick du någon rehabiliteringsinsats innan du slutade arbeta?', '258');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Kan du beskriva vilken hjälp du fick, hur du upplevde det och hur resultatet blev för dig?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rehatxt_2', 'SLOSH 08 non-working', '', '', '7_b', 'Kan du beskriva vilken hjälp du fick, hur du upplevde det och hur resultatet blev för dig?', '169');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Du som är med i någon arbetsmarknadsåtgärd, arbetsmarknadsutbildning eller rehabilitering: @Vilken myndighet har du fått åtgärden igenom?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Av arbetsförmedlingen');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Av försäkringskassan (ej föräldrautbildning)');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Av socialkontoret');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Av arbetsgivaren');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Av Trygghetsstiftelsen, Trygghetsrådet eller dyl.');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('259', '1', 'Av arbetsförmedlingen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('259', '2', 'Av försäkringskassan (ej föräldrautbildning)');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('259', '3', 'Av socialkontoret');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('259', '4', 'Av arbetsgivaren');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('259', '5', 'Av Trygghetsstiftelsen, Trygghetsrådet eller dyl.');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('259', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rehaaut_2', 'SLOSH 08 non-working', '', '', '8_a', 'Du som är med i någon arbetsmarknadsåtgärd, arbetsmarknadsutbildning eller rehabilitering: @Vilken myndighet har du fått åtgärden igenom?', '259');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('månader');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('260', '0-12', 'månader');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('260', '>12', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('260', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rehalong_2', 'SLOSH 08 non-working', '', '', '8_b', 'Du som är med i någon arbetsmarknadsåtgärd, arbetsmarknadsutbildning eller rehabilitering: @Vilken myndighet har du fått åtgärden igenom?', '260');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Du som är med i någon arbetsmarknadsåtgärd, arbetsmarknadsutbildning eller rehabilitering: @Hur länge till räknar du med att delta?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rehafutu_2', 'SLOSH 08 non-working', '', '', '8_b', 'Du som är med i någon arbetsmarknadsåtgärd, arbetsmarknadsutbildning eller rehabilitering: @Hur länge till räknar du med att delta?', '260');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Du som är med i någon arbetsmarknadsåtgärd, arbetsmarknadsutbildning eller rehabilitering: @Var det ditt eget val att börja delta?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('rehachoi_2', 'SLOSH 08 non-working', '', '', '8_d', 'Du som är med i någon arbetsmarknadsåtgärd, arbetsmarknadsutbildning eller rehabilitering: @Var det ditt eget val att börja delta?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Anser du att du lär dig saker som du kommer att ha nytta av i framtiden?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('learfutu_2', 'SLOSH 08 non-working', '', '', '9_a', 'Hur upplever du ditt deltagande? @Anser du att du lär dig saker som du kommer att ha nytta av i framtiden?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('learfutu_3', 'SLOSH 10 non-working', '', '', '21_a', 'Hur upplever du ditt deltagande? @Anser du att du lär dig saker som du kommer att ha nytta av i framtiden?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('learfutu_4', 'SLOSH 12 non-working', '', '', '19_a', 'Hur upplever du ditt deltagande? @Anser du att du lär dig saker som du kommer att ha nytta av i framtiden?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Känns det meningsfullt att delta?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('meaning_2', 'SLOSH 08 non-working', '', '', '9_a', 'Hur upplever du ditt deltagande? @Känns det meningsfullt att delta?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('meaning_3', 'SLOSH 10 non-working', '', '', '21_a', 'Hur upplever du ditt deltagande? @Känns det meningsfullt att delta?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('meaning_4', 'SLOSH 12 non-working', '', '', '19_a', 'Hur upplever du ditt deltagande? @Känns det meningsfullt att delta?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Känns det meningslöst att delta?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('pointles_3', 'SLOSH 10 non-working', '', '', '21_c', 'Hur upplever du ditt deltagande? @Känns det meningslöst att delta?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('pointles_4', 'SLOSH 12 non-working', '', '', '19_c', 'Hur upplever du ditt deltagande? @Känns det meningslöst att delta?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Tycker du att nivån är för låg för dig?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('levelow_2', 'SLOSH 08 non-working', '', '', '9_d', 'Hur upplever du ditt deltagande? @Tycker du att nivån är för låg för dig?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('levelow_3', 'SLOSH 10 non-working', '', '', '21_d', 'Hur upplever du ditt deltagande? @Tycker du att nivån är för låg för dig?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('levelow_4', 'SLOSH 12 non-working', '', '', '19_d', 'Hur upplever du ditt deltagande? @Tycker du att nivån är för låg för dig?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Tycker du att nivån är för hög för dig?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('levehi_2', 'SLOSH 08 non-working', '', '', '9_e', 'Hur upplever du ditt deltagande? @Tycker du att nivån är för hög för dig?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('levehi_3', 'SLOSH 10 non-working', '', '', '21_e', 'Hur upplever du ditt deltagande? @Tycker du att nivån är för hög för dig?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('levehi_4', 'SLOSH 12 non-working', '', '', '19_e', 'Hur upplever du ditt deltagande? @Tycker du att nivån är för hög för dig?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Kräver deltagandet stor mental ansträngning?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('menteffo_2', 'SLOSH 08 non-working', '', '', '9_f', 'Hur upplever du ditt deltagande? @Kräver deltagandet stor mental ansträngning?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('menteffo_3', 'SLOSH 10 non-working', '', '', '21_f', 'Hur upplever du ditt deltagande? @Kräver deltagandet stor mental ansträngning?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('menteffo_4', 'SLOSH 12 non-working', '', '', '19_f', 'Hur upplever du ditt deltagande? @Kräver deltagandet stor mental ansträngning?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Kräver deltagandet stor kroppslig ansträngning?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('physeffo_2', 'SLOSH 08 non-working', '', '', '9_g', 'Hur upplever du ditt deltagande? @Kräver deltagandet stor kroppslig ansträngning?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('physeffo_3', 'SLOSH 10 non-working', '', '', '21_g', 'Hur upplever du ditt deltagande? @Kräver deltagandet stor kroppslig ansträngning?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('physeffo_4', 'SLOSH 12 non-working', '', '', '19_g', 'Hur upplever du ditt deltagande? @Kräver deltagandet stor kroppslig ansträngning?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Har du tillräckligt med tid för att hinna med det du ska göra?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('timenough_2', 'SLOSH 08 non-working', '', '', '9_h', 'Hur upplever du ditt deltagande? @Har du tillräckligt med tid för att hinna med det du ska göra?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('timenough_3', 'SLOSH 10 non-working', '', '', '21_h', 'Hur upplever du ditt deltagande? @Har du tillräckligt med tid för att hinna med det du ska göra?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('timenough_4', 'SLOSH 12 non-working', '', '', '19_h', 'Hur upplever du ditt deltagande? @Har du tillräckligt med tid för att hinna med det du ska göra?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Förekommer det ofta motstridiga krav?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cntr_3', 'SLOSH 10 non-working', '', '', '21_h', 'Hur upplever du ditt deltagande? @Förekommer det ofta motstridiga krav?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cntr_4', 'SLOSH 12 non-working', '', '', '19_h', 'Hur upplever du ditt deltagande? @Förekommer det ofta motstridiga krav?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Innebär deltagandet att man gör samma sak om och om igen?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('repeat_2', 'SLOSH 08 non-working', '', '', '9_i', 'Hur upplever du ditt deltagande? @Innebär deltagandet att man gör samma sak om och om igen?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('repeat_3', 'SLOSH 10 non-working', '', '', '21_j', 'Hur upplever du ditt deltagande? @Innebär deltagandet att man gör samma sak om och om igen?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('repeat_4', 'SLOSH 12 non-working', '', '', '19_j', 'Hur upplever du ditt deltagande? @Innebär deltagandet att man gör samma sak om och om igen?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Har du frihet att bestämma hur dina uppgifter ska utföras?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('freehow_2', 'SLOSH 08 non-working', '', '', '9_j', 'Hur upplever du ditt deltagande? @Har du frihet att bestämma hur dina uppgifter ska utföras?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('freehow_3', 'SLOSH 10 non-working', '', '', '21_k', 'Hur upplever du ditt deltagande? @Har du frihet att bestämma hur dina uppgifter ska utföras?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('freehow_4', 'SLOSH 12 non-working', '', '', '19_k', 'Hur upplever du ditt deltagande? @Har du frihet att bestämma hur dina uppgifter ska utföras?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('freewhat_2', 'SLOSH 08 non-working', '', '', '9_k', 'Hur upplever du ditt deltagande? @Har du frihet att bestämma hur dina uppgifter ska utföras?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('freewhat_3', 'SLOSH 10 non-working', '', '', '21_l', 'Hur upplever du ditt deltagande? @Har du frihet att bestämma vad som ska utföras?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('freewhat_4', 'SLOSH 12 non-working', '', '', '19_l', 'Hur upplever du ditt deltagande? @Har du frihet att bestämma vad som ska utföras?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Tycker du att kraven är för höga för dig just nu?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('demhigh_2', 'SLOSH 08 non-working', '', '', '9_l', 'Hur upplever du ditt deltagande? @Tycker du att kraven är för höga för dig just nu?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('demhigh_3', 'SLOSH 10 non-working', '', '', '21_m', 'Hur upplever du ditt deltagande? @Tycker du att kraven är för höga för dig just nu?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('demhigh_4', 'SLOSH 12 non-working', '', '', '19_m', 'Hur upplever du ditt deltagande? @Tycker du att kraven är för höga för dig just nu?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Har du någon att fråga om saker är svåra eller oklara?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('someask_2', 'SLOSH 08 non-working', '', '', '9_m', 'Hur upplever du ditt deltagande? @Har du någon att fråga om saker är svåra eller oklara?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('someask_3', 'SLOSH 10 non-working', '', '', '21_n', 'Hur upplever du ditt deltagande? @Har du någon att fråga om saker är svåra eller oklara?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('someask_4', 'SLOSH 12 non-working', '', '', '19_n', 'Hur upplever du ditt deltagande? @Har du någon att fråga om saker är svåra eller oklara?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Ställer de andra upp för dig?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('someyou_2', 'SLOSH 08 non-working', '', '', '9_n', 'Hur upplever du ditt deltagande? @Ställer de andra upp för dig?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('someyou_3', 'SLOSH 10 non-working', '', '', '21_o', 'Hur upplever du ditt deltagande? @Ställer de andra upp för dig?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('someyou_4', 'SLOSH 12 non-working', '', '', '19_o', 'Hur upplever du ditt deltagande? @Ställer de andra upp för dig?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Har man förståelse för att du kan ha en dålig dag?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('understa_2', 'SLOSH 08 non-working', '', '', '9_o', 'Hur upplever du ditt deltagande? @Har man förståelse för att du kan ha en dålig dag?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('understa_3', 'SLOSH 10 non-working', '', '', '21_p', 'Hur upplever du ditt deltagande? @Har man förståelse för att du kan ha en dålig dag?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('understa_4', 'SLOSH 12 non-working', '', '', '19_p', 'Hur upplever du ditt deltagande? @Har man förståelse för att du kan ha en dålig dag?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Får du bekräftelse från arbetsledare eller lärare?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('confirm_2', 'SLOSH 08 non-working', '', '', '9_p', 'Hur upplever du ditt deltagande? @Får du bekräftelse från arbetsledare eller lärare?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('confirm_3', 'SLOSH 10 non-working', '', '', '21_q', 'Hur upplever du ditt deltagande? @Får du bekräftelse från arbetsledare eller lärare?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('confirm_4', 'SLOSH 12 non-working', '', '', '19_q', 'Hur upplever du ditt deltagande? @Får du bekräftelse från arbetsledare eller lärare?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur upplever du ditt deltagande? @Tycker du att det sociala umgänget med de andra som är på samma ställe är givande för dig?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('socinter_2', 'SLOSH 08 non-working', '', '', '9_q', 'Hur upplever du ditt deltagande? @Tycker du att det sociala umgänget med de andra som är på samma ställe är givande för dig?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('socinter_3', 'SLOSH 10 non-working', '', '', '21_r', 'Hur upplever du ditt deltagande? @Tycker du att det sociala umgänget med de andra som är på samma ställe är givande för dig?', '6');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('socinter_4', 'SLOSH 12 non-working', '', '', '19_r', 'Hur upplever du ditt deltagande? @Tycker du att det sociala umgänget med de andra som är på samma ställe är givande för dig?', '6');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Stödjande');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autosupp_2', 'SLOSH 08 non-working', '', '', '10_a', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Stödjande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autosupp_3', 'SLOSH 10 non-working', '', '', '22_a', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Stödjande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autosupp_4', 'SLOSH 12 non-working', '', '', '20_a', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Stödjande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autosupp_5', 'SLOSH 14 non-working', '', '', '19_a', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Stödjande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autosupp_6', 'SLOSH 16 non-working', '', '', '19_a', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Stödjande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autosupp_7', 'SLOSH 18 non-working', '', '', '18_a', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Stödjande', '50');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Kränkande');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoinsu_2', 'SLOSH 08 non-working', '', '', '10_b', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Kränkande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoinsu_3', 'SLOSH 10 non-working', '', '', '22_b', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Kränkande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoinsu_4', 'SLOSH 12 non-working', '', '', '20_b', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Kränkande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoinsu_5', 'SLOSH 14 non-working', '', '', '19_b', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Kränkande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoinsu_6', 'SLOSH 16 non-working', '', '', '19_b', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Kränkande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoinsu_7', 'SLOSH 18 non-working', '', '', '18_b', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Kränkande', '50');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @De ställer orimliga krav');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autodema_2', 'SLOSH 08 non-working', '', '', '10_c', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @De ställer orimliga krav', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autodema_3', 'SLOSH 10 non-working', '', '', '22_c', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @De ställer orimliga krav', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autodema_4', 'SLOSH 12 non-working', '', '', '20_c', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @De ställer orimliga krav', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autodema_5', 'SLOSH 14 non-working', '', '', '19_c', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @De ställer orimliga krav', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autodema_6', 'SLOSH 16 non-working', '', '', '19_c', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @De ställer orimliga krav', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autodema_7', 'SLOSH 18 non-working', '', '', '18_c', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @De ställer orimliga krav', '50');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Får konkret hjälp');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autohelp_2', 'SLOSH 08 non-working', '', '', '10_d', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Får konkret hjälp', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autohelp_3', 'SLOSH 10 non-working', '', '', '22_d', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Får konkret hjälp', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autohelp_4', 'SLOSH 12 non-working', '', '', '20_d', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Får konkret hjälp', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autohelp_5', 'SLOSH 14 non-working', '', '', '19_d', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Får konkret hjälp', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autohelp_6', 'SLOSH 16 non-working', '', '', '19_d', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Får konkret hjälp', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autohelp_7', 'SLOSH 18 non-working', '', '', '18_d', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Får konkret hjälp', '50');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Bortkastad tid');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autowast_2', 'SLOSH 08 non-working', '', '', '10_e', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Bortkastad tid', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autowast_3', 'SLOSH 10 non-working', '', '', '22_e', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Bortkastad tid', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autowast_4', 'SLOSH 12 non-working', '', '', '20_e', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Bortkastad tid', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autowast_5', 'SLOSH 14 non-working', '', '', '19_e', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Bortkastad tid', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autowast_6', 'SLOSH 16 non-working', '', '', '19_e', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Bortkastad tid', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autowast_7', 'SLOSH 18 non-working', '', '', '18_e', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Bortkastad tid', '50');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Tvingande/hotande');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoforc_2', 'SLOSH 08 non-working', '', '', '10_f', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Tvingande/hotande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoforc_3', 'SLOSH 10 non-working', '', '', '22_f', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Tvingande/hotande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoforc_4', 'SLOSH 12 non-working', '', '', '20_f', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Tvingande/hotande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoforc_5', 'SLOSH 14 non-working', '', '', '19_f', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Tvingande/hotande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoforc_6', 'SLOSH 16 non-working', '', '', '19_f', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Tvingande/hotande', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('autoforc_7', 'SLOSH 18 non-working', '', '', '18_f', 'Du som får din försörjning från a-kassan, arbetsförmedlingen, försäkringskassan (ej föräldrapenning) eller socialkontoret. @ Hur upplever du att dina kontakter med myndigheterna är som hanterar ditt ärende? @Tvingande/hotande', '50');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du varit med om att människor varit irriterade på Dig därför att du inte arbetar');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('irritate_2', 'SLOSH 08 non-working', '', '', '11_a', 'Har du varit med om att människor varit irriterade på Dig därför att du inte arbetar', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('irritate_3', 'SLOSH 10 non-working', '', '', '14_a', 'Har du varit med om att människor varit irriterade på Dig därför att du inte arbetar', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('irritate_4', 'SLOSH 12 non-working', '', '', '14_a', 'Har du varit med om att människor varit irriterade på Dig därför att du inte arbetar', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('irritate_5', 'SLOSH 14 non-working', '', '', '17_a', 'Har du varit med om att människor varit irriterade på Dig därför att du inte arbetar', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('irritate_6', 'SLOSH 16 non-working', '', '', '17_a', 'Har du varit med om att människor varit irriterade på Dig därför att du inte arbetar', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('irritate_7', 'SLOSH 18 non-working', '', '', '16_a', 'Har du varit med om att människor varit irriterade på Dig därför att du inte arbetar', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('getajob_2', 'SLOSH 08 non-working', '', '', '11_b', 'Har du blivit utsatt för stark press att snabbt skaffa dig ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('getajob_3', 'SLOSH 10 non-working', '', '', '14_b', 'Har du blivit utsatt för stark press att snabbt skaffa dig ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('getajob_4', 'SLOSH 12 non-working', '', '', '14_b', 'Har du blivit utsatt för stark press att snabbt skaffa dig ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('getajob_5', 'SLOSH 14 non-working', '', '', '17_b', 'Har du blivit utsatt för stark press att snabbt skaffa dig ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('getajob_6', 'SLOSH 16 non-working', '', '', '17_b', 'Har du blivit utsatt för stark press att snabbt skaffa dig ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('getajob_7', 'SLOSH 18 non-working', '', '', '16_b', 'Har du blivit utsatt för stark press att snabbt skaffa dig ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('disparag_2', 'SLOSH 08 non-working', '', '', '11_c', 'Har du sedan du slutade arbeta varit med om att andra talat nedsättande om dem som inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('disparag_3', 'SLOSH 10 non-working', '', '', '14_c', 'Har du sedan du slutade arbeta varit med om att andra talat nedsättande om dem som inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('disparag_4', 'SLOSH 12 non-working', '', '', '14_c', 'Har du sedan du slutade arbeta varit med om att andra talat nedsättande om dem som inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('disparag_5', 'SLOSH 14 non-working', '', '', '17_c', 'Har du sedan du slutade arbeta varit med om att andra talat nedsättande om dem som inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('disparag_6', 'SLOSH 16 non-working', '', '', '17_c', 'Har du sedan du slutade arbeta varit med om att andra talat nedsättande om dem som inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('disparag_7', 'SLOSH 18 non-working', '', '', '16_c', 'Har du sedan du slutade arbeta varit med om att andra talat nedsättande om dem som inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('keepaway_2', 'SLOSH 08 non-working', '', '', '11_d', 'Har du upplevt att andra hållit sig undan dig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('keepaway_3', 'SLOSH 10 non-working', '', '', '14_d', 'Har du upplevt att andra hållit sig undan dig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('keepaway_4', 'SLOSH 12 non-working', '', '', '14_d', 'Har du upplevt att andra hållit sig undan dig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('keepaway_5', 'SLOSH 14 non-working', '', '', '17_d', 'Har du upplevt att andra hållit sig undan dig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('keepaway_6', 'SLOSH 16 non-working', '', '', '17_d', 'Har du upplevt att andra hållit sig undan dig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('keepaway_7', 'SLOSH 18 non-working', '', '', '16_d', 'Har du upplevt att andra hållit sig undan dig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('skilful_2', 'SLOSH 08 non-working', '', '', '16_d', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('skilful_3', 'SLOSH 10 non-working', '', '', '14_d', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('skilful_4', 'SLOSH 12 non-working', '', '', '14_d', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('skilful_5', 'SLOSH 14 non-working', '', '', '17_d', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('skilful_6', 'SLOSH 16 non-working', '', '', '17_d', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('skilful_7', 'SLOSH 18 non-working', '', '', '16_d', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('lazy_2', 'SLOSH 08 non-working', '', '', '11_f', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('lazy_3', 'SLOSH 10 non-working', '', '', '14_f', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('lazy_4', 'SLOSH 12 non-working', '', '', '14_f', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('lazy_5', 'SLOSH 14 non-working', '', '', '17_f', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('lazy_6', 'SLOSH 16 non-working', '', '', '17_f', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('lazy_7', 'SLOSH 18 non-working', '', '', '16_f', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ignored_2', 'SLOSH 08 non-working', '', '', '11_g', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ignored_3', 'SLOSH 10 non-working', '', '', '14_g', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ignored_4', 'SLOSH 12 non-working', '', '', '14_g', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ignored_5', 'SLOSH 14 non-working', '', '', '17_g', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ignored_6', 'SLOSH 16 non-working', '', '', '17_g', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('ignored_7', 'SLOSH 18 non-working', '', '', '16_g', 'Har du känt att andra betraktat dig som mindre kunnig därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('advise_2', 'SLOSH 08 non-working', '', '', '11_h', 'Har du varit med om att andra gett dig goda råd eller tips om hur du kan skaffa dig arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('advise_3', 'SLOSH 10 non-working', '', '', '14_h', 'Har du varit med om att andra gett dig goda råd eller tips om hur du kan skaffa dig arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('advise_4', 'SLOSH 12 non-working', '', '', '14_h', 'Har du varit med om att andra gett dig goda råd eller tips om hur du kan skaffa dig arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('advise_5', 'SLOSH 14 non-working', '', '', '17_h', 'Har du varit med om att andra gett dig goda råd eller tips om hur du kan skaffa dig arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('advise_6', 'SLOSH 16 non-working', '', '', '17_h', 'Har du varit med om att andra gett dig goda råd eller tips om hur du kan skaffa dig arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('advise_7', 'SLOSH 18 non-working', '', '', '16_h', 'Har du varit med om att andra gett dig goda råd eller tips om hur du kan skaffa dig arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('interest_2', 'SLOSH 08 non-working', '', '', '11_i', 'Har du varit med om att andra intresserat sig för hur du har det och hur du känner det därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('interest_3', 'SLOSH 10 non-working', '', '', '14_i', 'Har du varit med om att andra intresserat sig för hur du har det och hur du känner det därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('interest_4', 'SLOSH 12 non-working', '', '', '14_i', 'Har du varit med om att andra intresserat sig för hur du har det och hur du känner det därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('interest_5', 'SLOSH 14 non-working', '', '', '17_i', 'Har du varit med om att andra intresserat sig för hur du har det och hur du känner det därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('interest_6', 'SLOSH 16 non-working', '', '', '17_i', 'Har du varit med om att andra intresserat sig för hur du har det och hur du känner det därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('interest_7', 'SLOSH 18 non-working', '', '', '16_i', 'Har du varit med om att andra intresserat sig för hur du har det och hur du känner det därför att du inte arbetar?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('help_2', 'SLOSH 08 non-working', '', '', '11_j', 'Har du varit med om att andra människor försökt hjälpa dig med olika saker därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('help_3', 'SLOSH 10 non-working', '', '', '14_j', 'Har du varit med om att andra människor försökt hjälpa dig med olika saker därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('help_4', 'SLOSH 12 non-working', '', '', '14_j', 'Har du varit med om att andra människor försökt hjälpa dig med olika saker därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('help_5', 'SLOSH 14 non-working', '', '', '17_j', 'Har du varit med om att andra människor försökt hjälpa dig med olika saker därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('help_6', 'SLOSH 16 non-working', '', '', '17_j', 'Har du varit med om att andra människor försökt hjälpa dig med olika saker därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('help_7', 'SLOSH 18 non-working', '', '', '16_j', 'Har du varit med om att andra människor försökt hjälpa dig med olika saker därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('comfort_2', 'SLOSH 08 non-working', '', '', '11_k', 'Har du varit med om att andra försökt uppmuntra och trösta dig därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('comfort_3', 'SLOSH 10 non-working', '', '', '14_k', 'Har du varit med om att andra försökt uppmuntra och trösta dig därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('comfort_4', 'SLOSH 12 non-working', '', '', '14_k', 'Har du varit med om att andra försökt uppmuntra och trösta dig därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('comfort_5', 'SLOSH 14 non-working', '', '', '17_k', 'Har du varit med om att andra försökt uppmuntra och trösta dig därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('comfort_6', 'SLOSH 16 non-working', '', '', '17_k', 'Har du varit med om att andra försökt uppmuntra och trösta dig därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('comfort_7', 'SLOSH 18 non-working', '', '', '16_k', 'Har du varit med om att andra försökt uppmuntra och trösta dig därför att du inte har ett arbete?', '50');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hjälper eller vårdar du för närvarande en äldre person, t.ex. en förälder eller båda? @Om ja, upplever du det som en belastning?');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('261', '1', 'Ja, ofta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('261', '2', 'Ja, ibland');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('261', '3', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('261', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('burden_2', 'SLOSH 08 non-working', '', '', '12_b', 'Hjälper eller vårdar du för närvarande en äldre person, t.ex. en förälder eller båda? @Om ja, upplever du det som en belastning?', '261');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hjälper du för närvarande regelbundet till att ta hand om barnbarn?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('grandchi_2', 'SLOSH 08 non-working', '', '', '13_a', 'Hjälper du för närvarande regelbundet till att ta hand om barnbarn?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hjälper du för närvarande regelbundet till att ta hand om barnbarn?Om ja, upplever du det som en belastning?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('gchburd_2', 'SLOSH 08 non-working', '', '', '13_b', 'Hjälper du för närvarande regelbundet till att ta hand om barnbarn?Om ja, upplever du det som en belastning?', '261');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hjälper du för närvarande regelbundet till att ta hand om barnbarn?Om ja, hur många timmar ägnar du en genomsnittlig vecka åt att ta hand om barnbarn?');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('262', '0-24', 'timmar');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('262', '>24', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('262', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('gchhr_2', 'SLOSH 08 non-working', '', '', '13_c', 'Hjälper du för närvarande regelbundet till att ta hand om barnbarn?Om ja, hur många timmar ägnar du en genomsnittlig vecka åt att ta hand om barnbarn?', '262');
+ 

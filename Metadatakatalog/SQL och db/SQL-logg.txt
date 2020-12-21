@@ -14150,3 +14150,567 @@ INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'IT
  
 INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('painother_7', 'SLOSH 18 non-working', '', '', '47', 'Om du svarade ja på fråga 79q, vänligen specificera:', '491');
  
+INSERT INTO Enkättexter (enkättext) VALUES ('Om du arbetar frivilligt, upplever du det som en belastning?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('unpaybur_5', 'SLOSH 14 non-working', '', '', '22_b', 'Om du arbetar frivilligt, upplever du det som en belastning?', '470');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('unpaybur_6', 'SLOSH 16 non-working', '', '', '22_b', 'Om du arbetar frivilligt, upplever du det som en belastning?', '471');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('unpaybur_7', 'SLOSH 18 working', '', '1', '98_b', 'Om du arbetar frivilligt, upplever du det som en belastning?', '470');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär?Allvarlig infektion.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('infect_5', 'SLOSH 14 working', '', '', '73_f', 'Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär?Allvarlig infektion.', '124');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('infect_6', 'SLOSH 16 working', '', '', '83_f', 'Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär?Allvarlig infektion.', '124');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('infect_6', 'SLOSH 16 non-working', '', '', '47_f', 'Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär?Allvarlig infektion.', '124');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('infect_7', 'SLOSH 18 working', '', '', '78_f', 'Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär?Allvarlig infektion.', '124');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('infect_7', 'SLOSH 18 non-working', '', '', '46_f', 'Har du under de senaste 3 månaderna haft följande sjukdomar eller besvär?Allvarlig infektion.', '124');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta blir du sjuk (vanlig infektionssjukdom som förkylning, magsjuka etc.)?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Mer än en gång i månaden');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ungefär en gång i månaden');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ungefär en gång var tredje månad');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('En gång per halvår eller mindre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('492', '1', 'Mer än en gång i månaden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('492', '2', 'Ungefär en gång i månaden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('492', '3', 'Ungefär en gång var tredje månad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('492', '4', 'En gång per halvår eller mindre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('492', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cold_6', 'SLOSH 16 working', '', '1', '84', 'Hur ofta blir du sjuk (vanlig infektionssjukdom som förkylning, magsjuka etc.)?', '492');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('493', '1', 'Mer än en gång i månaden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('493', '2', 'Ungefär en gång i månaden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('493', '3', 'Ungefär en gång var tredje månad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('493', '4', 'En gång per halvår eller mindre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('493', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('493', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cold_6', 'SLOSH 16 non-working', '', '1', '49', 'Hur ofta blir du sjuk (vanlig infektionssjukdom som förkylning, magsjuka etc.)?', '493');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cold_7', 'SLOSH 18 working', '', '', '79', 'Hur ofta blir du sjuk (vanlig infektionssjukdom som förkylning, magsjuka etc.)?', '493');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('cold_7', 'SLOSH 18 non-working', '', '', '48', 'Hur ofta blir du sjuk (vanlig infektionssjukdom som förkylning, magsjuka etc.)?', '493');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta arbetar du som egenföretagare…… helt ensam?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ungefär hälften av arbetstiderna');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Nästan alltid eller alltid');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('494', '1', 'Aldrig eller nästan aldrig');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('494', '2', 'Ganska sällan');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('494', '3', 'Ungefär hälften av arbetstiderna');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('494', '4', 'Ganska ofta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('494', '5', 'Nästan alltid eller alltid');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('494', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('494', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('selfalo_7', 'SLOSH 18 working', '', '', '5_g', 'Hur ofta arbetar du som egenföretagare…… helt ensam?', '494');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta arbetar du som egenföretagare…… tillsammans med dina anställda?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('selftog_7', 'SLOSH 18 working', '', '', '5_g', 'Hur ofta arbetar du som egenföretagare…… tillsammans med dina anställda?', '494');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta arbetar du som egenföretagare…… tillsammans med familjemedlemmar (som inte är anställda i ditt företag)?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('selffam_7', 'SLOSH 18 working', '', '', '5_g', 'Hur ofta arbetar du som egenföretagare…… tillsammans med familjemedlemmar (som inte är anställda i ditt företag)?', '494');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta arbetar du som egenföretagare…… i ett nätverk med andra egenföretagare?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('selfnet_7', 'SLOSH 18 working', '', '', '5_g', 'Hur ofta arbetar du som egenföretagare…… i ett nätverk med andra egenföretagare?', '494');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur är stämningen på din arbetsplats?Män och kvinnor behandlas som jämställda på min arbetsplats');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('495', '1', 'Stämmer helt');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('495', '2', 'Stämmer ganska bra');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('495', '3', 'Stämmer inte särskilt bra');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('495', '4', 'Stämmer inte alls');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('495', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('495', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('equal_6', 'SLOSH 16 working', '', '', '13_g', 'Hur är stämningen på din arbetsplats?Män och kvinnor behandlas som jämställda på min arbetsplats', '495');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('equal_7', 'SLOSH 18 working', '', '', '11_g', 'Hur är stämningen på din arbetsplats?Män och kvinnor behandlas som jämställda på min arbetsplats', '495');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur är stämningen på din arbetsplats?Jag känner mig ensam i mitt arbete.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('lonelywork_6', 'SLOSH 16 working', '', '', '13_h', 'Hur är stämningen på din arbetsplats?Jag känner mig ensam i mitt arbete.', '495');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('lonelywork_7', 'SLOSH 18 working', '', '', '11_h', 'Hur är stämningen på din arbetsplats?Jag känner mig ensam i mitt arbete.', '495');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Måste du utföra arbetsuppgifter som du menar ...... borde göras av någon annan?');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('496', '1', 'Mycket ofta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('496', '2', 'Ofta');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('496', '3', 'Ibland');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('496', '4', 'Sällan');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('496', '5', 'Aldrig');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('496', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('496', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('worksome_7', 'SLOSH 18 working', '', '', '29_a', 'Måste du utföra arbetsuppgifter som du menar ...... borde göras av någon annan?', '496');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Måste du utföra arbetsuppgifter som du menar ...... kräver mer av dig än vad som är rimligt?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('workunre_7', 'SLOSH 18 working', '', '', '29_b', 'Måste du utföra arbetsuppgifter som du menar ...... kräver mer av dig än vad som är rimligt?', '496');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Måste du utföra arbetsuppgifter som du menar ...... försätter dig i obehagliga situationer?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('workunpl_7', 'SLOSH 18 working', '', '', '29_c', 'Måste du utföra arbetsuppgifter som du menar ...... försätter dig i obehagliga situationer?', '496');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Måste du utföra arbetsuppgifter som du menar ...... att det är orättvist att de hamnat hos dig?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('workunf_7', 'SLOSH 18 working', '', '', '29_d', 'Måste du utföra arbetsuppgifter som du menar ...... att det är orättvist att de hamnat hos dig?', '496');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Måste du utföra arbetsuppgifter som du menar ...... egentligen alls behöver göras?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('workunne_7', 'SLOSH 18 working', '', '', '30_a', 'Måste du utföra arbetsuppgifter som du menar ...... egentligen alls behöver göras?', '496');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Måste du utföra arbetsuppgifter som du menar ...... är vettiga och meningsfulla?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('workmean_7', 'SLOSH 18 working', '', '', '30_b', 'Måste du utföra arbetsuppgifter som du menar ...... är vettiga och meningsfulla?', '496');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Måste du utföra arbetsuppgifter som du menar ...... alls borde finnas (eller kunde göras med mindre ansträngning) om saker och ting var annorlunda organiserade?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('workorg_7', 'SLOSH 18 working', '', '', '30_c', 'Måste du utföra arbetsuppgifter som du menar ...... alls borde finnas (eller kunde göras med mindre ansträngning) om saker och ting var annorlunda organiserade?', '496');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Måste du utföra arbetsuppgifter som du menar ...... alls borde finnas (eller kunde göras med mindre ansträngning) om vissa andra gjorde färre misstag?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('workmis_7', 'SLOSH 18 working', '', '', '30_d', 'Måste du utföra arbetsuppgifter som du menar ...... alls borde finnas (eller kunde göras med mindre ansträngning) om vissa andra gjorde färre misstag?', '496');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du direkt kontakt med patienter eller andra vårdkrävande personer alternativt med barn och ungdomar vars pedagogiska utveckling eller omsorg du ansvarar för i ditt arbete?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, mindre än halva arbetstiden');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, halva arbetstiden eller mer');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('497', '1', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('497', '2', 'Ja, mindre än halva arbetstiden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('497', '3', 'Ja, halva arbetstiden eller mer');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('497', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('497', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('patresp_6', 'SLOSH 16 working', '', '', '32', 'Har du direkt kontakt med patienter eller andra vårdkrävande personer alternativt med barn och ungdomar vars pedagogiska utveckling eller omsorg du ansvarar för i ditt arbete?', '497');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('498', '1', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('498', '2', 'Ja, mindre än halva arbetstiden');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('498', '3', 'Ja, halva arbetstiden eller mer');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('498', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('patresp_7', 'SLOSH 18 working', '', '', '31', 'Har du direkt kontakt med patienter eller andra vårdkrävande personer alternativt med barn och ungdomar vars pedagogiska utveckling eller omsorg du ansvarar för i ditt arbete?', '498');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Är du nöjd med kvaliteten av det arbete som utförs på din arbetsplats?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('qualiwork_6', 'SLOSH 16 working', '', '', '33', 'Är du nöjd med kvaliteten av det arbete som utförs på din arbetsplats?', '483');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('qualiwork_7', 'SLOSH 18 working', '', '', '32', 'Är du nöjd med kvaliteten av det arbete som utförs på din arbetsplats?', '483');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('I den här organisationen…… behandlas jag överlag rättvist.');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('499', '1', 'Stämmer inte alls');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('499', '2', '');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('499', '3', '');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('499', '4', '');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('499', '5', '');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('499', '6', '');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('499', '7', 'Stämmer helt och hållet');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('499', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('499', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('orgovfair_7', 'SLOSH 18 working', '', '', '38_a', 'I den här organisationen…… behandlas jag överlag rättvist.', '499');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('I den här organisationen…… fungerar vanligtvis saker och ting inte på ett rättvist sätt');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('orgusfair_7', 'SLOSH 18 working', '', '', '38_b', 'I den här organisationen…… fungerar vanligtvis saker och ting inte på ett rättvist sätt', '499');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('I den här organisationen…… kan jag generellt sett räkna med att man handlar rättvist');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('orggefair_7', 'SLOSH 18 working', '', '', '38_c', 'I den här organisationen…… kan jag generellt sett räkna med att man handlar rättvist', '499');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('I den här organisationen…… behandlas de anställda för det mesta rättvist');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('orgemfair_7', 'SLOSH 18 working', '', '', '38_d', 'I den här organisationen…… behandlas de anställda för det mesta rättvist', '499');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('I den här organisationen…… skulle de flesta som arbetar här säga att de oftast inte behandlas rättvist');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('orgemnofair_7', 'SLOSH 18 working', '', '', '38_e', 'I den här organisationen…… skulle de flesta som arbetar här säga att de oftast inte behandlas rättvist', '499');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('I den här organisationen…… känner jag mig generellt sett rättvist behandlad');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('orgfefair_7', 'SLOSH 18 working', '', '', '38_f', 'I den här organisationen…… känner jag mig generellt sett rättvist behandlad', '499');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under de senaste 6 månaderna …… varit utsatt för trakasserier av chefer på grund av ditt kön?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, en eller fler ggr/månad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('500', '1', 'Ja, en eller flera ggr/vecka');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('500', '2', 'Ja, en eller fler ggr/månad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('500', '3', 'Ja, någon gång de senaste 6 månaderna');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('500', '4', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('500', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('500', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('harasboss_7', 'SLOSH 18 working', '', '', '47_c', 'Har du under de senaste 6 månaderna …… varit utsatt för trakasserier av chefer på grund av ditt kön?', '500');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under de senaste 6 månaderna …… varit utsatt för trakasserier av arbetskamrater på grund av ditt kön?');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('501', '1', 'Ja, en eller flera ggr/vecka');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('501', '2', 'Ja, en eller fler ggr/månad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('501', '3', 'Ja, någon gång de senaste 6 månaderna');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('501', '4', 'Nej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('501', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('harascol_7', 'SLOSH 18 working', '', '', '47_d', 'Har du under de senaste 6 månaderna …… varit utsatt för trakasserier av arbetskamrater på grund av ditt kön?', '501');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under de senaste 6 månaderna …… varit utsatt för trakasserier av andra t.ex. kunder, klienter, patienter eller elever på grund av ditt kön?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('harasoth_7', 'SLOSH 18 working', '', '', '47_e', 'Har du under de senaste 6 månaderna …… varit utsatt för trakasserier av andra t.ex. kunder, klienter, patienter eller elever på grund av ditt kön?', '501');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du under de senaste 6 månaderna …… hört om eller sett någon på din arbetsplats bli utsatt för trakasserier på grund av hens kön?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('harashear_7', 'SLOSH 18 working', '', '', '47_f', 'Har du under de senaste 6 månaderna …… hört om eller sett någon på din arbetsplats bli utsatt för trakasserier på grund av hens kön?', '500');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Ny teknik och mer flexibla arbetsförhållanden har förändrat arbetslivet för många människor. Teknik kan vara till stor hjälp, men kan också leda till nya typer av stress. Skatta i vilken mån du är stressad av…… att kontinuerligt hålla dig uppdaterad kring vad som händer i ditt sociala nätverk?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Använder ej telefon, e-post, eller dator i jobbet');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('502', '1', 'I mycket hög grad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('502', '2', 'I hög grad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('502', '3', 'I liten grad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('502', '4', 'I mycket liten grad/inte alls');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('502', '5', 'Använder ej telefon, e-post, eller dator i jobbet');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('502', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('502', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('strupdsoc_7', 'SLOSH 18 working', '', '', '51_g', 'Ny teknik och mer flexibla arbetsförhållanden har förändrat arbetslivet för många människor. Teknik kan vara till stor hjälp, men kan också leda till nya typer av stress. Skatta i vilken mån du är stressad av…… att kontinuerligt hålla dig uppdaterad kring vad som händer i ditt sociala nätverk?', '502');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Ny teknik och mer flexibla arbetsförhållanden har förändrat arbetslivet för många människor. Teknik kan vara till stor hjälp, men kan också leda till nya typer av stress. Skatta i vilken mån du är stressad av…… krav på att ge en positiv bild av dig själv på sociala medier?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('strpossoc_7', 'SLOSH 18 working', '', '', '51_h', 'Ny teknik och mer flexibla arbetsförhållanden har förändrat arbetslivet för många människor. Teknik kan vara till stor hjälp, men kan också leda till nya typer av stress. Skatta i vilken mån du är stressad av…… krav på att ge en positiv bild av dig själv på sociala medier?', '502');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vet du hur mycket pension du kommer att få från det allmänna pensionssystemet?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, jag vet exakt hur mycket');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Ja, jag vet ungefär hur mycket');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Nej, jag är osäker');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Nej, jag vet inte');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('503', '1', 'Ja, jag vet exakt hur mycket');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('503', '2', 'Ja, jag vet ungefär hur mycket');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('503', '3', 'Nej, jag är osäker');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('503', '4', 'Nej, jag vet inte');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('503', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('503', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('retipens_7', 'SLOSH 18 working', '', '1', '56_e', 'Vet du hur mycket pension du kommer att få från det allmänna pensionssystemet?', '503');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('504', '1', 'Ja, jag vet exakt hur mycket');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('504', '2', 'Ja, jag vet ungefär hur mycket');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('504', '3', 'Nej, jag är osäker');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('504', '4', 'Nej, jag vet inte');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('504', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('retipens_7', 'SLOSH 18 non-working', '', '1', '15_d', 'Vet du hur mycket pension du kommer att få från det allmänna pensionssystemet?', '504');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur tror du att din inkomst som heltidspensionär kommer att bli jämfört med din nuvarande inkomst?');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('505', '1', 'Mycket högre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('505', '2', 'Högre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('505', '3', 'Oförändrad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('505', '4', 'Lägre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('505', '5', 'Mycket lägre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('505', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('retiinc_7', 'SLOSH 18 working', '', '', '56_f', 'Hur tror du att din inkomst som heltidspensionär kommer att bli jämfört med din nuvarande inkomst?', '505');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('retiinc_7', 'SLOSH 18 non-working', '', '', '15_e', 'Hur tror du att din inkomst som heltidspensionär kommer att bli jämfört med din nuvarande inkomst?', '505');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Vad för slags pensionssparande har du utöver den allmänna pensionen?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Tjänstepension');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('506', '1', 'Tjänstepension');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('506', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('pensoccu_7', 'SLOSH 18 working', '', '', '56_g', 'Vad för slags pensionssparande har du utöver den allmänna pensionen?', '506');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('pensoccu_7', 'SLOSH 18 non-working', '', '', '15_f', 'Vad för slags pensionssparande har du utöver den allmänna pensionen?', '506');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Privat pensionsförsäkring/IPS eller annat sparande som är bundet fram till pensioneringen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('507', '1', 'Privat pensionsförsäkring/IPS eller annat sparande som är bundet fram till pensioneringen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('507', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('penspriv_7', 'SLOSH 18 working', '', '', '56_g', 'Vad för slags pensionssparande har du utöver den allmänna pensionen?', '507');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('penspriv_7', 'SLOSH 18 non-working', '', '', '15_f', 'Vad för slags pensionssparande har du utöver den allmänna pensionen?', '507');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Har sparat eller investerat på annat sätt till pensioneringen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('508', '1', 'Har sparat eller investerat på annat sätt till pensioneringen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('508', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('penssave_7', 'SLOSH 18 working', '', '', '56_g', 'Vad för slags pensionssparande har du utöver den allmänna pensionen?', '508');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('penssave_7', 'SLOSH 18 non-working', '', '', '15_f', 'Vad för slags pensionssparande har du utöver den allmänna pensionen?', '508');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('509', '1', 'Inget av ovanstående');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('509', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('pensnonab_7', 'SLOSH 18 working', '', '', '56_g', 'Vad för slags pensionssparande har du utöver den allmänna pensionen?', '509');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('pensnonab_7', 'SLOSH 18 non-working', '', '', '15_f', 'Vad för slags pensionssparande har du utöver den allmänna pensionen?', '509');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('510', '1', 'Vet ej');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('510', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('pensnotknow_7', 'SLOSH 18 working', '', '', '56_g', 'Vad för slags pensionssparande har du utöver den allmänna pensionen?', '510');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('pensnotknow_7', 'SLOSH 18 non-working', '', '', '15_f', 'Vad för slags pensionssparande har du utöver den allmänna pensionen?', '510');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du haft känning av följande besvär under de senaste tre månaderna?Oro/stress vid sänggåendet');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('worrybed_6', 'SLOSH 16 working', '', '', '69_h', 'Har du haft känning av följande besvär under de senaste tre månaderna?Oro/stress vid sänggåendet', '139');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('worrybed_6', 'SLOSH 16 non-working', '', '', '42_h', 'Har du haft känning av följande besvär under de senaste tre månaderna?Oro/stress vid sänggåendet', '139');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('worrybed_7', 'SLOSH 18 working', '', '', '63_h', 'Har du haft känning av följande besvär under de senaste tre månaderna?Oro/stress vid sänggåendet', '140');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('worrybed_7', 'SLOSH 18 non-working', '', '', '41_h', 'Har du haft känning av följande besvär under de senaste tre månaderna?Oro/stress vid sänggåendet', '140');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Har du haft känning av följande besvär under de senaste tre månaderna?Att du inte fungerar på den nivå som du borde.');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('badfunc_6', 'SLOSH 16 working', '', '', '69_n', 'Har du haft känning av följande besvär under de senaste tre månaderna?Att du inte fungerar på den nivå som du borde.', '139');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('badfunc_6', 'SLOSH 16 non-working', '', '', '42_n', 'Har du haft känning av följande besvär under de senaste tre månaderna?Att du inte fungerar på den nivå som du borde.', '139');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('badfunc_7', 'SLOSH 18 working', '', '1', '63_n', 'Har du haft känning av följande besvär under de senaste tre månaderna?Att du inte fungerar på den nivå som du borde.', '140');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('badfunc_7', 'SLOSH 18 non-working', '', '1', '41_n', 'Har du haft känning av följande besvär under de senaste tre månaderna?Att du inte fungerar på den nivå som du borde.', '139');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Under de senaste två åren, har du fått kortare psykologisk behandling såsom motiverande samtal eller stödsamtal hos kurator?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('psytrea_7', 'SLOSH 18 working', '', '', '67', 'Under de senaste två åren, har du fått kortare psykologisk behandling såsom motiverande samtal eller stödsamtal hos kurator?', '81');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('psytrea_7', 'SLOSH 18 non-working', '', '', '59', 'Under de senaste två åren, har du fått kortare psykologisk behandling såsom motiverande samtal eller stödsamtal hos kurator?', '81');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Under de senaste två åren, har du fått psykoterapi, det vill säga längre regelbunden samtalsterapi hos t.ex. psykolog eller psykoterapeut?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('psyther_7', 'SLOSH 18 working', '', '', '68', 'Under de senaste två åren, har du fått psykoterapi, det vill säga längre regelbunden samtalsterapi hos t.ex. psykolog eller psykoterapeut?', '1');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('psyther_7', 'SLOSH 18 non-working', '', '', '60', 'Under de senaste två åren, har du fått psykoterapi, det vill säga längre regelbunden samtalsterapi hos t.ex. psykolog eller psykoterapeut?', '1');
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Under de senaste två åren, har du aktivt sökt psykologisk behandling/psykoterapi, men av något skäl inte kunnat få det?');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('psysear_7', 'SLOSH 18 working', '', '1', '69', 'Under de senaste två åren, har du aktivt sökt psykologisk behandling/psykoterapi, men av något skäl inte kunnat få det?', '81');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('psysear_7', 'SLOSH 18 non-working', '', '1', '61', 'Under de senaste två åren, har du aktivt sökt psykologisk behandling/psykoterapi, men av något skäl inte kunnat få det?', '1');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur ofta äter du färsk frukt och grönsaker?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('Sällan/aldrig');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('En till flera gånger per vecka');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('2 eller flera gånger dagligen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('511', '1', 'Sällan/aldrig');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('511', '2', 'En till flera gånger per vecka');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('511', '3', 'Dagligen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('511', '4', '2 eller flera gånger dagligen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('511', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('fruit_7', 'SLOSH 18 working', '', '1', '84', 'Hur ofta äter du färsk frukt och grönsaker?', '511');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('512', '1', 'Sällan/aldrig');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('512', '2', 'En till flera gånger per vecka');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('512', '3', 'Dagligen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('512', '4', '2 eller flera gånger dagligen');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('512', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('512', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('fruit_7', 'SLOSH 18 non-working', '', '', '70', 'Hur ofta äter du färsk frukt och grönsaker?', '512');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('I vilken utsträckning är det du som planerar hemarbetet och ansvarar för att det utförs?');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('I mycket stor utsträckning');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('I varken stor eller liten utsträckning');
+ 
+INSERT INTO Svarstexter (svarstext) VALUES ('I mycket liten utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('513', '1', 'I mycket stor utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('513', '2', 'I stor utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('513', '3', 'I varken stor eller liten utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('513', '4', 'I liten utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('513', '5', 'I mycket liten utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('513', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('planhome_6', 'SLOSH 16 working', '', '', '98', 'I vilken utsträckning är det du som planerar hemarbetet och ansvarar för att det utförs?', '513');
+ 
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('514', '1', 'I mycket stor utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('514', '2', 'I stor utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('514', '3', 'I varken stor eller liten utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('514', '4', 'I liten utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('514', '5', 'I mycket liten utsträckning');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('514', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('514', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('planhome_7', 'SLOSH 18 working', '', '', '94', 'I vilken utsträckning är det du som planerar hemarbetet och ansvarar för att det utförs?', '514');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('unpayhr_7', 'SLOSH 18 working', '', '', '98_a', 'Hur många timmar ägnar du en genomsnittlig vecka åt frivilligt (obetalt) arbete t.ex. åt en förening, hjälporganisation, religiös sammanslutning eller ett politiskt parti? Om det inte är aktuellt, vänligen fyll i 0 timmar/vecka.', '166');
+ 

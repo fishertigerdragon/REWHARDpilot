@@ -1,0 +1,101 @@
+F2 = emppfarsel_8 F2_txt = empfarseltxt_8 F3a = hogutb_8 F3b = hogutbar_8 F4 = antalarb_8 F5_01 = permanent_8 F5_02 = project_8
+F5_03 = substitute_8 F5_04 = hourly_8 F5_05 = selfemp_8 F5_06 = farmer_8 F5_07 = otheremp_8 F5_txt = empltxt_8 F6a = selfprov_8
+F6b = ordertyp_8 F6c = buissize_8 F6d = orderflow_8 F6e = noorder_8 F6f = incsecur_8 F6g_01 = selfalo_8 F6g_02 = selftog_8 F6g_03 = selffam_8
+F6g_04 = selfnet_8 F7 = promoted_8 F8_1 = emplyr_8 F8_2 = emplmth_8 F9a = understl_8 F9b = undkvinn_8 F10 = teamsize_8 F11a = inunity_8
+F11b = beunity_8 F11c = orgunity_8 F11d = incompet_8 F11e = becompet_8 F11f = useidea_8 F11g = cowork_8 F12a = pleasant_8 F12b = unity_8
+F12c = loyality_8 F12d = badday_8 F12e = managree_8 F12f = collwell_8 F12g = equal_8 F12h = lonelywork_8 F13_01 = y2time_8 F13_02 = y2load_8
+F13_03 = y2psyload_8 F13_04 = y2infl_8 F13_05 = y2atmos_8 F14a = y2newjob_8 F14b = y2newempl_8 F14c = y2newposi_8 F14d = y2newgro_8 
+F14e = y2newman_8 F14f = y2newowr_8 F14g = y2reorg_8 F15 = y2unempl_8 F16 = wantchang_8 F17a = y2newcol_8 F17b = y2reduct_8 F17c = y2transf_8 
+F17d = y2increa_8 F17e = y2decrea_8 F17f = y2change_8 F18 = likvarbe_8 F19a = annatarb_8 F19b = permitte_8 F19c = bankrupt_8 F20a = anxnoti_8
+F20b = anxwork_8 F20c = anxmiss_8 F20d = wantquit_8 F21a = fulltime_8 F21b = parttime_8 F21c = percent_8 F21d = whypart_8 F22 = wantmore_8 F23 = hourwork_8 F24a = overtime_8 F24b = whyover_8 F25 = arbskift_8 
+F26a = inflength_8 F26b = infstart_8  F26c = infrest_8 F26d = infdays_8 F26e = infholi_8 F26f = infprivate_8 F27a = loadtime_8 F27b = interrup_8 
+F27c = morework_8 F27d = manaackn_8 F27e = possprom_8 F27f = impair_8 F27g = workthre_8 F27h = acknowle_8 F27i = advance_8 F27j = salaryok_8 
+F28a = workfast_8 F28b = workhard_8 F28c = workeffo_8 F28d = worktime_8 F28e = workcntr_8 F28f = workskil_8 F28g = workinge_8  F28h = worklear_8 
+F28i = workrepe_8 F28j = workhow_8 F28k = workwhat_8 F29a = worksome_8 F29b = workunre_8 F29c = workunpl_8 F29d = workunf_8 F30a = workunne_8 
+F30b = workmean_8 F30c = workorg_8 F30d = workmis_8 F31 = Qualiwork_8 F32a = workemot_8 F32b = workrelate_8 F33_01 = worktaxing_8 F34a = emopat_8 F34b = emocol_8 
+F35a = decinfor_8 F35b = decchang_8 F35c = decparts_8 F35d = decconse_8 F35e = decright_8 F35f = decfolup_8 F35g = decbased_8
+F36a = orgovfair_8 F36b = orgusfair_8 F36c = orggefair_8 F36d = orgemfair_8 F36e = orgemnofair_8 F36f = orgfefair_8 
+F37a = respboss_8 F37b = respright_8 F37c = trustboss_8 F38a = bossinfo_8 F38b = bosschange_8 F38c = bossgoal_8 F38d = bossexpe_8 F38e = bossintr_8 
+F38f = enoughpow_8 F38g = bossdev_8 F38h = bossinfl_8 F38i = bosspraise_8 F38j = bosscritic_8 F38k = manalist_8 
+F39a = grinform_8 F39b = grtogeth_8 F39c = graccept_8 F40 = disagree_8 F41a = confboss_8 F41b = confmate_8 F41c = confothe_8 
+F42a = violboss_8 F42b = violcol_8 F42c = violoth_8 F42d = violhear_8 F42e = perboss_8 F42f = percol_8 F42g = peroth_8 F42h = perhear_8 F42i = harasboss_8 
+F42j = harascol_8 F42k = harasoth_8 F42l = harashear_8 F43a = kroppsli_8 F43b = lyfter15_8 F43c = twiposi_8 F44a = noise_8 F44b = badlight_8
+F44c = vibrahel_8 F44d = poison_8 F44e = temperat_8 F44f = riskinfe_8 F44g = riskacci_8 F45a = strphone_8 F45b = stravailw_8 F45c = stravailf_8
+F45d = stranswe_8 F45e = strinterr_8 F45f = strcompu_8 F45g = strupdsoc_8 F45h = strpossoc_8 F46a = awakejob_8 F46b = relxhome_8 F46c = evethink_8 
+F47a = wfc1_8 F47b = wfc2_8 F47c = wfc3_8 F47d = wfc4_8 F47e = fwc1_8 F47f = fwc2_8 F47g = fwc3_8 F47h = wfe1_8 F47i = wfe2_8 F47j = wfe3_8
+F47k = fwe1_8 F47l = fwe2_8 F47m = fwe3_8 F48 = futuwork_8 F49 = futuprof_8 F50a = retiwant_8 F50b = retiage_8 F50c = stopwork_8 F50d = retiplan_8
+F50e = retipens_8 F50f = retiinc_8 F50g_01 = pensoccu_8 F50g_02 = penspriv_8 F50g_03 = penssave_8 F50g_04 = pensnonab_8 F50g_05 = pensnotknow_8
+F50h = retiwork_8 F51_01 = satiwork_8 F52 = gencondi_8 F53a = capacphy_8 F53b = capacpsy_8 F54_1 = bedhwork_8 F54_2 = bedmwork_8 F54_3 = bedhfree_8
+F54_4 = bedmfree_8 F54_5 = bedwork_8 F54_6 = bedfree_8 F55_1 = uphwork_8 F55_2 = upmwork_8 F55_3 = uphfree_8 F55_4 = upmfree_8 F55_5 = upwork_8 F55_6 = upfree_8
+F56a = enouslee_8 F56b = restdays_8 F57a = fallslee_8
+F57b = awakenin_8 F57c = numawake_8 F57d = refreshe_8 F57e = earlawak_8 F57f = calmslee_8 F57g = longtire_8 F57h = psytired_8 F57i = phystire_8 F57j = badfunc_8
+F58a = probslee_8 F58b = probtire_8 F58c = probpain_8 F59a = winterdep_8 F59b = depprob_8 F60 = psytrea_8 F61 = psyther_8 F62 = psysear_8
+F63a = lackener_8 F63b = depress_8 F63c = selfblam_8 F63d = worry_8 F63e = lackinte_8 F63f = strenuos_8 F64a = anxnerv_8 F64b = anxafraid_8 F64c = anxcont_8 
+F64d = anxavoid_8 F64e = anxrep_8 F64f = anxpanic_8 F64g = anxeat_8 F65a = m3concen_8 F65b = m3decisi_8 F65c = m3memory_8 F65d = m3think_8
+F66a = feeltired_8 F66b = feelawak_8 F66c = drained_8 F66d = enough_8 F66e = empty_8 F66f = burned_8 F66g = tiredment_8 F66h = tiredmor_8 
+F67a = ursincopA_8 F67b = ursincopB_8 F67c = ursincopC_8 F67d = ursincopD_8 F67e = ursincopF_8 F67f = ursincopG_8 F67g = ursincopH_8
+F68a = sick1v_8 F68b = sickmore_8 F68c = sickchil_8 F69 = sickleav_8 F70 = sickworkd_8 F71a = highbp_8 F71b = heartdis_8 F71c = angina_8 
+F71d = diabetes_8 F71e = rheuma_8 F71f = muscl_8 F71g = handicap_8 F71h = psycho_8 F71i = migraine_8
+F71j = asthma_8 F71k = copd_8 F71l = allergy_8 F71m = struma_8 F71n = liver_8 F71o = cancer_8 F71p = othersick_8 F71q = painlong_8 F71r_01 = painrheum_8
+F71r_02 = painmigraine_8 F71r_03 = painibs_8 F71r_04 = painfibro_8 F71r_05 = painneuro_8 F71r_06 = painother_8 F72a = huvudont_8 F72b = neckpain_8
+F72c = backpain_8 F72d = othepain_8 F72e = stroke_8 F72f = infect_8 F72g = gastrit_8 F72h = lipids_8 F72i = anxiety_8 F72j = pms_8 F72k = menopaus_8
+F73 = cold_8 F74a = tinnitus_8 F74b = tiniprob_8 F75a = LLstressA_8 F75b = LLstressB_8 F75c = LLstressC_8 F75d = LLstressG_8  F75e = LLstressH_8
+F75f = LLstressI_8 F75g = LLstressJ_8 F75h = LLstressK_8 F76 = stressview_8 F77 = stressres_8 F78 = food_8 F79 = fruit_8 F80 = exercise_8 F81a = sittwork_8 F81b = sittcommu_8 
+F81c = sittfree_8 F82_01 = movework_8 F82_02 = movefree_8 F83a = nap_8 F83b_1 = naphr_8 F83b_2 = napmin_8 F84 = height_8 F85 = weight_8 F86a = married_8 F86b = doublearn_8
+F87a = support_8 F87b = lonely_8 F88 = childhme_8 F88a = ch0to5_8 F88b = ch6to12_8 F88c = ch13to19_8 F88d = ch20olde_8 F89 = planhome_8 F90a = hourway_8 F90b = hourhous_8
+F90c = hourrep_8 F90d = hourhome_8 F90e = houractiv_8 F90f = hourrela_8 F90g = hourothe_8 F90h = hourleis_8 F90i = hourrelx_8 
+F91a = takecarhr_8 F91b = burden_8 F92a = carsickhr_8 F92b = sickburd_8 F93a = unpayhr_8 F93b = unpaybur_8 F94a = sickfam_8 F94b = deathfam_8 F94c = deathfri_8 F94d = divorce_8
+F95a = climstress_8 F95b = climadjust_8 F96a = smoke_8 F96b = smokecig_8 F97 = snuff_8 F98 = nodrink_8 F98a = cage1_8 F98b = cage2_8 F98c = cage3_8 F98d = cage4_8
+F99a = bettereco_8 F99b = worseeco_8 F99c = ecocrisis_8 F100 = whollife_8 F101 = contact_8 F102_txt = commenttxt_8 F103=webdema_8
+F104_txt=webdemtxt_8 F105=webqual_8 F106_txt=webcomment_8 F107_01=anstext_8 F107_02=ansdator_8 F107_03=anspadda_8 F107_04=ansmobil_8
+F107_txt=ansannattxt_8
+I3=empfarsel_8 I5=antalarb_8 I6=backwork_8 I10=owndec_8 I11=othejob_8 I13=retirbet_8 I20=incnow_8 I28=wantchang_8
+I29=y2unemp_8 I30=promoted_8 I31=futuwork_8 I32=futuprof_8 I34=gencondi_8 I35=y1condi_8 I47=cold_8 I48=sickleav_8
+I49=sickworkd_8 I58=psytrea_8 I59=psyther_8 I60=psysear_8 I64=stressview_8 I65=stressres_8 I70=food_8 I71=fruit_8
+I72=height_8 I73=weight_8 I74=exercise_8 I78=childhme_8 I81=moneynow_8 I85=snuff_8 I86=nodrink_8 I88=whollife_8 
+I89=comment_8 I91=webdema_8 I93=webquaSl_8 I12a=leftpens_8 I12b=leftoccc_8 I12c=leftpriv_8 I12d=leftagree_8 I12e=leftout_8
+I12f=leftdismis_8 I12g=leftown_8 I12h=leftheal_8 I12i=leftrela_8 I12j=lefttoge_8 I12k=leftfami_8 I12l=leftchil_8
+I12m=leftlife_8 I12n=lefteduc_8 I12o=leftothe_8 I14a=lifewait_8 I14b=retiexp_8 I14c=fulfill_8 I14d=collaps_8 I14e=standby_8
+I15a=retiplan_8 I15b=retiwork_8 I16a=retiwant_8 I16b=retiage_8 I16c=stopwork_8 I16d=retipens_8 I16e=retiink_8
+I16f_01=pensoccu_8 I16f_02=penspriv_8 I16f_03=penssave_8 I16f_04=pensnonab_8 I16f_05=pensnotknow_8 I17a=irritate_8
+I17b=getajob_8 I17c=disparag_8 I17d=keepaway_8 I17e=skilful_8 I17f=lazy_8 I17g=ignored_8 I17h=advise_8 I17i=interest_8
+I17j=help_8 I17k=comfort_8 I18aa=partimed_8 I18ab=partiwork_8 I18ac=partiedu_8 I18ba=meaning_8 I18bb=pointles_8
+I19a=autosupp_8 I19b=autoinsu_8 I19c=autodema_8 I19d=autohelp_8 I19e=autowast_8 I19f=autoforc_8 I1a=quitwoyr_8 I1b=quitwomo_8
+I21a=takecar_8 I21b=burden_8 I22a=carsick_8 I22b=sickburd_8 I23a=unpayhr_8 I23b=unpaybur_8 I24a=payhr_8 I24b=nopaywrk_8
+I25_01=permanent_8 I25_02=project_8 I25_03=substitute_8 I25_04=hourly_8 I25_05=selfemp_8 I25_06=farmer_8 I25_07=otheremp_8
+I25_txt=empltxt_8 I26a=selfprov_8 I26b=orderflow_8 I27a=y2newjob_8 I27b=y2newempl_8 I27c=y2newposi_8 I27d=y2newgro_8
+I27e=y2newman_8 I27f=y2newowr_8 I27g=y2reorg_8 I33_01=satiswork_8 I36a=easysick_8 I36b=ashealth_8 I36c=worsheal_8
+I36d=goodheal_8 I37_1=bedhwork_8 I37_2=bedmwork_8 I37_3=bedhfree_8 I37_4=bedmfree_8 I37_5=bedwork_8 I37_6=bedfree_8
+I38_1=uphwork_8 I38_2=upmwork_8 I38_3=uphfree_8 I38_4=upmfree_8 I38_5=upwork_8 I38_6=upfree_8 I39a=enouslee_8 I39b=restdays_8
+I3_txt=empfarseltxt_8 I40a=fallsee_8 I40b=awakenin_8 I40c=numawake_8 I40d=refreshe_8 I40e=earlawak_8 I40f=calmslee_8
+I40g=longtire_8 I40h=psytire_8 I40i=phytire_8 I40j=badfunc_8 I41a=sleeprob_8 I41b=slepanic_8 I41c=sleworry_8 I41d=slelong_8
+I41e=tiredpro_8 I42a=nap_8 I42b_1=naphr_8 I42b_2=napmin_8 I43a=probslee_8 I43b=probtire_8 I43c=probpain_8 I44a=tinnitus_8
+I44b=tiniprob_8 I45a=huvudont_8 I45b=neckpain_8 I45c=backpain_8 I45d=othepain_8 I45e=stroke_8 I45f=infect_8 I45g=gastrit_8
+I45h=lipids_8 I45i=anxiety_8 I45j=pms_8 I45k=menopaus_8 I46a=highbp_8 I46b=heartdis_8 I46c=angina_8 I46d=diabetes_8
+I46e=rheuma_8 I46f=muscl_8 I46g=handicap_8 I46h=psycho_8 I46i=migraine_8 I46j=asthma_8 I46k=copd_8 I46l=allergy_8
+I46m=struma_8 I46n=liver_8 I46o=cancer_8 I46p=othersick_8 I46q=painlong_8 I46r_01=painrheum_8 I46r_02=painmigraine_8
+I46r_03=painibs_8 I46r_04=painfibro_8 I46r_05=painneuro_8 I46r_06=painothe_8 I4a=school_8 I4b=schoolyr_8 I50a=capacphy_8
+I50b=capacpsy_8 I51a=timedown_8 I51b=doneless_8 I51c=doneno_8 I51d=actidiffi_8 I52a=emotime_8 I52b=emoless_8 I52c=emorough_8
+I53a=nocontact_8 I53b=nocont_8 I54a=w4pain_8 I54b=painprob_8 I55a=upphill_8 I55b=notsohard_8 I55c=liftbag_8 I55d=manystairs_8
+I55e=onestair_8 I55f=knee_8 I55g=go2km_8 I55h=some100_8 I55i=go100m_8 I55j=takebath_8 I55k=openlock_8 I56a=w4strong_8 
+I56b=w4nervous_8 I56c=w4dep_8 I56d=w4calm_8 I56e=w4energy_8 I56f=w4sad_8 I56g=w4burnout_8 I56h=w4happy_8 I56i=w4tired_8
+I57a=winterdep_8 I57b=depprob_8 I61a=lackener_8 I61b=depress_8 I61c=selfblam_8 I61d=worry_8 I61e=lackinte_8 I61f=strenuos_8
+I62a=m3concen_8 I62b=m3decisi_8 I62c=m3memory_8 I62d=m3think_8 I63a=LLstressa_8 I63b=LLstressb_8 I63c=LLstressc_8
+I63d=LLstressg_8 I63e=LLstressh_8 I63f=stressi_8 I63g=LLstressj_8 I63h=LLstressk_8 I66a=cogn1_8 I66b=cogn2_8 I66c=cogn3_8
+I66d=cogn4_8 I66e=cogn5_8 I66f=cogn6_8 I67a=feeltired_8 I67b=feelawak_8 I67c=drained_8 I67d=enough_8 I67e=empty_8
+I67f=burned_8 I67g=tiredment_8 I67h=tiredmor_8 I68a=anxnerv_8 I68b=anxafraid_8 I68c=anxcont_8 I68d=anxavoid_8 I68e=anxrep_8
+I68f=anxpanic_8 I68g=anxeat_8 I69a=ursincopa_8 I69b=ursincopb_8 I69c=ursincopc_8 I69d=ursincopd_8 I69e=ursincope_8
+I69f=ursincopf_8 I69g=ursincopg_8 I75a=sitting_8 I75b=move_8 I76a=infoexer_8 I76b=infofood_8 I77a=married_8 I77b=doublearn_8
+I78a=ch0t05_8 I78b=ch6to12_8 I78c=ch13to19_8 I78d=ch20olde_8 I79a=support_8 I79b=lonely_8 I7a_txt=othertxt_8 I7aa=employed_8
+I7ab=selfempl_8 I7ac=parental_8 I7ad=unempl_8 I7ae=sickbene_8 I7af=sickacti_8 I7ag=agepens_8 I7ah=othepens_8
+I7ai=studying_8 I7aj=carehome_8 I7ak=other_8 I7b=mainoccu_8 I80a=bettereco_8 I80b=worseeco_8 I80c=ecocrisis_8 
+I82a=sickfam_8 I82b=deathfam_8 I82c=deathfrie_8 I82d=divorce_8 I83a=climstress_8 I83b=slimajust_8 I84a=smoke_8
+I84b=smokecig_8 I86a=cage1_8 I86b=cage2_8 I86c=cage3_8 I86d=cage4_8 I87a=futugood_8 I87b=nocontrl_8 I87c=planfutu_8
+I87d=nobelong_8 I87e=dothings_8 I87f=famobstc_8 I87g=dosatis_8 I87h=monobstc_8 I87i=lifemean_8 I87j=enjoydo_8
+I87k=lookforw_8 I87l=company_8 I87m=energy_8 I87n=lifesati_8 I87o=lifeposs_8 I87p=newdo_8 I87q=hppiness_8 I87r=ageobstc_8
+I87s=htobstc_8 I8a=workfast_8 I8b=workhard_8 I8c=workeffo_8 I8d=worktime_8 I8e=workcntr_8 I8f=workskil_8 I8g=workinge_8
+I8h=worklear_8 I8i=workrepe_8 I8j=workhow_8 I8k=workwhat_8 I90_txt=commenttxt_8 I92_txt=webdemtxt_8 I94_txt=webcomment_8
+I95_01=anstext_8 I95_02=ansdator_8 I95_03=anspadda_8 I95_04=ansmobil_8 I95_txt=ansannattxt_8 I9a=quitbett_8 I9b=quitfami_8
+I9c=quitown_8 I9d=quitrelx_8 I9e=quitstres_8 I9f=quitcon_8 I9g=quitlife_8 I9h=quitfrie_8 I9i=quitwors_8 I9j=moreexer_8
+I9k=lessexer_8 I9l=sleepbett_8 I9m=oftennap_8 I9n=moarealc_8 I9o=happier_8 I9p=unrig_8 S1=S1_8 S2=S2_8 S3=S3_8 Yrke = yrke_8 Yrke_1=yrketxt_8 Yrke_2=yrke3_8
+

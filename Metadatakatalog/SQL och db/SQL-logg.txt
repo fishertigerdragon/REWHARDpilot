@@ -14714,3 +14714,25 @@ INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'IT
  
 INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('unpayhr_7', 'SLOSH 18 working', '', '', '98_a', 'Hur många timmar ägnar du en genomsnittlig vecka åt frivilligt (obetalt) arbete t.ex. åt en förening, hjälporganisation, religiös sammanslutning eller ett politiskt parti? Om det inte är aktuellt, vänligen fyll i 0 timmar/vecka.', '166');
  
+INSERT INTO Kodlistor (kodlista) VALUES (NULL);
+ 
+INSERT INTO Enkättexter (enkättext) VALUES ('Hur är din inkomst nu jämfört med din inkomst året före du slutade arbeta 30% eller mer?');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('515', '1', 'Mycket högre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('515', '2', 'Högre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('515', '3', 'Oförändrad');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('515', '4', 'Lägre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('515', '5', 'Mycket lägre');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('515', '>11', 'slask');
+ 
+INSERT INTO Kodlistor_stor ('KODLISTA', 'KOD', 'SVARSTEXT') VALUES ('515', '.', 'Missing');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('incnow_7', 'SLOSH 18 non-working', '', '', '19', 'Hur är din inkomst nu jämfört med din inkomst året före du slutade arbeta 30% eller mer?', '515');
+ 
+INSERT INTO Variabler ('VARIABEL', 'enkät', 'BESKRIVNING', 'DUBBELKODNING', 'ITEMNR', 'enkättext', 'KODLISTA') VALUES ('unpaybur_7', 'SLOSH 18 non-working', '', '', '22_b', 'Om du arbetar frivilligt, upplever du det som en belastning?', '471');
+ 
